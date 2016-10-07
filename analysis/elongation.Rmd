@@ -13,7 +13,7 @@ output:
 # Set working directory 
 
 machine <- 'ajpelu'
-#machine <- 'ajpeluLap'
+machine <- 'ajpeluLap'
 di <- paste('/Users/', machine, '/Dropbox/phd/phd_repos/qpyr_phenology', sep='')
 ```
 
@@ -22,22 +22,39 @@ di <- paste('/Users/', machine, '/Dropbox/phd/phd_repos/qpyr_phenology', sep='')
 library("dplyr")
 library("lubridate")
 library("stringr")
+library("ggplot2")
+
 
 library("reshape2")
-library("ggplot2")
+
 ```
 
 # Read and prepare data
 
 ```{r}
-raw_elong <- read.csv(file=paste(di, "/data_raw/elongacion.txt", sep= ""), header = TRUE, sep = ';')
+raw_elong <- read.table(file=paste(di, "/data_raw/elongacion.txt", sep= ""), header = TRUE, sep = ';', 
+                      encoding = 'UTF-8')
 
 elong <- raw_elong %>% 
+  mutate(cota = substr(PARCELA, 1,2), 
+         replica = substr(PARCELA, 3,4)) %>% 
+  mutate(date = lubridate::date(as.Date(FECHA, format='%d/%m/%Y')), 
+         year = lubridate::year(date)) %>%
+  filter(ELONGACION == 'Elong 1') %>% 
+  select(loc = LOCALIDAD, 
+        id_ind = COD_EJEMPLAR,
+        rama = RAMA, 
+        elongacion = LONG_ELONG, 
+        cota, replica, date, year)
   
 
+# Summary n 
+n <- elong %>% 
+  group_by(loc, cota, year) %>% 
+  summarise(mean=mean(elongacion)) 
 
+ggplot(n, aes(x=year, y=mean)) + geom_bar(stat='identity', position='dodge') + facet_grid(loc~cota, scales = 'free')
 
-str_split_fixed('CSR1', 'R', 2)
 
 
 

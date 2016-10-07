@@ -1,0 +1,3325 @@
+LOCALIDAD;PARCELA;FECHA;COD_EJEMPLAR;RAMA;ELONGACION;LONG_ELONG
+Camarate;CSR1;21/9/2011 0:00:00;6;R3;Elong 1;4.00
+Camarate;CIR1;21/9/2011 0:00:00;9;R2;Elong 1;3.00
+Camarate;CIR1;21/9/2011 0:00:00;9;R1;Elong 1;0.50
+Camarate;CIR1;21/9/2011 0:00:00;8;R3;Elong 1;21.00
+Camarate;CIR1;21/9/2011 0:00:00;8;R2;Elong 1;8.00
+Camarate;CSR1;21/9/2011 0:00:00;10;R3;Elong 1;16.00
+Camarate;CSR1;21/9/2011 0:00:00;10;R2;Elong 1;2.00
+Camarate;CSR1;21/9/2011 0:00:00;10;R1;Elong 1;10.00
+Camarate;CSR1;21/9/2011 0:00:00;9;R3;Elong 1;9.00
+Camarate;CSR1;21/9/2011 0:00:00;9;R2;Elong 1;13.00
+Camarate;CSR1;21/9/2011 0:00:00;9;R1;Elong 1;10.00
+Camarate;CSR1;21/9/2011 0:00:00;8;R3;Elong 1;4.00
+Camarate;CSR1;21/9/2011 0:00:00;8;R1;Elong 1;2.00
+Camarate;CIR1;21/9/2011 0:00:00;7;R3;Elong 1;14.00
+Camarate;CSR1;21/9/2011 0:00:00;7;R1;Elong 1;4.00
+Camarate;CIR1;21/9/2011 0:00:00;10;R2;Elong 1;6.00
+Camarate;CSR1;21/9/2011 0:00:00;6;R2;Elong 1;5.00
+Camarate;CSR1;21/9/2011 0:00:00;6;R1;Elong 1;14.00
+Camarate;CSR1;21/9/2011 0:00:00;5;R3;Elong 1;15.00
+Camarate;CSR1;21/9/2011 0:00:00;5;R1;Elong 1;15.00
+Camarate;CSR1;21/9/2011 0:00:00;4;R2;Elong 1;4.00
+Camarate;CSR1;21/9/2011 0:00:00;4;R1;Elong 1;7.00
+Camarate;CSR1;21/9/2011 0:00:00;3;R3;Elong 1;4.00
+Camarate;CSR1;21/9/2011 0:00:00;3;R2;Elong 1;5.00
+Camarate;CSR1;21/9/2011 0:00:00;2;R3;Elong 1;21.00
+Camarate;CSR1;21/9/2011 0:00:00;2;R2;Elong 1;6.00
+Camarate;CSR1;21/9/2011 0:00:00;2;R1;Elong 1;18.00
+Camarate;CSR1;21/9/2011 0:00:00;1;R3;Elong 1;5.00
+Camarate;CIR1;21/9/2011 0:00:00;8;R1;Elong 1;
+Camarate;CSR1;21/9/2011 0:00:00;7;R2;Elong 1;9.00
+Camarate;CIR2;21/9/2011 0:00:00;6;R1;Elong 1;13.00
+Camarate;CIR2;21/9/2011 0:00:00;6;R3;Elong 1;18.00
+Camarate;CIR2;21/9/2011 0:00:00;1;R1;Elong 1;6.00
+Camarate;CIR2;21/9/2011 0:00:00;1;R3;Elong 1;12.00
+Camarate;CIR2;21/9/2011 0:00:00;2;R1;Elong 1;8.00
+Camarate;CIR2;21/9/2011 0:00:00;2;R2;Elong 1;2.00
+Camarate;CIR2;21/9/2011 0:00:00;2;R3;Elong 1;3.00
+Camarate;CIR2;21/9/2011 0:00:00;3;R1;Elong 1;
+Camarate;CIR2;21/9/2011 0:00:00;3;R2;Elong 1;5.00
+Camarate;CIR2;21/9/2011 0:00:00;3;R3;Elong 1;2.00
+Camarate;CIR2;21/9/2011 0:00:00;4;R1;Elong 1;2.00
+Camarate;CIR2;21/9/2011 0:00:00;4;R2;Elong 1;4.00
+Camarate;CIR2;21/9/2011 0:00:00;4;R3;Elong 1;2.00
+Camarate;CIR2;21/9/2011 0:00:00;5;R1;Elong 1;8.00
+Camarate;CIR1;21/9/2011 0:00:00;9;R3;Elong 1;13.00
+Camarate;CIR2;21/9/2011 0:00:00;8;R2;Elong 1;3.00
+Camarate;CSR1;21/9/2011 0:00:00;4;R3;Elong 1;2.00
+Camarate;CIR1;21/9/2011 0:00:00;10;R3;Elong 1;4.00
+Camarate;CIR2;21/9/2011 0:00:00;9;R3;Elong 1;6.00
+Camarate;CIR2;21/9/2011 0:00:00;9;R2;Elong 1;2.00
+Camarate;CIR2;21/9/2011 0:00:00;9;R1;Elong 1;1.00
+Camarate;CIR2;21/9/2011 0:00:00;5;R2;Elong 1;19.00
+Camarate;CIR2;21/9/2011 0:00:00;10;R1;Elong 1;6.00
+Camarate;CIR2;21/9/2011 0:00:00;5;R3;Elong 1;3.00
+Camarate;CIR2;21/9/2011 0:00:00;8;R1;Elong 1;2.00
+Camarate;CIR2;21/9/2011 0:00:00;7;R3;Elong 1;5.00
+Camarate;CIR2;21/9/2011 0:00:00;7;R2;Elong 1;2.00
+Camarate;CIR2;21/9/2011 0:00:00;7;R1;Elong 1;9.00
+Camarate;CIR2;21/9/2011 0:00:00;6;R2;Elong 1;20.00
+Camarate;CIR1;21/9/2011 0:00:00;10;R1;Elong 1;9.00
+Camarate;CIR2;21/9/2011 0:00:00;8;R3;Elong 1;3.00
+Camarate;CSR2;21/9/2011 0:00:00;5;R2;Elong 1;4.00
+Camarate;CSR2;21/9/2011 0:00:00;10;R3;Elong 1;4.00
+Camarate;CSR2;21/9/2011 0:00:00;10;R2;Elong 1;4.00
+Camarate;CSR2;21/9/2011 0:00:00;10;R1;Elong 1;5.00
+Camarate;CSR2;21/9/2011 0:00:00;9;R3;Elong 1;6.00
+Camarate;CSR2;21/9/2011 0:00:00;9;R2;Elong 1;13.00
+Camarate;CIR1;21/9/2011 0:00:00;7;R2;Elong 1;9.00
+Camarate;CSR2;21/9/2011 0:00:00;8;R3;Elong 1;18.00
+Camarate;CSR1;21/9/2011 0:00:00;5;R2;Elong 1;6.00
+Camarate;CSR2;21/9/2011 0:00:00;8;R1;Elong 1;8.00
+Camarate;CSR2;21/9/2011 0:00:00;7;R2;Elong 1;29.00
+Camarate;CSR2;21/9/2011 0:00:00;7;R1;Elong 1;16.00
+Camarate;CSR2;21/9/2011 0:00:00;6;R3;Elong 1;5.00
+Camarate;CSR2;21/9/2011 0:00:00;6;R2;Elong 1;7.00
+Camarate;CIR2;21/9/2011 0:00:00;10;R2;Elong 1;4.00
+Camarate;CSR2;21/9/2011 0:00:00;3;R2;Elong 1;13.00
+Camarate;CSR2;21/9/2011 0:00:00;7;R3;Elong 3;14.00
+Camarate;CSR2;21/9/2011 0:00:00;1;R1;Elong 1;13.00
+Camarate;CSR2;21/9/2011 0:00:00;1;R2;Elong 1;13.00
+Camarate;CSR2;21/9/2011 0:00:00;1;R3;Elong 1;16.00
+Camarate;CSR2;21/9/2011 0:00:00;2;R1;Elong 1;11.00
+Camarate;CSR2;21/9/2011 0:00:00;6;R1;Elong 1;9.00
+Camarate;CSR2;21/9/2011 0:00:00;3;R1;Elong 1;5.00
+Camarate;CSR2;21/9/2011 0:00:00;5;R3;Elong 1;4.00
+Camarate;CSR2;21/9/2011 0:00:00;3;R3;Elong 1;3.00
+Camarate;CSR2;21/9/2011 0:00:00;4;R1;Elong 1;21.00
+Camarate;CSR2;21/9/2011 0:00:00;4;R2;Elong 1;2.00
+Camarate;CSR2;21/9/2011 0:00:00;4;R3;Elong 1;10.00
+Camarate;CSR2;21/9/2011 0:00:00;5;R1;Elong 1;13.00
+Camarate;CSR2;21/9/2011 0:00:00;9;R1;Elong 1;10.00
+Camarate;CSR2;21/9/2011 0:00:00;2;R2;Elong 1;25.00
+Camarate;CSR2;21/9/2011 0:00:00;8;R2;Elong 1;27.00
+Camarate;CIR1;21/9/2011 0:00:00;2;R3;Elong 1;8.00
+Camarate;CIR1;21/9/2011 0:00:00;3;R1;Elong 1;5.00
+Camarate;CIR1;21/9/2011 0:00:00;3;R2;Elong 1;2.00
+Camarate;CIR1;21/9/2011 0:00:00;3;R3;Elong 1;4.00
+Camarate;CIR1;21/9/2011 0:00:00;4;R1;Elong 1;4.00
+Camarate;CIR1;21/9/2011 0:00:00;2;R2;Elong 1;14.00
+Camarate;CIR1;21/9/2011 0:00:00;4;R3;Elong 1;1.00
+Camarate;CIR1;21/9/2011 0:00:00;4;R2;Elong 1;1.00
+Camarate;CIR1;21/9/2011 0:00:00;5;R2;Elong 1;3.00
+Camarate;CIR1;21/9/2011 0:00:00;5;R3;Elong 1;6.00
+Camarate;CIR1;21/9/2011 0:00:00;6;R1;Elong 1;5.00
+Camarate;CIR1;21/9/2011 0:00:00;6;R2;Elong 1;7.00
+Camarate;CIR1;21/9/2011 0:00:00;6;R3;Elong 1;5.00
+Camarate;CIR1;21/9/2011 0:00:00;7;R1;Elong 1;3.00
+Camarate;CIR2;21/9/2011 0:00:00;10;R3;Elong 1;8.00
+Camarate;CIR1;21/9/2011 0:00:00;1;R3;Elong 1;8.00
+Camarate;CIR1;21/9/2011 0:00:00;1;R2;Elong 1;26.00
+Camarate;CIR1;21/9/2011 0:00:00;1;R1;Elong 1;31.00
+Camarate;CIR2;21/9/2011 0:00:00;1;R2;Elong 2;15.00
+Camarate;CIR1;21/9/2011 0:00:00;5;R1;Elong 1;7.00
+Camarate;CIR1;21/9/2011 0:00:00;2;R1;Elong 1;2.00
+Camarate;CIR2;4/9/2012 0:00:00;9;R1;Elong 1;5.00
+Camarate;CIR2;4/9/2012 0:00:00;6;R2;Elong 1;6.00
+Camarate;CIR2;4/9/2012 0:00:00;6;R3;Elong 1;9.50
+Camarate;CIR2;4/9/2012 0:00:00;7;R1;Elong 1;17.00
+Camarate;CIR2;4/9/2012 0:00:00;7;R2;Elong 1;2.00
+Camarate;CIR2;4/9/2012 0:00:00;7;R3;Elong 1;1.50
+Camarate;CIR2;4/9/2012 0:00:00;8;R1;Elong 1;5.50
+Camarate;CIR2;4/9/2012 0:00:00;6;R1;Elong 1;12.50
+Camarate;CIR2;4/9/2012 0:00:00;8;R3;Elong 1;5.50
+Camarate;CIR2;4/9/2012 0:00:00;1;R1;Elong 1;7.00
+Camarate;CIR2;4/9/2012 0:00:00;9;R2;Elong 1;4.50
+Camarate;CIR2;4/9/2012 0:00:00;9;R3;Elong 1;7.50
+Camarate;CIR2;4/9/2012 0:00:00;10;R1;Elong 1;14.50
+Camarate;CIR2;4/9/2012 0:00:00;10;R2;Elong 1;4.50
+Camarate;CIR2;4/9/2012 0:00:00;8;R2;Elong 1;4.00
+Camarate;CIR2;4/9/2012 0:00:00;4;R2;Elong 1;3.00
+Camarate;CIR2;4/9/2012 0:00:00;3;R2;Elong 1;19.00
+Camarate;CIR2;4/9/2012 0:00:00;10;R3;Elong 1;6.00
+Camarate;CIR2;4/9/2012 0:00:00;3;R1;Elong 1;10.00
+Camarate;CIR1;4/9/2012 0:00:00;2;R3;Elong 1;8.50
+Camarate;CIR2;4/9/2012 0:00:00;2;R3;Elong 1;6.00
+Camarate;CIR2;4/9/2012 0:00:00;5;R1;Elong 1;5.50
+Camarate;CIR2;4/9/2012 0:00:00;2;R1;Elong 1;7.00
+Camarate;CIR2;4/9/2012 0:00:00;5;R3;Elong 1;2.00
+Camarate;CIR2;4/9/2012 0:00:00;4;R1;Elong 1;4.50
+Camarate;CIR2;4/9/2012 0:00:00;3;R3;Elong 1;4.50
+Camarate;CIR2;4/9/2012 0:00:00;1;R3;Elong 1;2.50
+Camarate;CIR2;4/9/2012 0:00:00;1;R2;Elong 1;3.00
+Camarate;CIR2;4/9/2012 0:00:00;4;R3;Elong 1;6.00
+Camarate;CIR2;4/9/2012 0:00:00;5;R2;Elong 1;10.00
+Camarate;CIR2;4/9/2012 0:00:00;2;R2;Elong 1;3.50
+Camarate;CIR1;4/9/2012 0:00:00;1;R3;Elong 1;3.00
+Camarate;CIR1;4/9/2012 0:00:00;6;R3;Elong 1;4.20
+Camarate;CIR1;4/9/2012 0:00:00;6;R2;Elong 1;5.00
+Camarate;CIR1;4/9/2012 0:00:00;6;R1;Elong 1;6.00
+Camarate;CIR1;4/9/2012 0:00:00;5;R3;Elong 1;11.00
+Camarate;CIR1;4/9/2012 0:00:00;5;R2;Elong 1;5.00
+Camarate;CIR1;4/9/2012 0:00:00;5;R1;Elong 1;12.50
+Camarate;CIR1;4/9/2012 0:00:00;4;R3;Elong 1;10.00
+Camarate;CIR1;4/9/2012 0:00:00;4;R2;Elong 1;12.50
+Camarate;CIR1;4/9/2012 0:00:00;4;R1;Elong 1;13.00
+Camarate;CIR1;4/9/2012 0:00:00;3;R3;Elong 1;17.00
+Camarate;CIR1;4/9/2012 0:00:00;3;R1;Elong 1;7.00
+Camarate;CSR2;4/9/2012 0:00:00;10;R2;Elong 1;11.50
+Camarate;CIR1;4/9/2012 0:00:00;3;R2;Elong 1;6.50
+Camarate;CIR1;4/9/2012 0:00:00;2;R1;Elong 1;
+Camarate;CIR1;4/9/2012 0:00:00;7;R3;Elong 1;8.50
+Camarate;CIR1;4/9/2012 0:00:00;1;R2;Elong 1;2.50
+Camarate;CIR1;4/9/2012 0:00:00;1;R1;Elong 1;10.00
+Camarate;CSR1;4/9/2012 0:00:00;1;R1;Elong 1;4.50
+Camarate;CSR2;4/9/2012 0:00:00;3;R3;Elong 1;17.50
+Camarate;CSR2;4/9/2012 0:00:00;3;R2;Elong 1;10.00
+Camarate;CSR2;4/9/2012 0:00:00;3;R1;Elong 1;10.00
+Camarate;CSR2;4/9/2012 0:00:00;2;R3;Elong 1;9.00
+Camarate;CSR2;4/9/2012 0:00:00;2;R2;Elong 1;18.00
+Camarate;CSR2;4/9/2012 0:00:00;2;R1;Elong 1;11.50
+Camarate;CSR2;4/9/2012 0:00:00;1;R3;Elong 1;10.00
+Camarate;CSR2;4/9/2012 0:00:00;1;R2;Elong 1;6.00
+Camarate;CSR2;4/9/2012 0:00:00;1;R1;Elong 1;11.00
+Camarate;CIR1;4/9/2012 0:00:00;2;R2;Elong 1;2.50
+Camarate;CSR2;4/9/2012 0:00:00;5;R1;Elong 1;5.50
+Camarate;CSR2;4/9/2012 0:00:00;10;R1;Elong 1;
+Camarate;CSR2;4/9/2012 0:00:00;9;R2;Elong 1;22.50
+Camarate;CSR2;4/9/2012 0:00:00;9;R1;Elong 1;13.00
+Camarate;CSR2;4/9/2012 0:00:00;8;R3;Elong 1;3.50
+Camarate;CSR2;4/9/2012 0:00:00;8;R2;Elong 1;15.00
+Camarate;CSR2;4/9/2012 0:00:00;8;R1;Elong 1;4.20
+Camarate;CSR2;4/9/2012 0:00:00;7;R3;Elong 1;9.20
+Camarate;CSR2;4/9/2012 0:00:00;7;R2;Elong 1;6.50
+Camarate;CSR2;4/9/2012 0:00:00;7;R1;Elong 1;4.20
+Camarate;CSR2;4/9/2012 0:00:00;6;R3;Elong 1;2.50
+Camarate;CSR2;4/9/2012 0:00:00;6;R2;Elong 1;4.50
+Camarate;CSR2;4/9/2012 0:00:00;6;R1;Elong 1;11.00
+Camarate;CIR1;4/9/2012 0:00:00;7;R1;Elong 1;3.00
+Camarate;CSR2;4/9/2012 0:00:00;5;R2;Elong 1;6.50
+Camarate;CIR1;4/9/2012 0:00:00;7;R2;Elong 1;11.50
+Camarate;CSR2;4/9/2012 0:00:00;4;R3;Elong 1;7.00
+Camarate;CSR2;4/9/2012 0:00:00;4;R2;Elong 1;10.00
+Camarate;CSR2;4/9/2012 0:00:00;4;R1;Elong 1;25.50
+Camarate;CIR1;4/9/2012 0:00:00;10;R3;Elong 1;5.00
+Camarate;CIR1;4/9/2012 0:00:00;10;R2;Elong 1;2.50
+Camarate;CIR1;4/9/2012 0:00:00;10;R1;Elong 1;3.50
+Camarate;CIR1;4/9/2012 0:00:00;9;R3;Elong 1;12.00
+Camarate;CIR1;4/9/2012 0:00:00;9;R2;Elong 1;4.50
+Camarate;CIR1;4/9/2012 0:00:00;9;R1;Elong 1;12.50
+Camarate;CIR1;4/9/2012 0:00:00;8;R3;Elong 1;5.50
+Camarate;CIR1;4/9/2012 0:00:00;8;R2;Elong 1;2.50
+Camarate;CIR1;4/9/2012 0:00:00;8;R1;Elong 1;9.00
+Camarate;CSR2;4/9/2012 0:00:00;10;R3;Elong 1;4.00
+Camarate;CSR2;4/9/2012 0:00:00;5;R3;Elong 1;3.50
+Camarate;CSR1;4/9/2012 0:00:00;8;R1;Elong 1;4.50
+Camarate;CSR2;4/9/2012 0:00:00;9;R3;Elong 1;9.00
+Camarate;CSR1;4/9/2012 0:00:00;10;R3;Elong 1;6.00
+Camarate;CSR1;4/9/2012 0:00:00;10;R2;Elong 1;8.00
+Camarate;CSR1;4/9/2012 0:00:00;10;R1;Elong 1;11.50
+Camarate;CSR1;4/9/2012 0:00:00;9;R3;Elong 1;9.00
+Camarate;CSR1;4/9/2012 0:00:00;9;R2;Elong 1;11.00
+Camarate;CSR1;4/9/2012 0:00:00;9;R1;Elong 1;3.00
+Camarate;CSR1;4/9/2012 0:00:00;8;R2;Elong 1;4.00
+Camarate;CSR1;4/9/2012 0:00:00;7;R3;Elong 1;2.00
+Camarate;CSR1;4/9/2012 0:00:00;7;R2;Elong 1;4.50
+Camarate;CSR1;4/9/2012 0:00:00;7;R1;Elong 1;4.00
+Camarate;CSR1;4/9/2012 0:00:00;6;R3;Elong 1;4.50
+Camarate;CSR1;4/9/2012 0:00:00;6;R2;Elong 1;9.00
+Camarate;CSR1;4/9/2012 0:00:00;6;R1;Elong 1;9.00
+Camarate;CSR1;4/9/2012 0:00:00;3;R2;Elong 1;5.00
+Camarate;CSR1;4/9/2012 0:00:00;1;R2;Elong 1;15.50
+Camarate;CSR1;4/9/2012 0:00:00;8;R3;Elong 1;9.00
+Camarate;CSR1;4/9/2012 0:00:00;5;R3;Elong 1;3.50
+Camarate;CSR1;4/9/2012 0:00:00;2;R1;Elong 1;15.00
+Camarate;CSR1;4/9/2012 0:00:00;2;R2;Elong 1;14.00
+Camarate;CSR1;4/9/2012 0:00:00;3;R1;Elong 1;8.00
+Camarate;CSR1;4/9/2012 0:00:00;1;R3;Elong 1;18.00
+Camarate;CSR1;4/9/2012 0:00:00;3;R3;Elong 1;14.00
+Camarate;CSR1;4/9/2012 0:00:00;4;R1;Elong 1;8.50
+Camarate;CSR1;4/9/2012 0:00:00;4;R2;Elong 1;5.00
+Camarate;CSR1;4/9/2012 0:00:00;4;R3;Elong 1;2.50
+Camarate;CSR1;4/9/2012 0:00:00;5;R1;Elong 1;15.50
+Camarate;CSR1;4/9/2012 0:00:00;5;R2;Elong 1;4.50
+Camarate;CSR1;4/9/2012 0:00:00;2;R3;Elong 1;13.00
+Camarate;CIR1;2/8/2013 0:00:00;3;R1;Elong 1;0.50
+Camarate;CIR1;2/8/2013 0:00:00;2;R3;Elong 1;4.60
+Camarate;CIR1;2/8/2013 0:00:00;4;R2;Elong 1;1.50
+Camarate;CIR1;2/8/2013 0:00:00;2;R2;Elong 1;2.40
+Camarate;CIR1;2/8/2013 0:00:00;3;R2;Elong 1;4.60
+Camarate;CIR1;2/8/2013 0:00:00;3;R3;Elong 1;1.40
+Camarate;CIR1;2/8/2013 0:00:00;4;R1;Elong 1;2.50
+Camarate;CIR1;2/8/2013 0:00:00;4;R3;Elong 1;1.50
+Camarate;CIR1;2/8/2013 0:00:00;5;R1;Elong 1;3.30
+Camarate;CIR1;2/8/2013 0:00:00;5;R2;Elong 1;5.50
+Camarate;CIR2;2/8/2013 0:00:00;10;R2;Elong 1;2.00
+Camarate;CIR2;2/8/2013 0:00:00;10;R2;Elong 1;0.30
+Camarate;CIR2;2/8/2013 0:00:00;9;R2;Elong 1;3.70
+Camarate;CIR1;2/8/2013 0:00:00;2;R1;Elong 1;6.80
+Camarate;CIR1;2/8/2013 0:00:00;6;R1;Elong 1;2.10
+Camarate;CIR2;2/8/2013 0:00:00;9;R1;Elong 1;6.30
+Camarate;CIR2;2/8/2013 0:00:00;9;R3;Elong 1;4.70
+Camarate;CIR1;2/8/2013 0:00:00;8;R2;Elong 1;17.00
+Camarate;CIR1;2/8/2013 0:00:00;5;R3;Elong 1;1.10
+Camarate;CIR1;2/8/2013 0:00:00;9;R3;Elong 1;4.50
+Camarate;CIR1;2/8/2013 0:00:00;6;R2;Elong 1;2.30
+Camarate;CIR2;2/8/2013 0:00:00;8;R3;Elong 1;3.30
+Camarate;CIR1;2/8/2013 0:00:00;7;R1;Elong 1;2.60
+Camarate;CIR1;2/8/2013 0:00:00;7;R2;Elong 1;10.10
+Camarate;CIR1;2/8/2013 0:00:00;6;R3;Elong 1;1.70
+Camarate;CIR1;2/8/2013 0:00:00;8;R1;Elong 1;5.90
+Camarate;CIR1;2/8/2013 0:00:00;1;R3;Elong 1;2.50
+Camarate;CIR1;2/8/2013 0:00:00;8;R3;Elong 1;10.60
+Camarate;CIR1;2/8/2013 0:00:00;9;R2;Elong 1;1.90
+Camarate;CIR1;2/8/2013 0:00:00;10;R1;Elong 1;7.00
+Camarate;CIR1;2/8/2013 0:00:00;10;R2;Elong 1;1.60
+Camarate;CIR1;2/8/2013 0:00:00;10;R3;Elong 1;5.50
+Camarate;CIR1;2/8/2013 0:00:00;1;R1;Elong 1;2.60
+Camarate;CIR1;2/8/2013 0:00:00;1;R2;Elong 1;2.30
+Camarate;CIR1;2/8/2013 0:00:00;7;R3;Elong 1;1.70
+Camarate;CIR2;2/8/2013 0:00:00;3;R1;Elong 1;19.10
+Camarate;CIR2;2/8/2013 0:00:00;6;R1;Elong 1;3.20
+Camarate;CIR2;2/8/2013 0:00:00;1;R2;Elong 1;2.20
+Camarate;CIR2;2/8/2013 0:00:00;1;R1;Elong 1;12.70
+Camarate;CIR2;2/8/2013 0:00:00;10;R3;Elong 1;5.60
+Camarate;CIR2;2/8/2013 0:00:00;1;R3;Elong 1;3.10
+Camarate;CIR2;2/8/2013 0:00:00;2;R1;Elong 1;4.50
+Camarate;CIR2;2/8/2013 0:00:00;2;R3;Elong 1;5.00
+Camarate;CIR2;2/8/2013 0:00:00;3;R2;Elong 1;11.70
+Camarate;CIR2;2/8/2013 0:00:00;3;R3;Elong 1;9.70
+Camarate;CIR2;2/8/2013 0:00:00;4;R1;Elong 1;1.40
+Camarate;CIR2;2/8/2013 0:00:00;4;R2;Elong 1;3.10
+Camarate;CIR2;2/8/2013 0:00:00;7;R1;Elong 1;6.50
+Camarate;CIR2;2/8/2013 0:00:00;8;R1;Elong 1;4.70
+Camarate;CIR2;2/8/2013 0:00:00;2;R2;Elong 1;2.30
+Camarate;CIR2;2/8/2013 0:00:00;7;R2;Elong 1;3.50
+Camarate;CIR2;2/8/2013 0:00:00;4;R3;Elong 1;1.30
+Camarate;CIR2;2/8/2013 0:00:00;6;R3;Elong 1;8.30
+Camarate;CIR2;2/8/2013 0:00:00;6;R2;Elong 1;9.10
+Camarate;CIR2;2/8/2013 0:00:00;8;R2;Elong 1;0.80
+Camarate;CIR1;2/8/2013 0:00:00;9;R1;Elong 1;5.60
+Camarate;CIR2;2/8/2013 0:00:00;5;R3;Elong 1;2.80
+Camarate;CIR2;2/8/2013 0:00:00;5;R2;Elong 1;6.60
+Camarate;CIR2;2/8/2013 0:00:00;5;R1;Elong 1;2.10
+Camarate;CIR2;2/8/2013 0:00:00;7;R3;Elong 1;2.00
+Camarate;CSR2;8/8/2013 0:00:00;8;R1;Elong 1;8.80
+Camarate;CSR2;8/8/2013 0:00:00;10;R3;Elong 1;2.90
+Camarate;CSR2;8/8/2013 0:00:00;10;R2;Elong 1;7.00
+Camarate;CSR2;8/8/2013 0:00:00;10;R1;Elong 1;8.30
+Camarate;CSR2;8/8/2013 0:00:00;9;R3;Elong 1;3.80
+Camarate;CSR2;8/8/2013 0:00:00;9;R1;Elong 1;8.60
+Camarate;CSR2;8/8/2013 0:00:00;8;R2;Elong 1;16.80
+Camarate;CSR2;8/8/2013 0:00:00;3;R2;Elong 1;4.40
+Camarate;CSR2;8/8/2013 0:00:00;7;R3;Elong 1;9.40
+Camarate;CSR2;8/8/2013 0:00:00;7;R2;Elong 1;12.10
+Camarate;CSR2;8/8/2013 0:00:00;2;R3;Elong 1;5.10
+Camarate;CSR2;8/8/2013 0:00:00;4;R2;Elong 1;3.80
+Camarate;CSR1;8/8/2013 0:00:00;9;R2;Elong 1;4.50
+Camarate;CSR2;8/8/2013 0:00:00;4;R3;Elong 1;12.80
+Camarate;CSR2;8/8/2013 0:00:00;5;R1;Elong 1;3.40
+Camarate;CSR2;8/8/2013 0:00:00;5;R2;Elong 1;2.80
+Camarate;CSR2;8/8/2013 0:00:00;5;R3;Elong 1;9.10
+Camarate;CSR2;8/8/2013 0:00:00;6;R1;Elong 1;6.20
+Camarate;CSR2;8/8/2013 0:00:00;6;R2;Elong 1;4.80
+Camarate;CSR2;8/8/2013 0:00:00;6;R3;Elong 1;2.10
+Camarate;CSR2;8/8/2013 0:00:00;7;R1;Elong 1;2.80
+Camarate;CSR1;8/8/2013 0:00:00;10;R3;Elong 1;4.60
+Camarate;CSR1;8/8/2013 0:00:00;10;R2;Elong 1;1.80
+Camarate;CSR1;8/8/2013 0:00:00;1;R1;Elong 1;3.40
+Camarate;CSR1;8/8/2013 0:00:00;9;R3;Elong 1;2.60
+Camarate;CSR1;8/8/2013 0:00:00;2;R2;Elong 1;3.60
+Camarate;CSR2;8/8/2013 0:00:00;4;R1;Elong 1;7.80
+Camarate;CSR2;8/8/2013 0:00:00;1;R1;Elong 1;9.40
+Camarate;CSR2;8/8/2013 0:00:00;1;R2;Elong 1;2.00
+Camarate;CSR2;8/8/2013 0:00:00;1;R3;Elong 1;2.10
+Camarate;CSR2;8/8/2013 0:00:00;2;R1;Elong 1;6.10
+Camarate;CSR2;8/8/2013 0:00:00;8;R3;Elong 1;8.20
+Camarate;CSR2;8/8/2013 0:00:00;3;R1;Elong 1;11.60
+Camarate;CSR1;8/8/2013 0:00:00;1;R2;Elong 1;16.80
+Camarate;CSR1;8/8/2013 0:00:00;1;R3;Elong 1;12.80
+Camarate;CSR1;8/8/2013 0:00:00;2;R1;Elong 1;4.80
+Camarate;CSR1;8/8/2013 0:00:00;10;R1;Elong 1;1.70
+Camarate;CSR1;8/8/2013 0:00:00;6;R2;Elong 1;2.40
+Camarate;CSR1;8/8/2013 0:00:00;8;R3;Elong 1;1.30
+Camarate;CSR2;8/8/2013 0:00:00;3;R3;Elong 1;2.80
+Camarate;CSR1;8/8/2013 0:00:00;9;R1;Elong 1;4.60
+Camarate;CSR2;8/8/2013 0:00:00;2;R2;Elong 2;16.00
+Camarate;CSR1;8/8/2013 0:00:00;8;R2;Elong 1;7.80
+Camarate;CSR1;8/8/2013 0:00:00;8;R1;Elong 1;1.80
+Camarate;CSR1;8/8/2013 0:00:00;7;R3;Elong 1;4.30
+Camarate;CSR2;8/8/2013 0:00:00;9;R2;Elong 1;7.10
+Camarate;CSR1;8/8/2013 0:00:00;7;R2;Elong 1;4.20
+Camarate;CSR1;8/8/2013 0:00:00;6;R3;Elong 1;8.20
+Camarate;CSR1;8/8/2013 0:00:00;6;R1;Elong 1;3.80
+Camarate;CSR1;8/8/2013 0:00:00;5;R3;Elong 1;3.60
+Camarate;CSR1;8/8/2013 0:00:00;5;R2;Elong 1;5.40
+Camarate;CSR1;8/8/2013 0:00:00;5;R1;Elong 1;5.60
+Camarate;CSR1;8/8/2013 0:00:00;2;R3;Elong 1;3.60
+Camarate;CSR1;8/8/2013 0:00:00;4;R1;Elong 1;1.40
+Camarate;CSR1;8/8/2013 0:00:00;3;R3;Elong 1;2.70
+Camarate;CSR1;8/8/2013 0:00:00;3;R2;Elong 1;4.10
+Camarate;CSR1;8/8/2013 0:00:00;7;R1;Elong 1;5.00
+Camarate;CSR1;8/8/2013 0:00:00;3;R1;Elong 1;3.00
+Camarate;CSR1;8/8/2013 0:00:00;4;R3;Elong 1;2.60
+Camarate;CIR1;11/9/2014 0:00:00;6;R3;Elong 3;2.60
+Camarate;CIR1;11/9/2014 0:00:00;6;R2;Elong 3;2.20
+Camarate;CIR1;11/9/2014 0:00:00;6;R1;Elong 3;1.20
+Camarate;CIR1;11/9/2014 0:00:00;3;R2;Elong 2;2.40
+Camarate;CIR1;11/9/2014 0:00:00;5;R1;Elong 3;4.20
+Camarate;CIR1;11/9/2014 0:00:00;4;R2;Elong 2;3.40
+Camarate;CIR1;11/9/2014 0:00:00;4;R3;Elong 3;2.10
+Camarate;CIR1;11/9/2014 0:00:00;4;R2;Elong 3;3.60
+Camarate;CIR1;11/9/2014 0:00:00;5;R2;Elong 3;4.90
+Camarate;CIR1;11/9/2014 0:00:00;3;R3;Elong 2;3.40
+Camarate;CIR1;11/9/2014 0:00:00;4;R1;Elong 2;3.60
+Camarate;CIR1;11/9/2014 0:00:00;7;R2;Elong 3;2.20
+Camarate;CIR1;11/9/2014 0:00:00;4;R3;Elong 2;1.70
+Camarate;CIR1;11/9/2014 0:00:00;5;R1;Elong 2;2.10
+Camarate;CIR1;11/9/2014 0:00:00;5;R2;Elong 2;16.20
+Camarate;CIR1;11/9/2014 0:00:00;7;R3;Elong 3;3.00
+Camarate;CIR1;11/9/2014 0:00:00;4;R1;Elong 3;3.40
+Camarate;CIR1;11/9/2014 0:00:00;7;R1;Elong 2;3.70
+Camarate;CIR1;11/9/2014 0:00:00;7;R1;Elong 3;0.80
+Camarate;CIR1;11/9/2014 0:00:00;7;R2;Elong 2;4.40
+Camarate;CIR1;11/9/2014 0:00:00;1;R1;Elong 3;2.10
+Camarate;CIR1;11/9/2014 0:00:00;10;R3;Elong 2;2.60
+Camarate;CIR1;11/9/2014 0:00:00;1;R2;Elong 3;
+Camarate;CIR1;11/9/2014 0:00:00;10;R1;Elong 2;1.80
+Camarate;CIR1;11/9/2014 0:00:00;9;R3;Elong 2;1.80
+Camarate;CIR1;11/9/2014 0:00:00;9;R2;Elong 2;5.40
+Camarate;CIR1;11/9/2014 0:00:00;9;R1;Elong 2;4.60
+Camarate;CIR1;11/9/2014 0:00:00;8;R3;Elong 2;18.20
+Camarate;CIR1;11/9/2014 0:00:00;8;R2;Elong 2;4.50
+Camarate;CIR1;11/9/2014 0:00:00;6;R2;Elong 2;1.60
+Camarate;CIR1;11/9/2014 0:00:00;7;R3;Elong 2;1.60
+Camarate;CIR1;11/9/2014 0:00:00;3;R3;Elong 3;6.60
+Camarate;CIR1;11/9/2014 0:00:00;10;R3;Elong 3;4.00
+Camarate;CIR1;11/9/2014 0:00:00;6;R3;Elong 2;2.80
+Camarate;CIR1;11/9/2014 0:00:00;3;R1;Elong 2;2.90
+Camarate;CIR1;11/9/2014 0:00:00;6;R1;Elong 2;3.60
+Camarate;CIR1;11/9/2014 0:00:00;1;R3;Elong 3;12.60
+Camarate;CIR1;11/9/2014 0:00:00;2;R1;Elong 3;2.00
+Camarate;CIR1;11/9/2014 0:00:00;2;R3;Elong 3;3.20
+Camarate;CIR1;11/9/2014 0:00:00;3;R1;Elong 3;7.20
+Camarate;CIR1;11/9/2014 0:00:00;3;R2;Elong 3;7.00
+Camarate;CIR1;11/9/2014 0:00:00;8;R1;Elong 2;5.00
+Camarate;CIR2;11/9/2014 0:00:00;4;R2;Elong 2;5.20
+Camarate;CIR2;11/9/2014 0:00:00;7;R2;Elong 3;2.20
+Camarate;CIR2;11/9/2014 0:00:00;7;R1;Elong 3;6.60
+Camarate;CIR2;11/9/2014 0:00:00;6;R3;Elong 3;1.70
+Camarate;CIR2;11/9/2014 0:00:00;6;R2;Elong 3;5.20
+Camarate;CIR2;11/9/2014 0:00:00;6;R1;Elong 3;2.00
+Camarate;CIR2;11/9/2014 0:00:00;5;R3;Elong 3;10.00
+Camarate;CIR2;11/9/2014 0:00:00;5;R2;Elong 3;3.50
+Camarate;CIR2;11/9/2014 0:00:00;5;R1;Elong 3;1.20
+Camarate;CIR1;11/9/2014 0:00:00;10;R1;Elong 3;2.40
+Camarate;CIR2;11/9/2014 0:00:00;4;R2;Elong 3;5.60
+Camarate;CIR2;11/9/2014 0:00:00;8;R2;Elong 3;1.90
+Camarate;CIR2;11/9/2014 0:00:00;1;R1;Elong 3;4.10
+Camarate;CIR2;11/9/2014 0:00:00;1;R2;Elong 3;7.00
+Camarate;CIR2;11/9/2014 0:00:00;2;R1;Elong 3;2.30
+Camarate;CIR2;11/9/2014 0:00:00;2;R2;Elong 3;2.90
+Camarate;CIR2;11/9/2014 0:00:00;2;R3;Elong 3;5.40
+Camarate;CIR2;11/9/2014 0:00:00;3;R1;Elong 3;4.10
+Camarate;CIR2;11/9/2014 0:00:00;4;R1;Elong 3;2.90
+Camarate;CIR2;11/9/2014 0:00:00;3;R3;Elong 3;4.90
+Camarate;CIR2;11/9/2014 0:00:00;4;R3;Elong 3;2.70
+Camarate;CIR2;11/9/2014 0:00:00;3;R2;Elong 3;2.10
+Camarate;CIR1;11/9/2014 0:00:00;2;R2;Elong 2;4.00
+Camarate;CIR1;11/9/2014 0:00:00;2;R1;Elong 2;2.30
+Camarate;CIR1;11/9/2014 0:00:00;1;R3;Elong 2;1.30
+Camarate;CIR1;11/9/2014 0:00:00;8;R1;Elong 3;3.40
+Camarate;CIR1;11/9/2014 0:00:00;8;R2;Elong 3;8.60
+Camarate;CIR1;11/9/2014 0:00:00;8;R3;Elong 3;4.90
+Camarate;CIR1;11/9/2014 0:00:00;9;R1;Elong 3;1.60
+Camarate;CIR1;11/9/2014 0:00:00;9;R2;Elong 3;3.20
+Camarate;CIR2;11/9/2014 0:00:00;7;R3;Elong 3;0.90
+Camarate;CIR1;11/9/2014 0:00:00;10;R2;Elong 3;
+Camarate;CIR2;11/9/2014 0:00:00;8;R1;Elong 3;4.40
+Camarate;CIR1;11/9/2014 0:00:00;1;R2;Elong 2;
+Camarate;CIR1;11/9/2014 0:00:00;1;R1;Elong 2;1.40
+Camarate;CIR2;11/9/2014 0:00:00;10;R3;Elong 3;0.90
+Camarate;CIR2;11/9/2014 0:00:00;10;R2;Elong 3;1.90
+Camarate;CIR2;11/9/2014 0:00:00;9;R3;Elong 3;1.10
+Camarate;CIR2;11/9/2014 0:00:00;9;R2;Elong 3;2.20
+Camarate;CIR2;11/9/2014 0:00:00;9;R1;Elong 3;1.20
+Camarate;CIR2;11/9/2014 0:00:00;8;R3;Elong 3;3.00
+Camarate;CIR1;11/9/2014 0:00:00;2;R3;Elong 2;10.60
+Camarate;CIR1;11/9/2014 0:00:00;9;R3;Elong 3;4.50
+Camarate;CIR2;11/9/2014 0:00:00;2;R1;Elong 2;7.30
+Camarate;CIR1;11/9/2014 0:00:00;8;R2;Elong 1;9.40
+Camarate;CIR2;11/9/2014 0:00:00;9;R2;Elong 1;2.10
+Camarate;CIR2;11/9/2014 0:00:00;9;R3;Elong 1;4.60
+Camarate;CIR2;11/9/2014 0:00:00;10;R2;Elong 1;1.80
+Camarate;CIR2;11/9/2014 0:00:00;10;R3;Elong 1;2.10
+Camarate;CIR2;11/9/2014 0:00:00;4;R1;Elong 2;3.60
+Camarate;CIR2;11/9/2014 0:00:00;3;R3;Elong 2;4.80
+Camarate;CIR2;11/9/2014 0:00:00;3;R2;Elong 2;1.90
+Camarate;CIR2;11/9/2014 0:00:00;3;R1;Elong 2;9.80
+Camarate;CIR2;11/9/2014 0:00:00;8;R3;Elong 1;1.80
+Camarate;CIR2;11/9/2014 0:00:00;2;R2;Elong 2;2.20
+Camarate;CIR2;11/9/2014 0:00:00;8;R2;Elong 1;2.60
+Camarate;CIR2;11/9/2014 0:00:00;1;R2;Elong 2;4.40
+Camarate;CIR2;11/9/2014 0:00:00;1;R1;Elong 2;2.30
+Camarate;CIR1;11/9/2014 0:00:00;10;R3;Elong 1;3.40
+Camarate;CIR1;11/9/2014 0:00:00;10;R2;Elong 2;
+Camarate;CIR1;11/9/2014 0:00:00;10;R1;Elong 1;10.40
+Camarate;CIR2;11/9/2014 0:00:00;4;R3;Elong 2;4.50
+Camarate;CIR1;11/9/2014 0:00:00;9;R2;Elong 1;4.90
+Camarate;CIR1;11/9/2014 0:00:00;9;R1;Elong 1;7.50
+Camarate;CIR1;11/9/2014 0:00:00;8;R3;Elong 1;11.60
+Camarate;CIR2;11/9/2014 0:00:00;2;R3;Elong 2;3.10
+Camarate;CIR2;11/9/2014 0:00:00;5;R1;Elong 1;0.90
+Camarate;CIR2;11/9/2014 0:00:00;1;R1;Elong 1;2.10
+Camarate;CIR2;11/9/2014 0:00:00;1;R2;Elong 1;12.00
+Camarate;CIR2;11/9/2014 0:00:00;2;R1;Elong 1;3.50
+Camarate;CIR2;11/9/2014 0:00:00;2;R2;Elong 1;3.70
+Camarate;CIR2;11/9/2014 0:00:00;2;R3;Elong 1;5.20
+Camarate;CIR2;11/9/2014 0:00:00;3;R1;Elong 1;17.00
+Camarate;CIR2;11/9/2014 0:00:00;3;R2;Elong 1;6.40
+Camarate;CIR2;11/9/2014 0:00:00;3;R3;Elong 1;4.00
+Camarate;CIR2;11/9/2014 0:00:00;4;R1;Elong 1;9.80
+Camarate;CIR2;11/9/2014 0:00:00;9;R1;Elong 1;2.30
+Camarate;CIR2;11/9/2014 0:00:00;4;R3;Elong 1;6.00
+Camarate;CIR1;11/9/2014 0:00:00;9;R3;Elong 1;1.90
+Camarate;CIR2;11/9/2014 0:00:00;5;R2;Elong 1;3.40
+Camarate;CIR2;11/9/2014 0:00:00;5;R3;Elong 1;3.60
+Camarate;CIR2;11/9/2014 0:00:00;6;R1;Elong 1;3.60
+Camarate;CIR2;11/9/2014 0:00:00;6;R2;Elong 1;4.10
+Camarate;CIR2;11/9/2014 0:00:00;6;R3;Elong 1;2.10
+Camarate;CIR2;11/9/2014 0:00:00;7;R1;Elong 1;2.10
+Camarate;CIR2;11/9/2014 0:00:00;7;R2;Elong 1;2.10
+Camarate;CIR2;11/9/2014 0:00:00;7;R3;Elong 1;0.70
+Camarate;CIR2;11/9/2014 0:00:00;8;R1;Elong 1;5.60
+Camarate;CIR2;11/9/2014 0:00:00;4;R2;Elong 1;8.40
+Camarate;CIR1;11/9/2014 0:00:00;8;R1;Elong 1;8.60
+Camarate;CIR1;11/9/2014 0:00:00;1;R1;Elong 1;7.40
+Camarate;CIR1;11/9/2014 0:00:00;1;R2;Elong 1;
+Camarate;CIR1;11/9/2014 0:00:00;1;R3;Elong 1;5.20
+Camarate;CIR1;11/9/2014 0:00:00;2;R1;Elong 1;6.00
+Camarate;CIR1;11/9/2014 0:00:00;2;R2;Elong 1;1.20
+Camarate;CIR1;11/9/2014 0:00:00;2;R3;Elong 1;13.40
+Camarate;CIR1;11/9/2014 0:00:00;3;R1;Elong 1;3.70
+Camarate;CIR1;11/9/2014 0:00:00;3;R2;Elong 1;2.60
+Camarate;CIR1;11/9/2014 0:00:00;3;R3;Elong 1;3.00
+Camarate;CIR2;11/9/2014 0:00:00;10;R3;Elong 2;1.80
+Camarate;CIR1;11/9/2014 0:00:00;4;R2;Elong 1;4.80
+Camarate;CIR1;11/9/2014 0:00:00;4;R1;Elong 1;4.10
+Camarate;CIR1;11/9/2014 0:00:00;7;R3;Elong 1;2.40
+Camarate;CIR1;11/9/2014 0:00:00;7;R2;Elong 1;4.80
+Camarate;CIR1;11/9/2014 0:00:00;7;R1;Elong 1;2.60
+Camarate;CIR1;11/9/2014 0:00:00;6;R3;Elong 1;4.60
+Camarate;CIR1;11/9/2014 0:00:00;6;R2;Elong 1;4.20
+Camarate;CIR1;11/9/2014 0:00:00;6;R1;Elong 1;2.60
+Camarate;CIR1;11/9/2014 0:00:00;5;R2;Elong 1;4.20
+Camarate;CIR1;11/9/2014 0:00:00;5;R1;Elong 1;3.80
+Camarate;CIR1;11/9/2014 0:00:00;10;R2;Elong 1;
+Camarate;CIR1;11/9/2014 0:00:00;4;R3;Elong 1;7.10
+Camarate;CIR2;11/9/2014 0:00:00;7;R1;Elong 2;3.40
+Camarate;CIR2;11/9/2014 0:00:00;10;R2;Elong 2;1.60
+Camarate;CIR2;11/9/2014 0:00:00;5;R1;Elong 2;4.20
+Camarate;CIR2;11/9/2014 0:00:00;5;R2;Elong 2;2.20
+Camarate;CIR2;11/9/2014 0:00:00;5;R3;Elong 2;3.40
+Camarate;CIR2;11/9/2014 0:00:00;6;R1;Elong 2;6.60
+Camarate;CIR2;11/9/2014 0:00:00;6;R3;Elong 2;5.60
+Camarate;CIR2;11/9/2014 0:00:00;7;R2;Elong 2;2.00
+Camarate;CIR2;11/9/2014 0:00:00;7;R3;Elong 2;0.90
+Camarate;CIR2;11/9/2014 0:00:00;8;R1;Elong 2;3.60
+Camarate;CIR2;11/9/2014 0:00:00;8;R2;Elong 2;2.00
+Camarate;CIR2;11/9/2014 0:00:00;8;R3;Elong 2;4.10
+Camarate;CIR2;11/9/2014 0:00:00;9;R1;Elong 2;3.10
+Camarate;CIR2;11/9/2014 0:00:00;9;R2;Elong 2;4.20
+Camarate;CIR2;11/9/2014 0:00:00;9;R3;Elong 2;1.70
+Camarate;CIR2;11/9/2014 0:00:00;6;R2;Elong 2;14.20
+Camarate;CSR2;16/9/2014 0:00:00;1;R3;Elong 3;17.50
+Camarate;CSR2;16/9/2014 0:00:00;2;R3;Elong 3;0.70
+Camarate;CSR2;16/9/2014 0:00:00;2;R3;Elong 2;1.60
+Camarate;CSR2;16/9/2014 0:00:00;2;R2;Elong 2;6.00
+Camarate;CSR2;16/9/2014 0:00:00;2;R1;Elong 2;4.10
+Camarate;CSR2;16/9/2014 0:00:00;1;R3;Elong 2;10.60
+Camarate;CSR2;16/9/2014 0:00:00;1;R2;Elong 2;3.20
+Camarate;CSR2;16/9/2014 0:00:00;2;R2;Elong 3;2.20
+Camarate;CSR2;16/9/2014 0:00:00;3;R1;Elong 3;4.10
+Camarate;CSR2;16/9/2014 0:00:00;1;R1;Elong 2;3.80
+Camarate;CSR2;16/9/2014 0:00:00;6;R1;Elong 3;8.20
+Camarate;CSR2;16/9/2014 0:00:00;1;R2;Elong 3;1.90
+Camarate;CSR2;16/9/2014 0:00:00;2;R1;Elong 3;8.70
+Camarate;CSR2;16/9/2014 0:00:00;6;R2;Elong 3;2.00
+Camarate;CSR2;16/9/2014 0:00:00;1;R1;Elong 3;7.80
+Camarate;CSR2;16/9/2014 0:00:00;10;R2;Elong 3;1.70
+Camarate;CSR2;16/9/2014 0:00:00;9;R2;Elong 3;2.70
+Camarate;CSR2;16/9/2014 0:00:00;9;R1;Elong 3;2.10
+Camarate;CSR2;16/9/2014 0:00:00;8;R3;Elong 3;8.70
+Camarate;CSR2;16/9/2014 0:00:00;8;R2;Elong 3;5.40
+Camarate;CSR2;16/9/2014 0:00:00;5;R2;Elong 3;1.60
+Camarate;CSR2;16/9/2014 0:00:00;6;R3;Elong 3;4.30
+Camarate;CSR2;16/9/2014 0:00:00;3;R2;Elong 3;5.00
+Camarate;CSR2;16/9/2014 0:00:00;5;R3;Elong 3;2.90
+Camarate;CSR2;16/9/2014 0:00:00;10;R3;Elong 3;5.60
+Camarate;CSR2;16/9/2014 0:00:00;4;R3;Elong 3;5.10
+Camarate;CSR2;16/9/2014 0:00:00;4;R2;Elong 3;8.40
+Camarate;CSR2;16/9/2014 0:00:00;4;R1;Elong 3;6.80
+Camarate;CSR2;16/9/2014 0:00:00;3;R3;Elong 3;2.30
+Camarate;CSR2;16/9/2014 0:00:00;8;R1;Elong 3;6.90
+Camarate;CSR1;16/9/2014 0:00:00;8;R1;Elong 3;
+Camarate;CSR2;16/9/2014 0:00:00;4;R1;Elong 2;10.70
+Camarate;CSR2;16/9/2014 0:00:00;8;R3;Elong 2;5.30
+Camarate;CSR2;16/9/2014 0:00:00;9;R1;Elong 2;5.00
+Camarate;CSR2;16/9/2014 0:00:00;9;R2;Elong 2;3.70
+Camarate;CSR2;16/9/2014 0:00:00;10;R1;Elong 2;4.10
+Camarate;CSR2;16/9/2014 0:00:00;10;R2;Elong 2;2.10
+Camarate;CSR2;16/9/2014 0:00:00;10;R3;Elong 2;2.60
+Camarate;CSR1;16/9/2014 0:00:00;10;R2;Elong 3;21.00
+Camarate;CSR1;16/9/2014 0:00:00;10;R1;Elong 3;
+Camarate;CSR1;16/9/2014 0:00:00;9;R3;Elong 3;42.00
+Camarate;CSR1;16/9/2014 0:00:00;9;R2;Elong 3;41.00
+Camarate;CSR1;16/9/2014 0:00:00;9;R1;Elong 3;26.00
+Camarate;CSR2;16/9/2014 0:00:00;8;R1;Elong 2;7.30
+Camarate;CSR1;16/9/2014 0:00:00;8;R2;Elong 3;31.00
+Camarate;CSR2;16/9/2014 0:00:00;6;R3;Elong 2;6.10
+Camarate;CSR1;16/9/2014 0:00:00;7;R3;Elong 3;26.00
+Camarate;CSR1;16/9/2014 0:00:00;7;R2;Elong 3;26.00
+Camarate;CSR1;16/9/2014 0:00:00;7;R1;Elong 3;52.00
+Camarate;CSR1;16/9/2014 0:00:00;6;R3;Elong 3;104.00
+Camarate;CSR1;16/9/2014 0:00:00;6;R2;Elong 3;19.00
+Camarate;CSR1;16/9/2014 0:00:00;6;R1;Elong 3;68.00
+Camarate;CSR1;16/9/2014 0:00:00;5;R3;Elong 3;121.00
+Camarate;CSR1;16/9/2014 0:00:00;5;R2;Elong 3;64.00
+Camarate;CSR1;16/9/2014 0:00:00;5;R1;Elong 3;89.00
+Camarate;CSR1;16/9/2014 0:00:00;4;R3;Elong 3;25.00
+Camarate;CSR1;16/9/2014 0:00:00;4;R2;Elong 3;18.00
+Camarate;CSR1;16/9/2014 0:00:00;4;R1;Elong 3;52.00
+Camarate;CSR1;16/9/2014 0:00:00;3;R3;Elong 3;17.00
+Camarate;CSR1;16/9/2014 0:00:00;8;R3;Elong 3;38.00
+Camarate;CSR2;16/9/2014 0:00:00;4;R1;Elong 1;27.50
+Camarate;CSR2;16/9/2014 0:00:00;3;R1;Elong 2;4.40
+Camarate;CSR2;16/9/2014 0:00:00;3;R2;Elong 2;2.10
+Camarate;CSR2;16/9/2014 0:00:00;3;R3;Elong 2;2.40
+Camarate;CSR2;16/9/2014 0:00:00;4;R2;Elong 2;15.20
+Camarate;CSR1;16/9/2014 0:00:00;3;R2;Elong 3;20.00
+Camarate;CSR2;16/9/2014 0:00:00;1;R1;Elong 1;5.60
+Camarate;CSR2;16/9/2014 0:00:00;1;R2;Elong 1;2.30
+Camarate;CSR2;16/9/2014 0:00:00;1;R3;Elong 1;12.20
+Camarate;CSR2;16/9/2014 0:00:00;2;R1;Elong 1;8.10
+Camarate;CSR2;16/9/2014 0:00:00;2;R2;Elong 1;5.80
+Camarate;CSR2;16/9/2014 0:00:00;2;R3;Elong 1;2.60
+Camarate;CSR2;16/9/2014 0:00:00;3;R1;Elong 1;0.70
+Camarate;CSR2;16/9/2014 0:00:00;8;R2;Elong 2;2.80
+Camarate;CSR2;16/9/2014 0:00:00;3;R3;Elong 1;2.10
+Camarate;CSR1;16/9/2014 0:00:00;9;R1;Elong 2;27.00
+Camarate;CSR2;16/9/2014 0:00:00;4;R2;Elong 1;15.40
+Camarate;CSR1;16/9/2014 0:00:00;10;R3;Elong 3;7.00
+Camarate;CSR1;16/9/2014 0:00:00;1;R1;Elong 3;88.00
+Camarate;CSR1;16/9/2014 0:00:00;1;R2;Elong 3;36.00
+Camarate;CSR1;16/9/2014 0:00:00;2;R1;Elong 3;34.00
+Camarate;CSR1;16/9/2014 0:00:00;2;R2;Elong 3;30.00
+Camarate;CSR1;16/9/2014 0:00:00;2;R3;Elong 3;32.00
+Camarate;CSR1;16/9/2014 0:00:00;3;R1;Elong 3;46.00
+Camarate;CSR2;16/9/2014 0:00:00;4;R3;Elong 2;4.00
+Camarate;CSR2;16/9/2014 0:00:00;5;R2;Elong 2;2.00
+Camarate;CSR2;16/9/2014 0:00:00;5;R3;Elong 2;3.60
+Camarate;CSR2;16/9/2014 0:00:00;6;R1;Elong 2;15.40
+Camarate;CSR2;16/9/2014 0:00:00;6;R2;Elong 2;4.00
+Camarate;CSR2;16/9/2014 0:00:00;3;R2;Elong 1;1.10
+Camarate;CSR1;16/9/2014 0:00:00;9;R3;Elong 2;25.00
+Camarate;CSR1;16/9/2014 0:00:00;7;R3;Elong 1;33.00
+Camarate;CSR1;16/9/2014 0:00:00;2;R3;Elong 1;119.00
+Camarate;CSR1;16/9/2014 0:00:00;2;R2;Elong 1;32.00
+Camarate;CSR1;16/9/2014 0:00:00;2;R1;Elong 1;32.00
+Camarate;CSR1;16/9/2014 0:00:00;1;R2;Elong 1;12.00
+Camarate;CSR1;16/9/2014 0:00:00;1;R1;Elong 1;41.00
+Camarate;CSR1;16/9/2014 0:00:00;10;R3;Elong 1;52.00
+Camarate;CSR2;16/9/2014 0:00:00;6;R3;Elong 1;3.00
+Camarate;CSR2;16/9/2014 0:00:00;8;R1;Elong 1;5.00
+Camarate;CSR2;16/9/2014 0:00:00;8;R2;Elong 1;16.80
+Camarate;CSR2;16/9/2014 0:00:00;8;R3;Elong 1;1.20
+Camarate;CSR2;16/9/2014 0:00:00;9;R1;Elong 1;1.90
+Camarate;CSR2;16/9/2014 0:00:00;9;R2;Elong 1;8.40
+Camarate;CSR1;16/9/2014 0:00:00;10;R1;Elong 2;
+Camarate;CSR1;16/9/2014 0:00:00;4;R3;Elong 1;26.00
+Camarate;CSR1;16/9/2014 0:00:00;7;R2;Elong 1;24.00
+Camarate;CSR1;16/9/2014 0:00:00;7;R1;Elong 1;46.00
+Camarate;CSR1;16/9/2014 0:00:00;6;R3;Elong 1;116.00
+Camarate;CSR1;16/9/2014 0:00:00;6;R1;Elong 1;54.00
+Camarate;CSR1;16/9/2014 0:00:00;6;R3;Elong 2;106.00
+Camarate;CSR2;16/9/2014 0:00:00;10;R1;Elong 1;7.70
+Camarate;CSR1;16/9/2014 0:00:00;5;R1;Elong 1;61.00
+Camarate;CSR2;16/9/2014 0:00:00;10;R2;Elong 1;1.90
+Camarate;CSR1;16/9/2014 0:00:00;4;R2;Elong 1;20.00
+Camarate;CSR1;16/9/2014 0:00:00;4;R1;Elong 1;119.00
+Camarate;CSR1;16/9/2014 0:00:00;3;R3;Elong 1;30.00
+Camarate;CSR1;16/9/2014 0:00:00;3;R2;Elong 1;44.00
+Camarate;CSR1;16/9/2014 0:00:00;3;R1;Elong 1;34.00
+Camarate;CSR2;16/9/2014 0:00:00;6;R2;Elong 1;21.00
+Camarate;CSR1;16/9/2014 0:00:00;5;R2;Elong 1;27.00
+Camarate;CSR1;16/9/2014 0:00:00;3;R3;Elong 2;26.00
+Camarate;CSR1;16/9/2014 0:00:00;7;R1;Elong 2;27.00
+Camarate;CSR1;16/9/2014 0:00:00;7;R2;Elong 2;27.00
+Camarate;CSR1;16/9/2014 0:00:00;7;R3;Elong 2;16.00
+Camarate;CSR1;16/9/2014 0:00:00;8;R1;Elong 2;
+Camarate;CSR1;16/9/2014 0:00:00;8;R2;Elong 2;22.00
+Camarate;CSR1;16/9/2014 0:00:00;8;R3;Elong 2;31.00
+Camarate;CSR1;16/9/2014 0:00:00;6;R2;Elong 2;16.00
+Camarate;CSR1;16/9/2014 0:00:00;6;R1;Elong 2;76.00
+Camarate;CSR2;16/9/2014 0:00:00;10;R3;Elong 1;7.90
+Camarate;CSR1;16/9/2014 0:00:00;5;R3;Elong 2;72.00
+Camarate;CSR1;16/9/2014 0:00:00;5;R2;Elong 2;6.00
+Camarate;CSR1;16/9/2014 0:00:00;5;R1;Elong 2;85.00
+Camarate;CSR1;16/9/2014 0:00:00;4;R3;Elong 2;28.00
+Camarate;CSR1;16/9/2014 0:00:00;10;R2;Elong 2;6.00
+Camarate;CSR1;16/9/2014 0:00:00;1;R2;Elong 2;23.00
+Camarate;CSR1;16/9/2014 0:00:00;9;R2;Elong 2;30.00
+Camarate;CSR2;16/9/2014 0:00:00;6;R1;Elong 1;16.60
+Camarate;CSR2;16/9/2014 0:00:00;5;R3;Elong 1;4.80
+Camarate;CSR2;16/9/2014 0:00:00;5;R2;Elong 1;2.50
+Camarate;CSR2;16/9/2014 0:00:00;4;R3;Elong 1;13.80
+Camarate;CSR1;16/9/2014 0:00:00;4;R2;Elong 2;14.00
+Camarate;CSR1;16/9/2014 0:00:00;1;R1;Elong 2;111.00
+Camarate;CSR1;16/9/2014 0:00:00;4;R1;Elong 2;21.00
+Camarate;CSR1;16/9/2014 0:00:00;2;R1;Elong 2;58.00
+Camarate;CSR1;16/9/2014 0:00:00;2;R2;Elong 2;31.00
+Camarate;CSR1;16/9/2014 0:00:00;2;R3;Elong 2;110.00
+Camarate;CSR1;16/9/2014 0:00:00;3;R1;Elong 2;40.00
+Camarate;CSR1;16/9/2014 0:00:00;3;R2;Elong 2;19.00
+Camarate;CSR1;16/9/2014 0:00:00;6;R2;Elong 1;32.00
+Camarate;CSR1;16/9/2014 0:00:00;10;R3;Elong 2;21.00
+Camarate;CSR1;16/9/2014 0:00:00;8;R1;Elong 1;
+Camarate;CSR1;16/9/2014 0:00:00;8;R2;Elong 1;34.00
+Camarate;CSR1;16/9/2014 0:00:00;8;R3;Elong 1;16.00
+Camarate;CSR1;16/9/2014 0:00:00;9;R1;Elong 1;54.00
+Camarate;CSR1;16/9/2014 0:00:00;9;R2;Elong 1;14.00
+Camarate;CSR1;16/9/2014 0:00:00;9;R3;Elong 1;26.00
+Camarate;CSR1;16/9/2014 0:00:00;10;R1;Elong 1;
+Camarate;CSR1;16/9/2014 0:00:00;10;R2;Elong 1;17.00
+Camarate;CSR1;16/9/2014 0:00:00;5;R3;Elong 1;166.00
+Camarate;CIR2;22/9/2015 0:00:00;7;R3;Elong 1;2.80
+Camarate;CIR2;22/9/2015 0:00:00;8;R1;Elong 1;2.00
+Camarate;CIR2;22/9/2015 0:00:00;8;R2;Elong 1;1.60
+Camarate;CIR2;22/9/2015 0:00:00;8;R3;Elong 1;3.50
+Camarate;CIR2;22/9/2015 0:00:00;9;R1;Elong 1;2.00
+Camarate;CIR2;22/9/2015 0:00:00;9;R2;Elong 1;2.40
+Camarate;CIR2;22/9/2015 0:00:00;9;R3;Elong 1;2.00
+Camarate;CIR2;22/9/2015 0:00:00;10;R1;Elong 1;2.50
+Camarate;CIR2;22/9/2015 0:00:00;10;R2;Elong 1;1.80
+Camarate;CIR2;22/9/2015 0:00:00;7;R2;Elong 1;2.00
+Camarate;CIR2;22/9/2015 0:00:00;1;R2;Elong 1;2.50
+Camarate;CIR2;22/9/2015 0:00:00;5;R3;Elong 1;4.20
+Camarate;CIR1;22/9/2015 0:00:00;10;R3;Elong 2;28.80
+Camarate;CIR2;22/9/2015 0:00:00;10;R3;Elong 1;1.90
+Camarate;CIR2;22/9/2015 0:00:00;4;R3;Elong 1;2.50
+Camarate;CIR2;22/9/2015 0:00:00;2;R1;Elong 1;4.70
+Camarate;CIR2;22/9/2015 0:00:00;2;R2;Elong 1;5.30
+Camarate;CIR2;22/9/2015 0:00:00;2;R3;Elong 1;2.60
+Camarate;CIR2;22/9/2015 0:00:00;3;R1;Elong 1;12.00
+Camarate;CIR2;22/9/2015 0:00:00;3;R2;Elong 1;5.00
+Camarate;CIR2;22/9/2015 0:00:00;3;R3;Elong 1;1.60
+Camarate;CIR2;22/9/2015 0:00:00;6;R2;Elong 1;3.00
+Camarate;CIR2;22/9/2015 0:00:00;4;R2;Elong 1;6.40
+Camarate;CIR2;22/9/2015 0:00:00;7;R1;Elong 1;2.60
+Camarate;CIR2;22/9/2015 0:00:00;5;R1;Elong 1;1.40
+Camarate;CIR2;22/9/2015 0:00:00;5;R2;Elong 1;5.00
+Camarate;CIR1;22/9/2015 0:00:00;8;R2;Elong 2;2.20
+Camarate;CIR2;22/9/2015 0:00:00;6;R1;Elong 1;2.40
+Camarate;CIR1;22/9/2015 0:00:00;10;R2;Elong 2;29.60
+Camarate;CIR2;22/9/2015 0:00:00;6;R3;Elong 1;3.90
+Camarate;CIR2;22/9/2015 0:00:00;4;R1;Elong 1;3.30
+Camarate;CIR1;22/9/2015 0:00:00;4;R2;Elong 2;3.20
+Camarate;CIR1;22/9/2015 0:00:00;9;R1;Elong 2;1.30
+Camarate;CIR1;22/9/2015 0:00:00;5;R2;Elong 2;5.60
+Camarate;CIR1;22/9/2015 0:00:00;5;R1;Elong 2;2.10
+Camarate;CIR1;22/9/2015 0:00:00;10;R1;Elong 1;2.60
+Camarate;CIR1;22/9/2015 0:00:00;10;R2;Elong 1;20.40
+Camarate;CIR1;22/9/2015 0:00:00;2;R2;Elong 2;5.70
+Camarate;CIR1;22/9/2015 0:00:00;10;R3;Elong 1;12.50
+Camarate;CIR1;22/9/2015 0:00:00;2;R1;Elong 2;1.50
+Camarate;CIR1;22/9/2015 0:00:00;4;R1;Elong 2;5.60
+Camarate;CIR1;22/9/2015 0:00:00;3;R3;Elong 2;3.10
+Camarate;CIR1;22/9/2015 0:00:00;3;R2;Elong 2;1.50
+Camarate;CIR1;22/9/2015 0:00:00;3;R1;Elong 2;8.70
+Camarate;CIR2;22/9/2015 0:00:00;1;R1;Elong 1;3.00
+Camarate;CIR1;22/9/2015 0:00:00;9;R1;Elong 1;1.90
+Camarate;CIR1;22/9/2015 0:00:00;4;R3;Elong 2;9.70
+Camarate;CIR1;22/9/2015 0:00:00;6;R3;Elong 2;4.50
+Camarate;CIR1;22/9/2015 0:00:00;9;R3;Elong 2;3.20
+Camarate;CIR1;22/9/2015 0:00:00;9;R2;Elong 2;1.60
+Camarate;CIR1;22/9/2015 0:00:00;8;R3;Elong 2;1.80
+Camarate;CIR1;22/9/2015 0:00:00;8;R1;Elong 2;1.70
+Camarate;CIR1;22/9/2015 0:00:00;7;R3;Elong 2;1.20
+Camarate;CIR1;22/9/2015 0:00:00;2;R3;Elong 2;1.20
+Camarate;CIR1;22/9/2015 0:00:00;7;R1;Elong 2;3.40
+Camarate;CIR1;22/9/2015 0:00:00;10;R1;Elong 2;3.60
+Camarate;CIR1;22/9/2015 0:00:00;6;R2;Elong 2;4.50
+Camarate;CIR1;22/9/2015 0:00:00;6;R1;Elong 2;3.10
+Camarate;CIR1;22/9/2015 0:00:00;5;R3;Elong 2;0.60
+Camarate;CIR1;22/9/2015 0:00:00;1;R1;Elong 2;1.00
+Camarate;CIR1;22/9/2015 0:00:00;1;R2;Elong 2;1.00
+Camarate;CIR1;22/9/2015 0:00:00;1;R3;Elong 2;3.60
+Camarate;CIR1;22/9/2015 0:00:00;7;R2;Elong 2;3.50
+Camarate;CIR1;22/9/2015 0:00:00;8;R2;Elong 3;2.30
+Camarate;CIR1;22/9/2015 0:00:00;9;R3;Elong 1;3.30
+Camarate;CIR1;22/9/2015 0:00:00;4;R1;Elong 3;10.40
+Camarate;CIR1;22/9/2015 0:00:00;4;R2;Elong 3;5.80
+Camarate;CIR1;22/9/2015 0:00:00;4;R3;Elong 3;4.50
+Camarate;CIR1;22/9/2015 0:00:00;5;R1;Elong 3;2.40
+Camarate;CIR1;22/9/2015 0:00:00;5;R2;Elong 3;3.00
+Camarate;CIR1;22/9/2015 0:00:00;5;R3;Elong 3;3.20
+Camarate;CIR1;22/9/2015 0:00:00;6;R1;Elong 3;9.20
+Camarate;CIR1;22/9/2015 0:00:00;6;R2;Elong 3;4.60
+Camarate;CIR1;22/9/2015 0:00:00;6;R3;Elong 3;3.20
+Camarate;CIR1;22/9/2015 0:00:00;7;R1;Elong 3;1.80
+Camarate;CIR1;22/9/2015 0:00:00;7;R2;Elong 3;1.50
+Camarate;CIR1;22/9/2015 0:00:00;3;R2;Elong 3;1.20
+Camarate;CIR1;22/9/2015 0:00:00;8;R1;Elong 3;5.10
+Camarate;CIR1;22/9/2015 0:00:00;3;R1;Elong 3;3.00
+Camarate;CIR1;22/9/2015 0:00:00;8;R3;Elong 3;0.60
+Camarate;CIR1;22/9/2015 0:00:00;9;R1;Elong 3;0.50
+Camarate;CIR1;22/9/2015 0:00:00;9;R2;Elong 3;2.40
+Camarate;CIR1;22/9/2015 0:00:00;9;R3;Elong 3;0.60
+Camarate;CIR1;22/9/2015 0:00:00;10;R1;Elong 3;9.00
+Camarate;CIR1;22/9/2015 0:00:00;10;R2;Elong 3;14.70
+Camarate;CIR1;22/9/2015 0:00:00;10;R3;Elong 3;18.70
+Camarate;CIR2;22/9/2015 0:00:00;1;R1;Elong 3;3.70
+Camarate;CIR2;22/9/2015 0:00:00;1;R2;Elong 3;3.90
+Camarate;CIR2;22/9/2015 0:00:00;1;R3;Elong 3;8.60
+Camarate;CIR2;22/9/2015 0:00:00;2;R1;Elong 3;1.80
+Camarate;CIR2;22/9/2015 0:00:00;2;R2;Elong 3;2.30
+Camarate;CIR1;22/9/2015 0:00:00;7;R3;Elong 3;2.20
+Camarate;CIR1;22/9/2015 0:00:00;1;R3;Elong 1;2.20
+Camarate;CIR2;22/9/2015 0:00:00;10;R2;Elong 2;2.00
+Camarate;CIR2;22/9/2015 0:00:00;10;R1;Elong 2;2.40
+Camarate;CIR2;22/9/2015 0:00:00;9;R3;Elong 2;3.00
+Camarate;CIR2;22/9/2015 0:00:00;9;R2;Elong 2;0.60
+Camarate;CIR2;22/9/2015 0:00:00;9;R1;Elong 2;0.60
+Camarate;CIR2;22/9/2015 0:00:00;8;R3;Elong 2;0.90
+Camarate;CIR2;22/9/2015 0:00:00;8;R2;Elong 2;2.60
+Camarate;CIR2;22/9/2015 0:00:00;8;R1;Elong 2;2.70
+Camarate;CIR2;22/9/2015 0:00:00;7;R3;Elong 2;5.00
+Camarate;CIR2;22/9/2015 0:00:00;7;R2;Elong 2;1.50
+Camarate;CIR2;22/9/2015 0:00:00;7;R1;Elong 2;1.30
+Camarate;CIR2;22/9/2015 0:00:00;6;R3;Elong 2;5.50
+Camarate;CIR1;22/9/2015 0:00:00;3;R3;Elong 3;4.60
+Camarate;CIR1;22/9/2015 0:00:00;1;R2;Elong 1;1.20
+Camarate;CIR2;22/9/2015 0:00:00;3;R2;Elong 3;7.00
+Camarate;CIR1;22/9/2015 0:00:00;2;R1;Elong 1;2.60
+Camarate;CIR1;22/9/2015 0:00:00;2;R2;Elong 1;3.60
+Camarate;CIR1;22/9/2015 0:00:00;2;R3;Elong 1;1.70
+Camarate;CIR1;22/9/2015 0:00:00;3;R1;Elong 1;0.80
+Camarate;CIR1;22/9/2015 0:00:00;3;R2;Elong 1;1.80
+Camarate;CIR1;22/9/2015 0:00:00;3;R3;Elong 1;2.20
+Camarate;CIR1;22/9/2015 0:00:00;1;R1;Elong 3;1.60
+Camarate;CIR1;22/9/2015 0:00:00;1;R2;Elong 3;0.70
+Camarate;CIR1;22/9/2015 0:00:00;1;R3;Elong 3;2.50
+Camarate;CIR1;22/9/2015 0:00:00;2;R1;Elong 3;2.00
+Camarate;CIR1;22/9/2015 0:00:00;2;R2;Elong 3;3.50
+Camarate;CIR1;22/9/2015 0:00:00;2;R3;Elong 3;0.70
+Camarate;CIR1;22/9/2015 0:00:00;1;R1;Elong 1;2.60
+Camarate;CIR2;22/9/2015 0:00:00;4;R3;Elong 2;3.20
+Camarate;CIR2;22/9/2015 0:00:00;10;R1;Elong 3;1.80
+Camarate;CIR2;22/9/2015 0:00:00;10;R2;Elong 3;2.50
+Camarate;CIR2;22/9/2015 0:00:00;10;R3;Elong 3;1.90
+Camarate;CIR1;22/9/2015 0:00:00;7;R2;Elong 1;2.00
+Camarate;CIR1;22/9/2015 0:00:00;7;R3;Elong 1;1.00
+Camarate;CIR1;22/9/2015 0:00:00;8;R1;Elong 1;2.50
+Camarate;CIR2;22/9/2015 0:00:00;10;R3;Elong 2;1.80
+Camarate;CIR1;22/9/2015 0:00:00;8;R2;Elong 1;2.10
+Camarate;CIR1;22/9/2015 0:00:00;8;R3;Elong 1;1.70
+Camarate;CIR2;22/9/2015 0:00:00;6;R2;Elong 2;3.50
+Camarate;CIR2;22/9/2015 0:00:00;6;R1;Elong 2;1.60
+Camarate;CIR2;22/9/2015 0:00:00;5;R3;Elong 2;2.50
+Camarate;CIR2;22/9/2015 0:00:00;2;R3;Elong 3;1.80
+Camarate;CIR2;22/9/2015 0:00:00;5;R1;Elong 2;5.60
+Camarate;CIR2;22/9/2015 0:00:00;9;R1;Elong 3;0.40
+Camarate;CIR2;22/9/2015 0:00:00;4;R2;Elong 2;3.00
+Camarate;CIR2;22/9/2015 0:00:00;4;R1;Elong 2;1.40
+Camarate;CIR2;22/9/2015 0:00:00;3;R3;Elong 2;2.00
+Camarate;CIR2;22/9/2015 0:00:00;3;R2;Elong 2;4.30
+Camarate;CIR2;22/9/2015 0:00:00;3;R1;Elong 2;4.10
+Camarate;CIR2;22/9/2015 0:00:00;2;R3;Elong 2;2.20
+Camarate;CIR2;22/9/2015 0:00:00;2;R2;Elong 2;4.40
+Camarate;CIR2;22/9/2015 0:00:00;2;R1;Elong 2;3.20
+Camarate;CIR2;22/9/2015 0:00:00;1;R3;Elong 2;2.30
+Camarate;CIR2;22/9/2015 0:00:00;1;R2;Elong 2;2.70
+Camarate;CIR2;22/9/2015 0:00:00;1;R1;Elong 2;4.00
+Camarate;CIR1;22/9/2015 0:00:00;9;R2;Elong 1;2.90
+Camarate;CIR2;22/9/2015 0:00:00;5;R2;Elong 2;5.50
+Camarate;CIR1;22/9/2015 0:00:00;6;R2;Elong 1;6.00
+Camarate;CIR2;22/9/2015 0:00:00;1;R3;Elong 1;6.00
+Camarate;CIR2;22/9/2015 0:00:00;3;R3;Elong 3;2.90
+Camarate;CIR2;22/9/2015 0:00:00;4;R1;Elong 3;1.50
+Camarate;CIR2;22/9/2015 0:00:00;4;R2;Elong 3;1.60
+Camarate;CIR2;22/9/2015 0:00:00;4;R3;Elong 3;3.40
+Camarate;CIR2;22/9/2015 0:00:00;5;R1;Elong 3;4.20
+Camarate;CIR2;22/9/2015 0:00:00;5;R2;Elong 3;2.20
+Camarate;CIR1;22/9/2015 0:00:00;4;R1;Elong 1;5.60
+Camarate;CIR1;22/9/2015 0:00:00;4;R2;Elong 1;4.30
+Camarate;CIR1;22/9/2015 0:00:00;4;R3;Elong 1;9.20
+Camarate;CIR1;22/9/2015 0:00:00;5;R1;Elong 1;2.00
+Camarate;CIR1;22/9/2015 0:00:00;5;R2;Elong 1;7.50
+Camarate;CIR2;22/9/2015 0:00:00;9;R3;Elong 3;1.80
+Camarate;CIR1;22/9/2015 0:00:00;6;R1;Elong 1;3.40
+Camarate;CIR2;22/9/2015 0:00:00;9;R2;Elong 3;2.10
+Camarate;CIR1;22/9/2015 0:00:00;6;R3;Elong 1;2.60
+Camarate;CIR1;22/9/2015 0:00:00;7;R1;Elong 1;1.60
+Camarate;CIR2;22/9/2015 0:00:00;5;R3;Elong 3;7.00
+Camarate;CIR2;22/9/2015 0:00:00;6;R1;Elong 3;3.30
+Camarate;CIR2;22/9/2015 0:00:00;6;R2;Elong 3;3.70
+Camarate;CIR2;22/9/2015 0:00:00;6;R3;Elong 3;1.90
+Camarate;CIR2;22/9/2015 0:00:00;7;R1;Elong 3;1.50
+Camarate;CIR2;22/9/2015 0:00:00;7;R2;Elong 3;2.60
+Camarate;CIR2;22/9/2015 0:00:00;7;R3;Elong 3;2.00
+Camarate;CIR2;22/9/2015 0:00:00;8;R1;Elong 3;2.20
+Camarate;CIR2;22/9/2015 0:00:00;8;R2;Elong 3;0.90
+Camarate;CIR2;22/9/2015 0:00:00;8;R3;Elong 3;2.60
+Camarate;CIR2;22/9/2015 0:00:00;3;R1;Elong 3;4.00
+Camarate;CIR1;22/9/2015 0:00:00;5;R3;Elong 1;2.00
+Camarate;CSR1;30/9/2015 0:00:00;3;R1;Elong 2;37.00
+Camarate;CSR2;30/9/2015 0:00:00;1;R3;Elong 2;5.00
+Camarate;CSR2;30/9/2015 0:00:00;2;R1;Elong 2;3.10
+Camarate;CSR2;30/9/2015 0:00:00;2;R2;Elong 2;5.50
+Camarate;CSR2;30/9/2015 0:00:00;2;R3;Elong 2;6.50
+Camarate;CSR2;30/9/2015 0:00:00;3;R1;Elong 2;6.50
+Camarate;CSR2;30/9/2015 0:00:00;3;R2;Elong 2;4.50
+Camarate;CSR2;30/9/2015 0:00:00;3;R3;Elong 2;3.50
+Camarate;CSR2;30/9/2015 0:00:00;4;R1;Elong 2;1.20
+Camarate;CSR2;30/9/2015 0:00:00;1;R2;Elong 1;11.00
+Camarate;CSR1;30/9/2015 0:00:00;3;R2;Elong 2;132.00
+Camarate;CSR1;30/9/2015 0:00:00;4;R1;Elong 2;40.00
+Camarate;CSR1;30/9/2015 0:00:00;2;R3;Elong 2;60.00
+Camarate;CSR1;30/9/2015 0:00:00;2;R2;Elong 2;41.00
+Camarate;CSR1;30/9/2015 0:00:00;2;R1;Elong 2;30.00
+Camarate;CSR1;30/9/2015 0:00:00;1;R3;Elong 2;52.00
+Camarate;CSR1;30/9/2015 0:00:00;1;R2;Elong 2;32.00
+Camarate;CSR1;30/9/2015 0:00:00;1;R1;Elong 2;42.00
+Camarate;CSR2;30/9/2015 0:00:00;4;R2;Elong 2;3.30
+Camarate;CSR2;30/9/2015 0:00:00;4;R3;Elong 2;3.60
+Camarate;CSR2;30/9/2015 0:00:00;5;R1;Elong 2;8.00
+Camarate;CSR1;30/9/2015 0:00:00;3;R3;Elong 2;35.00
+Camarate;CSR1;30/9/2015 0:00:00;10;R1;Elong 2;24.00
+Camarate;CSR1;30/9/2015 0:00:00;6;R3;Elong 2;25.00
+Camarate;CSR1;30/9/2015 0:00:00;7;R1;Elong 2;30.00
+Camarate;CSR1;30/9/2015 0:00:00;7;R1;Elong 2;41.00
+Camarate;CSR1;30/9/2015 0:00:00;7;R2;Elong 2;30.00
+Camarate;CSR1;30/9/2015 0:00:00;7;R3;Elong 2;16.00
+Camarate;CSR1;30/9/2015 0:00:00;8;R1;Elong 2;57.00
+Camarate;CSR1;30/9/2015 0:00:00;8;R2;Elong 2;80.00
+Camarate;CSR1;30/9/2015 0:00:00;8;R3;Elong 2;11.00
+Camarate;CSR1;30/9/2015 0:00:00;9;R1;Elong 2;50.00
+Camarate;CSR2;30/9/2015 0:00:00;1;R2;Elong 2;0.00
+Camarate;CSR1;30/9/2015 0:00:00;9;R3;Elong 2;26.00
+Camarate;CSR2;30/9/2015 0:00:00;1;R1;Elong 2;2.10
+Camarate;CSR1;30/9/2015 0:00:00;10;R2;Elong 2;18.00
+Camarate;CSR1;30/9/2015 0:00:00;10;R3;Elong 2;35.00
+Camarate;CSR1;30/9/2015 0:00:00;6;R1;Elong 2;20.00
+Camarate;CSR1;30/9/2015 0:00:00;5;R3;Elong 2;51.00
+Camarate;CSR1;30/9/2015 0:00:00;5;R2;Elong 2;49.00
+Camarate;CSR1;30/9/2015 0:00:00;5;R1;Elong 2;45.00
+Camarate;CSR1;30/9/2015 0:00:00;4;R3;Elong 2;30.00
+Camarate;CSR1;30/9/2015 0:00:00;4;R2;Elong 2;23.00
+Camarate;CSR2;30/9/2015 0:00:00;6;R1;Elong 2;5.20
+Camarate;CSR1;30/9/2015 0:00:00;9;R2;Elong 2;54.00
+Camarate;CSR2;30/9/2015 0:00:00;7;R2;Elong 1;5.90
+Camarate;CSR2;30/9/2015 0:00:00;5;R2;Elong 2;7.00
+Camarate;CSR2;30/9/2015 0:00:00;4;R1;Elong 1;3.00
+Camarate;CSR2;30/9/2015 0:00:00;4;R2;Elong 1;2.20
+Camarate;CSR2;30/9/2015 0:00:00;4;R3;Elong 1;4.40
+Camarate;CSR2;30/9/2015 0:00:00;5;R1;Elong 1;4.60
+Camarate;CSR2;30/9/2015 0:00:00;5;R2;Elong 1;4.00
+Camarate;CSR2;30/9/2015 0:00:00;5;R3;Elong 1;4.50
+Camarate;CSR2;30/9/2015 0:00:00;6;R1;Elong 1;6.30
+Camarate;CSR2;30/9/2015 0:00:00;6;R2;Elong 1;9.00
+Camarate;CSR2;30/9/2015 0:00:00;2;R3;Elong 1;6.00
+Camarate;CSR2;30/9/2015 0:00:00;7;R1;Elong 1;6.00
+Camarate;CSR2;30/9/2015 0:00:00;2;R2;Elong 1;6.00
+Camarate;CSR2;30/9/2015 0:00:00;7;R3;Elong 1;9.60
+Camarate;CSR2;30/9/2015 0:00:00;8;R1;Elong 1;2.20
+Camarate;CSR2;30/9/2015 0:00:00;8;R2;Elong 1;4.50
+Camarate;CSR2;30/9/2015 0:00:00;8;R3;Elong 1;3.00
+Camarate;CSR2;30/9/2015 0:00:00;9;R1;Elong 1;8.00
+Camarate;CSR2;30/9/2015 0:00:00;9;R2;Elong 1;3.60
+Camarate;CSR2;30/9/2015 0:00:00;9;R3;Elong 1;5.00
+Camarate;CSR2;30/9/2015 0:00:00;10;R1;Elong 1;5.40
+Camarate;CSR2;30/9/2015 0:00:00;10;R2;Elong 1;4.10
+Camarate;CSR2;30/9/2015 0:00:00;6;R3;Elong 1;3.50
+Camarate;CSR2;30/9/2015 0:00:00;9;R2;Elong 2;2.60
+Camarate;CSR2;30/9/2015 0:00:00;10;R3;Elong 1;2.20
+Camarate;CSR2;30/9/2015 0:00:00;6;R2;Elong 2;8.00
+Camarate;CSR2;30/9/2015 0:00:00;6;R3;Elong 2;4.00
+Camarate;CSR2;30/9/2015 0:00:00;7;R1;Elong 2;7.00
+Camarate;CSR2;30/9/2015 0:00:00;7;R2;Elong 2;2.30
+Camarate;CSR2;30/9/2015 0:00:00;7;R3;Elong 2;3.30
+Camarate;CSR2;30/9/2015 0:00:00;8;R1;Elong 2;2.60
+Camarate;CSR2;30/9/2015 0:00:00;8;R2;Elong 2;1.60
+Camarate;CSR2;30/9/2015 0:00:00;8;R3;Elong 2;5.00
+Camarate;CSR2;30/9/2015 0:00:00;3;R2;Elong 1;6.00
+Camarate;CSR2;30/9/2015 0:00:00;9;R2;Elong 2;3.80
+Camarate;CSR2;30/9/2015 0:00:00;5;R3;Elong 2;7.90
+Camarate;CSR2;30/9/2015 0:00:00;9;R3;Elong 2;4.50
+Camarate;CSR2;30/9/2015 0:00:00;10;R1;Elong 2;3.90
+Camarate;CSR2;30/9/2015 0:00:00;10;R2;Elong 2;2.60
+Camarate;CSR2;30/9/2015 0:00:00;10;R3;Elong 2;3.00
+Camarate;CSR2;30/9/2015 0:00:00;3;R1;Elong 1;4.40
+Camarate;CSR1;30/9/2015 0:00:00;6;R2;Elong 2;20.00
+Camarate;CSR2;30/9/2015 0:00:00;1;R1;Elong 1;5.80
+Camarate;CSR2;30/9/2015 0:00:00;1;R3;Elong 1;6.00
+Camarate;CSR2;30/9/2015 0:00:00;2;R1;Elong 1;1.80
+Camarate;CSR2;30/9/2015 0:00:00;9;R1;Elong 2;9.00
+Camarate;CSR1;30/9/2015 0:00:00;6;R3;Elong 3;70.00
+Camarate;CSR2;30/9/2015 0:00:00;6;R2;Elong 3;7.80
+Camarate;CSR1;30/9/2015 0:00:00;9;R2;Elong 3;46.00
+Camarate;CSR1;30/9/2015 0:00:00;9;R1;Elong 3;55.00
+Camarate;CSR1;30/9/2015 0:00:00;8;R3;Elong 3;16.00
+Camarate;CSR1;30/9/2015 0:00:00;8;R2;Elong 3;56.00
+Camarate;CSR1;30/9/2015 0:00:00;8;R1;Elong 3;48.00
+Camarate;CSR1;30/9/2015 0:00:00;10;R3;Elong 3;40.00
+Camarate;CSR1;30/9/2015 0:00:00;7;R2;Elong 3;50.00
+Camarate;CSR2;30/9/2015 0:00:00;1;R1;Elong 3;3.40
+Camarate;CSR1;30/9/2015 0:00:00;6;R2;Elong 3;31.00
+Camarate;CSR1;30/9/2015 0:00:00;6;R1;Elong 3;19.00
+Camarate;CSR1;30/9/2015 0:00:00;5;R3;Elong 3;57.00
+Camarate;CSR1;30/9/2015 0:00:00;5;R2;Elong 3;26.00
+Camarate;CSR1;30/9/2015 0:00:00;5;R1;Elong 3;70.00
+Camarate;CSR1;30/9/2015 0:00:00;4;R3;Elong 3;26.00
+Camarate;CSR1;30/9/2015 0:00:00;7;R3;Elong 3;18.00
+Camarate;CSR2;30/9/2015 0:00:00;3;R2;Elong 3;6.50
+Camarate;CSR2;30/9/2015 0:00:00;6;R1;Elong 3;3.00
+Camarate;CSR2;30/9/2015 0:00:00;5;R3;Elong 3;8.30
+Camarate;CSR2;30/9/2015 0:00:00;5;R2;Elong 3;4.70
+Camarate;CSR2;30/9/2015 0:00:00;5;R1;Elong 3;4.30
+Camarate;CSR2;30/9/2015 0:00:00;4;R3;Elong 3;2.10
+Camarate;CSR2;30/9/2015 0:00:00;4;R2;Elong 3;2.80
+Camarate;CSR1;30/9/2015 0:00:00;10;R1;Elong 3;29.00
+Camarate;CSR2;30/9/2015 0:00:00;3;R3;Elong 3;3.00
+Camarate;CSR1;30/9/2015 0:00:00;3;R3;Elong 3;70.00
+Camarate;CSR2;30/9/2015 0:00:00;3;R1;Elong 3;2.10
+Camarate;CSR2;30/9/2015 0:00:00;2;R3;Elong 3;3.00
+Camarate;CSR2;30/9/2015 0:00:00;2;R2;Elong 3;3.00
+Camarate;CSR2;30/9/2015 0:00:00;2;R1;Elong 3;2.90
+Camarate;CSR2;30/9/2015 0:00:00;1;R3;Elong 3;3.50
+Camarate;CSR2;30/9/2015 0:00:00;1;R2;Elong 3;0.00
+Camarate;CSR2;30/9/2015 0:00:00;4;R1;Elong 3;13.10
+Camarate;CSR1;30/9/2015 0:00:00;9;R1;Elong 1;60.00
+Camarate;CSR1;30/9/2015 0:00:00;6;R2;Elong 1;61.00
+Camarate;CSR1;30/9/2015 0:00:00;6;R3;Elong 1;42.00
+Camarate;CSR1;30/9/2015 0:00:00;7;R1;Elong 1;34.00
+Camarate;CSR1;30/9/2015 0:00:00;7;R2;Elong 1;35.00
+Camarate;CSR1;30/9/2015 0:00:00;7;R3;Elong 1;25.00
+Camarate;CSR1;30/9/2015 0:00:00;8;R1;Elong 1;15.00
+Camarate;CSR1;30/9/2015 0:00:00;4;R2;Elong 3;21.00
+Camarate;CSR1;30/9/2015 0:00:00;8;R3;Elong 1;23.00
+Camarate;CSR1;30/9/2015 0:00:00;5;R2;Elong 1;51.00
+Camarate;CSR1;30/9/2015 0:00:00;9;R2;Elong 1;38.00
+Camarate;CSR1;30/9/2015 0:00:00;9;R3;Elong 1;20.00
+Camarate;CSR1;30/9/2015 0:00:00;10;R1;Elong 1;50.00
+Camarate;CSR1;30/9/2015 0:00:00;10;R2;Elong 1;26.00
+Camarate;CSR1;30/9/2015 0:00:00;10;R3;Elong 1;45.00
+Camarate;CSR2;30/9/2015 0:00:00;3;R3;Elong 1;2.80
+Camarate;CSR1;30/9/2015 0:00:00;8;R2;Elong 1;40.00
+Camarate;CSR1;30/9/2015 0:00:00;1;R1;Elong 3;36.00
+Camarate;CSR1;30/9/2015 0:00:00;10;R2;Elong 3;30.00
+Camarate;CSR1;30/9/2015 0:00:00;3;R2;Elong 3;68.00
+Camarate;CSR1;30/9/2015 0:00:00;3;R1;Elong 3;24.00
+Camarate;CSR1;30/9/2015 0:00:00;2;R3;Elong 3;80.00
+Camarate;CSR1;30/9/2015 0:00:00;2;R2;Elong 3;19.00
+Camarate;CSR1;30/9/2015 0:00:00;2;R1;Elong 3;25.00
+Camarate;CSR1;30/9/2015 0:00:00;6;R1;Elong 1;61.00
+Camarate;CSR1;30/9/2015 0:00:00;1;R2;Elong 3;40.00
+Camarate;CSR1;30/9/2015 0:00:00;5;R3;Elong 1;50.00
+Camarate;CSR1;30/9/2015 0:00:00;3;R2;Elong 1;111.00
+Camarate;CSR1;30/9/2015 0:00:00;3;R3;Elong 1;40.00
+Camarate;CSR1;30/9/2015 0:00:00;4;R1;Elong 1;20.00
+Camarate;CSR1;30/9/2015 0:00:00;4;R2;Elong 1;24.00
+Camarate;CSR1;30/9/2015 0:00:00;4;R3;Elong 1;24.00
+Camarate;CSR1;30/9/2015 0:00:00;5;R1;Elong 1;30.00
+Camarate;CSR1;30/9/2015 0:00:00;4;R1;Elong 3;35.00
+Camarate;CSR1;30/9/2015 0:00:00;1;R3;Elong 3;30.00
+Camarate;CSR1;30/9/2015 0:00:00;1;R1;Elong 1;56.00
+Camarate;CSR1;30/9/2015 0:00:00;2;R1;Elong 1;56.00
+Camarate;CSR2;30/9/2015 0:00:00;6;R3;Elong 3;2.00
+Camarate;CSR1;30/9/2015 0:00:00;9;R3;Elong 3;32.00
+Camarate;CSR1;30/9/2015 0:00:00;1;R2;Elong 1;30.00
+Camarate;CSR1;30/9/2015 0:00:00;1;R3;Elong 1;50.00
+Camarate;CSR1;30/9/2015 0:00:00;3;R1;Elong 1;44.00
+Camarate;CSR1;30/9/2015 0:00:00;2;R3;Elong 1;70.00
+Camarate;CSR1;30/9/2015 0:00:00;2;R2;Elong 1;46.00
+Camarate;CSR2;30/9/2015 0:00:00;10;R3;Elong 3;5.00
+Camarate;CSR2;30/9/2015 0:00:00;7;R3;Elong 3;26.10
+Camarate;CSR2;30/9/2015 0:00:00;7;R1;Elong 3;6.50
+Camarate;CSR2;30/9/2015 0:00:00;10;R2;Elong 3;4.00
+Camarate;CSR2;30/9/2015 0:00:00;7;R2;Elong 3;7.60
+Camarate;CSR2;30/9/2015 0:00:00;8;R1;Elong 3;4.40
+Camarate;CSR2;30/9/2015 0:00:00;8;R2;Elong 3;1.80
+Camarate;CSR2;30/9/2015 0:00:00;8;R3;Elong 3;4.50
+Camarate;CSR2;30/9/2015 0:00:00;9;R1;Elong 3;5.00
+Camarate;CSR2;30/9/2015 0:00:00;9;R3;Elong 3;9.70
+Camarate;CSR2;30/9/2015 0:00:00;10;R1;Elong 3;9.60
+Cañar;CIR1;22/9/2011 0:00:00;1;R3;Elong 1;10.00
+Cañar;CSR2;22/9/2011 0:00:00;2;R3;Elong 1;3.00
+Cañar;CSR1;22/9/2011 0:00:00;2;R2;Elong 1;1.00
+Cañar;CIR1;22/9/2011 0:00:00;1;R1;Elong 1;3.00
+Cañar;CSR1;22/9/2011 0:00:00;1;R1;Elong 1;2.00
+Cañar;CSR1;22/9/2011 0:00:00;1;R2;Elong 1;3.00
+Cañar;CSR1;22/9/2011 0:00:00;1;R3;Elong 1;22.00
+Cañar;CSR2;22/9/2011 0:00:00;3;R3;Elong 1;7.00
+Cañar;CSR1;22/9/2011 0:00:00;2;R3;Elong 1;1.00
+Cañar;CSR1;22/9/2011 0:00:00;2;R1;Elong 1;2.00
+Cañar;CSR1;22/9/2011 0:00:00;3;R1;Elong 1;4.00
+Cañar;CSR2;22/9/2011 0:00:00;1;R3;Elong 1;1.00
+Cañar;CSR2;22/9/2011 0:00:00;3;R1;Elong 1;11.00
+Cañar;CSR2;22/9/2011 0:00:00;2;R2;Elong 1;1.00
+Cañar;CIR1;22/9/2011 0:00:00;2;R2;Elong 1;4.00
+Cañar;CIR1;22/9/2011 0:00:00;5;R1;Elong 1;4.00
+Cañar;CSR1;22/9/2011 0:00:00;3;R2;Elong 1;1.00
+Cañar;CIR1;22/9/2011 0:00:00;7;R1;Elong 1;2.00
+Cañar;CSR2;22/9/2011 0:00:00;3;R2;Elong 1;12.00
+Cañar;CIR1;22/9/2011 0:00:00;10;R3;Elong 1;3.00
+Cañar;CIR1;22/9/2011 0:00:00;10;R2;Elong 1;3.00
+Cañar;CIR1;22/9/2011 0:00:00;10;R1;Elong 1;2.00
+Cañar;CIR1;22/9/2011 0:00:00;9;R3;Elong 1;2.00
+Cañar;CIR1;22/9/2011 0:00:00;9;R2;Elong 1;6.00
+Cañar;CIR1;22/9/2011 0:00:00;9;R1;Elong 1;3.00
+Cañar;CIR1;22/9/2011 0:00:00;8;R3;Elong 1;7.00
+Cañar;CIR1;22/9/2011 0:00:00;8;R2;Elong 1;5.00
+Cañar;CIR1;22/9/2011 0:00:00;8;R1;Elong 1;2.00
+Cañar;CIR1;22/9/2011 0:00:00;4;R2;Elong 1;2.00
+Cañar;CIR1;22/9/2011 0:00:00;7;R2;Elong 1;1.00
+Cañar;CIR1;22/9/2011 0:00:00;2;R3;Elong 1;3.00
+Cañar;CIR1;22/9/2011 0:00:00;6;R3;Elong 1;2.00
+Cañar;CIR1;22/9/2011 0:00:00;6;R2;Elong 1;4.00
+Cañar;CIR1;22/9/2011 0:00:00;6;R1;Elong 1;3.00
+Cañar;CIR1;22/9/2011 0:00:00;5;R3;Elong 1;4.00
+Cañar;CIR1;22/9/2011 0:00:00;5;R2;Elong 1;4.00
+Cañar;CSR2;22/9/2011 0:00:00;5;R1;Elong 1;8.00
+Cañar;CIR1;22/9/2011 0:00:00;4;R3;Elong 1;3.00
+Cañar;CIR1;22/9/2011 0:00:00;4;R1;Elong 1;3.00
+Cañar;CIR1;22/9/2011 0:00:00;3;R3;Elong 1;3.00
+Cañar;CIR1;22/9/2011 0:00:00;3;R2;Elong 1;3.00
+Cañar;CIR1;22/9/2011 0:00:00;3;R1;Elong 1;2.00
+Cañar;CIR1;22/9/2011 0:00:00;7;R3;Elong 1;2.00
+Cañar;CSR2;22/9/2011 0:00:00;2;R1;Elong 2;7.00
+Cañar;CSR2;22/9/2011 0:00:00;4;R2;Elong 1;3.00
+Cañar;CSR1;22/9/2011 0:00:00;9;R2;Elong 1;10.00
+Cañar;CSR1;22/9/2011 0:00:00;9;R1;Elong 1;8.00
+Cañar;CSR1;22/9/2011 0:00:00;8;R3;Elong 1;4.00
+Cañar;CSR1;22/9/2011 0:00:00;8;R2;Elong 1;1.00
+Cañar;CSR1;22/9/2011 0:00:00;8;R1;Elong 1;2.00
+Cañar;CSR1;22/9/2011 0:00:00;7;R3;Elong 1;4.00
+Cañar;CSR1;22/9/2011 0:00:00;7;R2;Elong 1;5.00
+Cañar;CSR1;22/9/2011 0:00:00;7;R1;Elong 1;3.00
+Cañar;CSR1;22/9/2011 0:00:00;10;R1;Elong 1;3.00
+Cañar;CSR1;22/9/2011 0:00:00;6;R2;Elong 1;5.00
+Cañar;CSR1;22/9/2011 0:00:00;10;R2;Elong 1;2.00
+Cañar;CSR1;22/9/2011 0:00:00;6;R1;Elong 1;15.00
+Cañar;CIR1;22/9/2011 0:00:00;2;R1;Elong 1;3.00
+Cañar;CSR1;22/9/2011 0:00:00;5;R3;Elong 1;2.00
+Cañar;CSR1;22/9/2011 0:00:00;5;R2;Elong 1;3.00
+Cañar;CSR1;22/9/2011 0:00:00;5;R1;Elong 1;3.00
+Cañar;CSR1;22/9/2011 0:00:00;4;R3;Elong 1;1.00
+Cañar;CSR1;22/9/2011 0:00:00;4;R2;Elong 1;4.00
+Cañar;CSR1;22/9/2011 0:00:00;4;R1;Elong 1;1.00
+Cañar;CSR1;22/9/2011 0:00:00;3;R3;Elong 1;2.00
+Cañar;CSR1;22/9/2011 0:00:00;6;R3;Elong 1;2.00
+Cañar;CSR2;22/9/2011 0:00:00;8;R1;Elong 1;2.00
+Cañar;CSR2;22/9/2011 0:00:00;1;R1;Elong 1;2.00
+Cañar;CSR2;22/9/2011 0:00:00;4;R1;Elong 1;10.00
+Cañar;CSR2;22/9/2011 0:00:00;4;R3;Elong 1;4.00
+Cañar;CSR2;22/9/2011 0:00:00;5;R2;Elong 1;3.00
+Cañar;CSR2;22/9/2011 0:00:00;5;R3;Elong 1;1.00
+Cañar;CSR2;22/9/2011 0:00:00;6;R1;Elong 1;5.00
+Cañar;CSR2;22/9/2011 0:00:00;6;R2;Elong 1;5.00
+Cañar;CSR2;22/9/2011 0:00:00;6;R3;Elong 1;2.00
+Cañar;CSR2;22/9/2011 0:00:00;7;R1;Elong 1;3.00
+Cañar;CSR1;22/9/2011 0:00:00;9;R3;Elong 1;3.00
+Cañar;CSR2;22/9/2011 0:00:00;7;R3;Elong 1;1.00
+Cañar;CSR2;22/9/2011 0:00:00;1;R2;Elong 1;1.00
+Cañar;CSR2;22/9/2011 0:00:00;8;R2;Elong 1;4.00
+Cañar;CSR2;22/9/2011 0:00:00;8;R3;Elong 1;2.00
+Cañar;CSR2;22/9/2011 0:00:00;9;R1;Elong 1;2.00
+Cañar;CSR2;22/9/2011 0:00:00;9;R2;Elong 1;2.00
+Cañar;CSR2;22/9/2011 0:00:00;9;R3;Elong 1;2.00
+Cañar;CSR2;22/9/2011 0:00:00;10;R1;Elong 1;1.00
+Cañar;CSR2;22/9/2011 0:00:00;10;R2;Elong 1;1.00
+Cañar;CSR2;22/9/2011 0:00:00;10;R3;Elong 1;2.00
+Cañar;CSR1;22/9/2011 0:00:00;10;R3;Elong 1;1.00
+Cañar;CSR2;22/9/2011 0:00:00;7;R2;Elong 1;6.00
+Cañar;CIR2;22/9/2011 0:00:00;10;R1;Elong 1;1.00
+Cañar;CIR2;22/9/2011 0:00:00;6;R1;Elong 1;4.00
+Cañar;CIR2;22/9/2011 0:00:00;8;R1;Elong 1;2.00
+Cañar;CIR2;22/9/2011 0:00:00;7;R2;Elong 1;1.00
+Cañar;CIR2;22/9/2011 0:00:00;7;R1;Elong 1;1.00
+Cañar;CIR2;22/9/2011 0:00:00;6;R3;Elong 1;2.00
+Cañar;CIR2;22/9/2011 0:00:00;6;R2;Elong 1;2.00
+Cañar;CIR2;22/9/2011 0:00:00;9;R1;Elong 1;3.00
+Cañar;CIR2;22/9/2011 0:00:00;2;R1;Elong 1;1.00
+Cañar;CIR2;22/9/2011 0:00:00;9;R3;Elong 1;2.00
+Cañar;CIR2;22/9/2011 0:00:00;8;R2;Elong 1;9.00
+Cañar;CIR2;22/9/2011 0:00:00;10;R2;Elong 1;2.00
+Cañar;CIR2;22/9/2011 0:00:00;10;R3;Elong 1;7.00
+Cañar;CIR2;22/9/2011 0:00:00;8;R3;Elong 1;1.00
+Cañar;CIR1;22/9/2011 0:00:00;1;R2;Elong 1;4.00
+Cañar;CIR2;22/9/2011 0:00:00;1;R3;Elong 1;5.00
+Cañar;CIR2;22/9/2011 0:00:00;1;R2;Elong 1;5.00
+Cañar;CIR2;22/9/2011 0:00:00;1;R1;Elong 1;4.00
+Cañar;CIR2;22/9/2011 0:00:00;5;R3;Elong 1;2.00
+Cañar;CIR2;22/9/2011 0:00:00;9;R2;Elong 1;3.00
+Cañar;CIR2;22/9/2011 0:00:00;3;R2;Elong 1;2.00
+Cañar;CIR2;22/9/2011 0:00:00;5;R2;Elong 1;17.00
+Cañar;CIR2;22/9/2011 0:00:00;5;R1;Elong 1;5.00
+Cañar;CIR2;22/9/2011 0:00:00;4;R3;Elong 1;2.00
+Cañar;CIR2;22/9/2011 0:00:00;4;R2;Elong 1;1.00
+Cañar;CIR2;22/9/2011 0:00:00;7;R3;Elong 1;3.00
+Cañar;CIR2;22/9/2011 0:00:00;3;R3;Elong 1;2.00
+Cañar;CIR2;22/9/2011 0:00:00;2;R2;Elong 1;14.00
+Cañar;CIR2;22/9/2011 0:00:00;3;R1;Elong 1;9.00
+Cañar;CIR2;22/9/2011 0:00:00;2;R3;Elong 1;8.00
+Cañar;CIR2;22/9/2011 0:00:00;4;R1;Elong 1;1.00
+Cañar;CIR2;14/9/2012 0:00:00;7;R3;Elong 1;1.00
+Cañar;CSR1;14/9/2012 0:00:00;6;R2;Elong 1;2.50
+Cañar;CSR1;14/9/2012 0:00:00;6;R3;Elong 1;2.50
+Cañar;CIR1;14/9/2012 0:00:00;3;R1;Elong 1;5.50
+Cañar;CIR1;14/9/2012 0:00:00;3;R2;Elong 1;1.00
+Cañar;CIR1;14/9/2012 0:00:00;3;R3;Elong 1;2.50
+Cañar;CIR2;14/9/2012 0:00:00;10;R3;Elong 1;
+Cañar;CIR2;14/9/2012 0:00:00;10;R2;Elong 1;1.00
+Cañar;CIR2;14/9/2012 0:00:00;10;R1;Elong 1;
+Cañar;CIR2;14/9/2012 0:00:00;9;R3;Elong 1;4.00
+Cañar;CIR2;14/9/2012 0:00:00;9;R2;Elong 1;9.00
+Cañar;CIR2;14/9/2012 0:00:00;9;R1;Elong 1;2.50
+Cañar;CIR2;14/9/2012 0:00:00;8;R3;Elong 1;1.50
+Cañar;CSR1;14/9/2012 0:00:00;6;R1;Elong 1;14.00
+Cañar;CSR1;14/9/2012 0:00:00;7;R1;Elong 1;3.50
+Cañar;CSR1;14/9/2012 0:00:00;9;R1;Elong 1;2.50
+Cañar;CSR1;14/9/2012 0:00:00;8;R3;Elong 1;1.50
+Cañar;CSR1;14/9/2012 0:00:00;8;R2;Elong 1;8.50
+Cañar;CSR1;14/9/2012 0:00:00;8;R1;Elong 1;5.50
+Cañar;CIR1;14/9/2012 0:00:00;9;R3;Elong 1;2.00
+Cañar;CIR2;14/9/2012 0:00:00;8;R2;Elong 1;2.50
+Cañar;CSR1;14/9/2012 0:00:00;7;R2;Elong 1;7.00
+Cañar;CIR2;14/9/2012 0:00:00;8;R1;Elong 1;8.00
+Cañar;CIR2;14/9/2012 0:00:00;6;R1;Elong 1;4.50
+Cañar;CIR2;14/9/2012 0:00:00;6;R2;Elong 1;1.00
+Cañar;CIR2;14/9/2012 0:00:00;6;R3;Elong 1;1.50
+Cañar;CIR2;14/9/2012 0:00:00;7;R1;Elong 1;2.00
+Cañar;CIR2;14/9/2012 0:00:00;7;R2;Elong 1;2.00
+Cañar;CSR1;14/9/2012 0:00:00;5;R3;Elong 1;12.50
+Cañar;CSR1;14/9/2012 0:00:00;7;R3;Elong 1;0.50
+Cañar;CIR1;14/9/2012 0:00:00;4;R1;Elong 1;0.50
+Cañar;CIR1;14/9/2012 0:00:00;10;R3;Elong 1;8.00
+Cañar;CSR1;14/9/2012 0:00:00;1;R2;Elong 1;3.00
+Cañar;CSR1;14/9/2012 0:00:00;1;R1;Elong 1;1.50
+Cañar;CSR1;14/9/2012 0:00:00;1;R3;Elong 1;7.00
+Cañar;CSR1;14/9/2012 0:00:00;2;R1;Elong 1;5.50
+Cañar;CSR1;14/9/2012 0:00:00;2;R2;Elong 1;6.80
+Cañar;CSR1;14/9/2012 0:00:00;2;R3;Elong 1;0.80
+Cañar;CSR1;14/9/2012 0:00:00;3;R1;Elong 1;4.50
+Cañar;CSR1;14/9/2012 0:00:00;3;R2;Elong 1;1.40
+Cañar;CSR1;14/9/2012 0:00:00;3;R3;Elong 1;2.00
+Cañar;CSR1;14/9/2012 0:00:00;4;R1;Elong 1;1.50
+Cañar;CSR1;14/9/2012 0:00:00;4;R2;Elong 1;2.00
+Cañar;CSR1;14/9/2012 0:00:00;4;R3;Elong 1;0.80
+Cañar;CIR1;14/9/2012 0:00:00;6;R1;Elong 1;2.50
+Cañar;CIR1;14/9/2012 0:00:00;5;R3;Elong 1;14.00
+Cañar;CSR1;14/9/2012 0:00:00;5;R2;Elong 1;5.00
+Cañar;CIR1;14/9/2012 0:00:00;2;R3;Elong 1;6.00
+Cañar;CIR1;14/9/2012 0:00:00;2;R2;Elong 1;1.50
+Cañar;CIR1;14/9/2012 0:00:00;2;R1;Elong 1;6.50
+Cañar;CIR1;14/9/2012 0:00:00;1;R3;Elong 1;11.00
+Cañar;CSR1;14/9/2012 0:00:00;5;R1;Elong 1;5.50
+Cañar;CIR1;14/9/2012 0:00:00;5;R1;Elong 3;
+Cañar;CIR1;14/9/2012 0:00:00;1;R1;Elong 1;15.00
+Cañar;CIR1;14/9/2012 0:00:00;5;R2;Elong 1;5.00
+Cañar;CIR1;14/9/2012 0:00:00;5;R1;Elong 1;0.50
+Cañar;CIR1;14/9/2012 0:00:00;4;R3;Elong 1;1.50
+Cañar;CIR1;14/9/2012 0:00:00;4;R2;Elong 1;0.50
+Cañar;CSR1;14/9/2012 0:00:00;4;R3;Elong 2;
+Cañar;CIR1;14/9/2012 0:00:00;9;R1;Elong 1;3.50
+Cañar;CIR1;14/9/2012 0:00:00;1;R2;Elong 1;3.00
+Cañar;CSR2;14/9/2012 0:00:00;3;R1;Elong 1;1.00
+Cañar;CIR1;14/9/2012 0:00:00;5;R1;Elong 2;
+Cañar;CSR2;14/9/2012 0:00:00;5;R1;Elong 1;1.50
+Cañar;CSR2;14/9/2012 0:00:00;4;R3;Elong 1;2.50
+Cañar;CSR2;14/9/2012 0:00:00;4;R2;Elong 1;2.50
+Cañar;CSR2;14/9/2012 0:00:00;4;R1;Elong 1;7.50
+Cañar;CSR2;14/9/2012 0:00:00;3;R3;Elong 1;4.00
+Cañar;CSR2;14/9/2012 0:00:00;3;R2;Elong 1;1.00
+Cañar;CSR2;14/9/2012 0:00:00;5;R3;Elong 1;5.00
+Cañar;CIR2;14/9/2012 0:00:00;3;R2;Elong 1;5.50
+Cañar;CSR2;14/9/2012 0:00:00;6;R1;Elong 1;4.50
+Cañar;CIR2;14/9/2012 0:00:00;5;R2;Elong 1;0.50
+Cañar;CSR2;14/9/2012 0:00:00;1;R3;Elong 2;9.00
+Cañar;CIR2;14/9/2012 0:00:00;3;R1;Elong 1;1.00
+Cañar;CIR2;14/9/2012 0:00:00;2;R3;Elong 1;11.00
+Cañar;CIR2;14/9/2012 0:00:00;2;R2;Elong 1;32.00
+Cañar;CIR2;14/9/2012 0:00:00;2;R1;Elong 1;2.00
+Cañar;CIR2;14/9/2012 0:00:00;5;R3;Elong 1;10.00
+Cañar;CIR2;14/9/2012 0:00:00;3;R3;Elong 1;10.00
+Cañar;CSR2;14/9/2012 0:00:00;8;R3;Elong 1;1.00
+Cañar;CIR2;14/9/2012 0:00:00;4;R3;Elong 1;1.00
+Cañar;CIR2;14/9/2012 0:00:00;4;R2;Elong 1;1.50
+Cañar;CIR2;14/9/2012 0:00:00;4;R1;Elong 1;6.00
+Cañar;CSR2;14/9/2012 0:00:00;10;R3;Elong 1;7.00
+Cañar;CSR2;14/9/2012 0:00:00;10;R2;Elong 1;0.50
+Cañar;CSR2;14/9/2012 0:00:00;10;R1;Elong 1;1.00
+Cañar;CSR2;14/9/2012 0:00:00;9;R3;Elong 1;6.50
+Cañar;CSR2;14/9/2012 0:00:00;5;R2;Elong 1;2.50
+Cañar;CSR2;14/9/2012 0:00:00;9;R1;Elong 1;5.00
+Cañar;CIR2;14/9/2012 0:00:00;1;R1;Elong 1;3.00
+Cañar;CSR2;14/9/2012 0:00:00;8;R2;Elong 1;6.50
+Cañar;CSR2;14/9/2012 0:00:00;8;R1;Elong 1;5.50
+Cañar;CSR2;14/9/2012 0:00:00;7;R3;Elong 1;0.50
+Cañar;CSR2;14/9/2012 0:00:00;7;R2;Elong 1;4.10
+Cañar;CSR2;14/9/2012 0:00:00;7;R1;Elong 1;5.00
+Cañar;CSR2;14/9/2012 0:00:00;6;R3;Elong 1;1.00
+Cañar;CSR2;14/9/2012 0:00:00;6;R2;Elong 1;0.50
+Cañar;CSR2;14/9/2012 0:00:00;9;R2;Elong 1;2.50
+Cañar;CIR1;14/9/2012 0:00:00;9;R2;Elong 1;4.50
+Cañar;CIR1;14/9/2012 0:00:00;8;R3;Elong 1;12.00
+Cañar;CIR1;14/9/2012 0:00:00;10;R1;Elong 1;8.00
+Cañar;CIR1;14/9/2012 0:00:00;10;R2;Elong 1;4.00
+Cañar;CIR1;14/9/2012 0:00:00;8;R1;Elong 1;3.00
+Cañar;CIR2;14/9/2012 0:00:00;1;R3;Elong 1;10.00
+Cañar;CIR1;14/9/2012 0:00:00;7;R3;Elong 1;2.00
+Cañar;CIR2;14/9/2012 0:00:00;1;R2;Elong 1;7.00
+Cañar;CIR1;14/9/2012 0:00:00;7;R2;Elong 1;0.50
+Cañar;CIR1;14/9/2012 0:00:00;7;R1;Elong 1;1.50
+Cañar;CIR1;14/9/2012 0:00:00;6;R3;Elong 1;16.00
+Cañar;CIR1;14/9/2012 0:00:00;8;R2;Elong 1;4.50
+Cañar;CIR1;14/9/2012 0:00:00;6;R2;Elong 1;5.00
+Cañar;CSR1;14/9/2012 0:00:00;10;R3;Elong 1;2.50
+Cañar;CSR1;14/9/2012 0:00:00;10;R2;Elong 1;0.50
+Cañar;CIR2;14/9/2012 0:00:00;5;R1;Elong 1;2.00
+Cañar;CSR1;14/9/2012 0:00:00;10;R1;Elong 1;0.50
+Cañar;CSR1;14/9/2012 0:00:00;9;R3;Elong 1;2.00
+Cañar;CSR2;14/9/2012 0:00:00;1;R1;Elong 1;5.00
+Cañar;CSR2;14/9/2012 0:00:00;1;R2;Elong 1;6.50
+Cañar;CSR2;14/9/2012 0:00:00;2;R1;Elong 1;2.00
+Cañar;CSR2;14/9/2012 0:00:00;2;R2;Elong 1;1.00
+Cañar;CSR2;14/9/2012 0:00:00;2;R3;Elong 1;2.50
+Cañar;CSR1;14/9/2012 0:00:00;9;R2;Elong 1;10.50
+Cañar;CIR2;23/9/2013 0:00:00;5;R1;Elong 1;1.50
+Cañar;CIR2;23/9/2013 0:00:00;8;R1;Elong 1;4.00
+Cañar;CIR2;23/9/2013 0:00:00;6;R1;Elong 1;3.00
+Cañar;CIR2;23/9/2013 0:00:00;5;R2;Elong 1;6.00
+Cañar;CIR2;23/9/2013 0:00:00;4;R3;Elong 1;2.50
+Cañar;CIR2;23/9/2013 0:00:00;4;R2;Elong 1;4.00
+Cañar;CIR2;23/9/2013 0:00:00;4;R1;Elong 1;7.00
+Cañar;CIR2;23/9/2013 0:00:00;3;R3;Elong 1;4.50
+Cañar;CIR2;23/9/2013 0:00:00;3;R2;Elong 1;5.00
+Cañar;CIR2;23/9/2013 0:00:00;3;R1;Elong 1;10.00
+Cañar;CIR2;23/9/2013 0:00:00;2;R3;Elong 1;5.50
+Cañar;CIR2;23/9/2013 0:00:00;2;R1;Elong 1;9.00
+Cañar;CIR2;23/9/2013 0:00:00;1;R2;Elong 1;3.00
+Cañar;CIR2;23/9/2013 0:00:00;1;R1;Elong 1;2.50
+Cañar;CIR2;23/9/2013 0:00:00;5;R3;Elong 1;7.50
+Cañar;CSR1;23/9/2013 0:00:00;8;R1;Elong 1;3.00
+Cañar;CSR1;23/9/2013 0:00:00;10;R3;Elong 1;2.00
+Cañar;CSR1;23/9/2013 0:00:00;10;R2;Elong 1;5.00
+Cañar;CSR1;23/9/2013 0:00:00;10;R1;Elong 1;3.00
+Cañar;CSR1;23/9/2013 0:00:00;9;R3;Elong 1;4.00
+Cañar;CSR1;23/9/2013 0:00:00;9;R2;Elong 1;3.00
+Cañar;CSR1;23/9/2013 0:00:00;9;R1;Elong 1;1.00
+Cañar;CIR2;23/9/2013 0:00:00;7;R2;Elong 1;3.00
+Cañar;CSR1;23/9/2013 0:00:00;8;R2;Elong 1;2.00
+Cañar;CSR2;23/9/2013 0:00:00;6;R2;Elong 1;2.00
+Cañar;CSR1;23/9/2013 0:00:00;7;R3;Elong 1;2.00
+Cañar;CSR1;23/9/2013 0:00:00;7;R2;Elong 1;6.50
+Cañar;CSR1;23/9/2013 0:00:00;7;R1;Elong 1;5.00
+Cañar;CSR1;23/9/2013 0:00:00;6;R3;Elong 1;5.00
+Cañar;CSR1;23/9/2013 0:00:00;6;R2;Elong 1;4.00
+Cañar;CSR1;23/9/2013 0:00:00;6;R1;Elong 1;8.00
+Cañar;CSR1;23/9/2013 0:00:00;5;R3;Elong 1;3.00
+Cañar;CSR1;23/9/2013 0:00:00;8;R3;Elong 1;3.00
+Cañar;CSR2;23/9/2013 0:00:00;4;R1;Elong 1;2.00
+Cañar;CSR2;23/9/2013 0:00:00;1;R1;Elong 1;7.00
+Cañar;CSR2;23/9/2013 0:00:00;1;R2;Elong 1;3.50
+Cañar;CSR2;23/9/2013 0:00:00;1;R3;Elong 1;11.00
+Cañar;CSR2;23/9/2013 0:00:00;2;R1;Elong 1;2.50
+Cañar;CSR2;23/9/2013 0:00:00;2;R2;Elong 1;2.00
+Cañar;CSR2;23/9/2013 0:00:00;2;R3;Elong 1;4.00
+Cañar;CSR2;23/9/2013 0:00:00;3;R1;Elong 1;8.50
+Cañar;CSR2;23/9/2013 0:00:00;7;R1;Elong 1;5.50
+Cañar;CSR2;23/9/2013 0:00:00;3;R3;Elong 1;5.50
+Cañar;CSR2;23/9/2013 0:00:00;6;R3;Elong 1;2.30
+Cañar;CSR2;23/9/2013 0:00:00;4;R2;Elong 1;5.50
+Cañar;CSR2;23/9/2013 0:00:00;4;R3;Elong 1;7.00
+Cañar;CSR2;23/9/2013 0:00:00;5;R1;Elong 1;4.00
+Cañar;CSR2;23/9/2013 0:00:00;5;R2;Elong 1;2.00
+Cañar;CSR2;23/9/2013 0:00:00;5;R3;Elong 1;3.00
+Cañar;CSR2;23/9/2013 0:00:00;6;R1;Elong 1;5.00
+Cañar;CSR1;23/9/2013 0:00:00;4;R3;Elong 1;5.00
+Cañar;CSR2;23/9/2013 0:00:00;3;R2;Elong 1;11.00
+Cañar;CSR2;23/9/2013 0:00:00;8;R2;Elong 1;3.50
+Cañar;CSR1;23/9/2013 0:00:00;5;R2;Elong 1;6.50
+Cañar;CIR2;23/9/2013 0:00:00;1;R3;Elong 1;5.00
+Cañar;CIR2;23/9/2013 0:00:00;7;R3;Elong 1;3.50
+Cañar;CIR2;23/9/2013 0:00:00;7;R1;Elong 1;2.00
+Cañar;CIR2;23/9/2013 0:00:00;6;R3;Elong 1;4.50
+Cañar;CIR2;23/9/2013 0:00:00;6;R2;Elong 1;2.00
+Cañar;CSR2;23/9/2013 0:00:00;7;R2;Elong 1;3.50
+Cañar;CIR2;23/9/2013 0:00:00;8;R3;Elong 1;5.50
+Cañar;CSR2;23/9/2013 0:00:00;8;R1;Elong 1;5.00
+Cañar;CIR2;23/9/2013 0:00:00;9;R1;Elong 1;7.50
+Cañar;CSR2;23/9/2013 0:00:00;8;R3;Elong 1;2.50
+Cañar;CSR2;23/9/2013 0:00:00;9;R1;Elong 1;2.00
+Cañar;CSR2;23/9/2013 0:00:00;9;R2;Elong 1;3.50
+Cañar;CSR2;23/9/2013 0:00:00;7;R2;Elong 3;
+Cañar;CSR2;23/9/2013 0:00:00;9;R3;Elong 1;9.50
+Cañar;CSR2;23/9/2013 0:00:00;10;R1;Elong 1;2.00
+Cañar;CSR2;23/9/2013 0:00:00;10;R2;Elong 1;0.50
+Cañar;CSR2;23/9/2013 0:00:00;7;R3;Elong 1;4.50
+Cañar;CSR1;23/9/2013 0:00:00;1;R3;Elong 1;6.50
+Cañar;CSR2;23/9/2013 0:00:00;10;R3;Elong 1;3.50
+Cañar;CSR1;23/9/2013 0:00:00;4;R2;Elong 1;10.00
+Cañar;CSR1;23/9/2013 0:00:00;4;R1;Elong 1;4.00
+Cañar;CSR1;23/9/2013 0:00:00;3;R3;Elong 1;1.00
+Cañar;CSR1;23/9/2013 0:00:00;3;R2;Elong 1;2.00
+Cañar;CSR1;23/9/2013 0:00:00;3;R1;Elong 1;1.50
+Cañar;CSR1;23/9/2013 0:00:00;2;R3;Elong 1;4.00
+Cañar;CIR2;23/9/2013 0:00:00;8;R2;Elong 1;2.00
+Cañar;CSR1;23/9/2013 0:00:00;2;R1;Elong 1;4.50
+Cañar;CSR1;23/9/2013 0:00:00;5;R1;Elong 1;2.50
+Cañar;CSR1;23/9/2013 0:00:00;1;R2;Elong 1;6.00
+Cañar;CSR1;23/9/2013 0:00:00;1;R1;Elong 1;10.00
+Cañar;CIR2;23/9/2013 0:00:00;10;R3;Elong 1;4.00
+Cañar;CIR2;23/9/2013 0:00:00;10;R2;Elong 1;3.70
+Cañar;CIR2;23/9/2013 0:00:00;10;R1;Elong 1;24.00
+Cañar;CIR2;23/9/2013 0:00:00;9;R3;Elong 1;3.50
+Cañar;CIR2;23/9/2013 0:00:00;9;R2;Elong 1;5.00
+Cañar;CSR1;23/9/2013 0:00:00;2;R2;Elong 1;3.50
+Cañar;CIR1;23/9/2013 0:00:00;6;R2;Elong 1;2.50
+Cañar;CIR1;23/9/2013 0:00:00;1;R1;Elong 1;1.50
+Cañar;CIR1;23/9/2013 0:00:00;1;R3;Elong 1;1.00
+Cañar;CIR2;23/9/2013 0:00:00;2;R2;Elong 1;16.00
+Cañar;CIR1;23/9/2013 0:00:00;2;R2;Elong 1;3.50
+Cañar;CIR1;23/9/2013 0:00:00;2;R3;Elong 1;2.00
+Cañar;CIR1;23/9/2013 0:00:00;3;R1;Elong 1;3.00
+Cañar;CIR1;23/9/2013 0:00:00;3;R2;Elong 1;4.00
+Cañar;CIR1;23/9/2013 0:00:00;3;R3;Elong 1;2.50
+Cañar;CIR1;23/9/2013 0:00:00;4;R1;Elong 1;2.00
+Cañar;CIR1;23/9/2013 0:00:00;4;R2;Elong 1;2.00
+Cañar;CIR1;23/9/2013 0:00:00;4;R3;Elong 1;2.00
+Cañar;CIR1;23/9/2013 0:00:00;5;R1;Elong 1;2.00
+Cañar;CIR1;23/9/2013 0:00:00;5;R2;Elong 1;3.00
+Cañar;CIR1;23/9/2013 0:00:00;10;R3;Elong 1;3.00
+Cañar;CIR1;23/9/2013 0:00:00;8;R2;Elong 1;10.00
+Cañar;CSR2;23/9/2013 0:00:00;7;R2;Elong 2;
+Cañar;CIR1;23/9/2013 0:00:00;10;R2;Elong 1;
+Cañar;CIR1;23/9/2013 0:00:00;10;R1;Elong 1;2.50
+Cañar;CIR1;23/9/2013 0:00:00;9;R3;Elong 1;6.00
+Cañar;CIR1;23/9/2013 0:00:00;9;R2;Elong 1;3.00
+Cañar;CIR1;23/9/2013 0:00:00;5;R3;Elong 1;3.50
+Cañar;CIR1;23/9/2013 0:00:00;8;R3;Elong 1;12.00
+Cañar;CIR1;23/9/2013 0:00:00;6;R1;Elong 1;4.00
+Cañar;CIR1;23/9/2013 0:00:00;8;R1;Elong 1;7.00
+Cañar;CIR1;23/9/2013 0:00:00;7;R3;Elong 1;2.00
+Cañar;CIR1;23/9/2013 0:00:00;7;R2;Elong 1;2.00
+Cañar;CIR1;23/9/2013 0:00:00;7;R1;Elong 1;2.50
+Cañar;CIR1;23/9/2013 0:00:00;6;R3;Elong 1;11.00
+Cañar;CIR1;23/9/2013 0:00:00;1;R2;Elong 1;3.00
+Cañar;CIR1;23/9/2013 0:00:00;9;R1;Elong 1;4.00
+Cañar;CIR1;23/9/2013 0:00:00;2;R1;Elong 1;3.00
+Cañar;CIR1;12/9/2014 0:00:00;6;R3;Elong 1;14.80
+Cañar;CIR1;12/9/2014 0:00:00;2;R3;Elong 1;4.80
+Cañar;CIR1;12/9/2014 0:00:00;3;R1;Elong 1;3.00
+Cañar;CIR1;12/9/2014 0:00:00;3;R2;Elong 1;1.80
+Cañar;CIR1;12/9/2014 0:00:00;3;R3;Elong 1;2.00
+Cañar;CIR1;12/9/2014 0:00:00;4;R1;Elong 1;1.90
+Cañar;CIR1;12/9/2014 0:00:00;4;R2;Elong 1;3.10
+Cañar;CIR1;12/9/2014 0:00:00;4;R3;Elong 1;3.60
+Cañar;CIR1;12/9/2014 0:00:00;5;R1;Elong 1;5.80
+Cañar;CIR1;12/9/2014 0:00:00;5;R2;Elong 1;7.60
+Cañar;CIR1;12/9/2014 0:00:00;5;R3;Elong 1;1.60
+Cañar;CIR2;12/9/2014 0:00:00;1;R3;Elong 2;9.80
+Cañar;CIR1;12/9/2014 0:00:00;6;R2;Elong 1;5.60
+Cañar;CIR1;12/9/2014 0:00:00;1;R3;Elong 1;1.60
+Cañar;CIR1;12/9/2014 0:00:00;7;R1;Elong 1;3.90
+Cañar;CIR1;12/9/2014 0:00:00;7;R2;Elong 1;1.30
+Cañar;CIR1;12/9/2014 0:00:00;7;R3;Elong 1;2.30
+Cañar;CIR1;12/9/2014 0:00:00;8;R1;Elong 1;5.10
+Cañar;CIR1;12/9/2014 0:00:00;8;R2;Elong 1;10.60
+Cañar;CIR1;12/9/2014 0:00:00;9;R1;Elong 1;5.60
+Cañar;CIR2;12/9/2014 0:00:00;1;R3;Elong 1;14.10
+Cañar;CIR2;12/9/2014 0:00:00;2;R1;Elong 1;7.00
+Cañar;CIR2;12/9/2014 0:00:00;2;R2;Elong 1;8.70
+Cañar;CIR2;12/9/2014 0:00:00;2;R3;Elong 1;7.60
+Cañar;CIR1;12/9/2014 0:00:00;6;R1;Elong 1;13.10
+Cañar;CIR1;12/9/2014 0:00:00;7;R3;Elong 2;2.40
+Cañar;CIR2;12/9/2014 0:00:00;1;R2;Elong 2;2.40
+Cañar;CIR2;12/9/2014 0:00:00;1;R1;Elong 2;4.90
+Cañar;CIR1;12/9/2014 0:00:00;4;R1;Elong 2;4.20
+Cañar;CIR1;12/9/2014 0:00:00;4;R2;Elong 2;2.00
+Cañar;CIR1;12/9/2014 0:00:00;4;R3;Elong 2;1.80
+Cañar;CIR1;12/9/2014 0:00:00;5;R1;Elong 2;1.80
+Cañar;CIR1;12/9/2014 0:00:00;5;R2;Elong 2;3.60
+Cañar;CIR1;12/9/2014 0:00:00;5;R3;Elong 2;4.20
+Cañar;CIR2;12/9/2014 0:00:00;4;R1;Elong 2;1.40
+Cañar;CIR1;12/9/2014 0:00:00;6;R2;Elong 2;4.80
+Cañar;CIR1;12/9/2014 0:00:00;2;R2;Elong 1;5.00
+Cañar;CIR1;12/9/2014 0:00:00;7;R2;Elong 2;1.70
+Cañar;CIR1;12/9/2014 0:00:00;2;R1;Elong 1;7.40
+Cañar;CIR1;12/9/2014 0:00:00;8;R1;Elong 2;2.60
+Cañar;CIR1;12/9/2014 0:00:00;8;R2;Elong 2;11.50
+Cañar;CIR1;12/9/2014 0:00:00;8;R3;Elong 2;3.60
+Cañar;CIR1;12/9/2014 0:00:00;8;R3;Elong 2;3.60
+Cañar;CIR1;12/9/2014 0:00:00;9;R1;Elong 2;5.00
+Cañar;CIR1;12/9/2014 0:00:00;9;R2;Elong 2;2.00
+Cañar;CIR1;12/9/2014 0:00:00;9;R3;Elong 2;2.40
+Cañar;CIR1;12/9/2014 0:00:00;10;R1;Elong 2;3.10
+Cañar;CIR1;12/9/2014 0:00:00;1;R1;Elong 1;3.20
+Cañar;CIR1;12/9/2014 0:00:00;1;R2;Elong 1;5.30
+Cañar;CIR2;12/9/2014 0:00:00;3;R3;Elong 1;0.90
+Cañar;CIR1;12/9/2014 0:00:00;7;R1;Elong 2;1.40
+Cañar;CIR1;12/9/2014 0:00:00;9;R2;Elong 3;2.90
+Cañar;CIR1;12/9/2014 0:00:00;5;R2;Elong 3;1.40
+Cañar;CIR1;12/9/2014 0:00:00;5;R3;Elong 3;1.80
+Cañar;CIR1;12/9/2014 0:00:00;6;R1;Elong 3;5.80
+Cañar;CIR1;12/9/2014 0:00:00;6;R2;Elong 3;3.60
+Cañar;CIR1;12/9/2014 0:00:00;6;R3;Elong 3;9.00
+Cañar;CIR1;12/9/2014 0:00:00;7;R1;Elong 3;1.20
+Cañar;CIR1;12/9/2014 0:00:00;7;R2;Elong 3;5.40
+Cañar;CIR1;12/9/2014 0:00:00;7;R3;Elong 3;2.30
+Cañar;CIR1;12/9/2014 0:00:00;8;R1;Elong 3;1.80
+Cañar;CIR1;12/9/2014 0:00:00;8;R2;Elong 3;8.30
+Cañar;CIR2;12/9/2014 0:00:00;3;R1;Elong 1;9.00
+Cañar;CIR1;12/9/2014 0:00:00;9;R1;Elong 3;6.20
+Cañar;CIR1;12/9/2014 0:00:00;4;R2;Elong 3;1.60
+Cañar;CIR1;12/9/2014 0:00:00;9;R3;Elong 3;9.10
+Cañar;CIR1;12/9/2014 0:00:00;10;R1;Elong 3;2.40
+Cañar;CIR1;12/9/2014 0:00:00;10;R2;Elong 3;2.00
+Cañar;CIR1;12/9/2014 0:00:00;10;R3;Elong 3;1.60
+Cañar;CIR2;12/9/2014 0:00:00;8;R3;Elong 1;0.90
+Cañar;CIR2;12/9/2014 0:00:00;9;R1;Elong 1;3.40
+Cañar;CIR2;12/9/2014 0:00:00;9;R2;Elong 1;4.10
+Cañar;CIR2;12/9/2014 0:00:00;9;R3;Elong 1;8.40
+Cañar;CIR2;12/9/2014 0:00:00;10;R1;Elong 1;4.00
+Cañar;CIR2;12/9/2014 0:00:00;10;R2;Elong 1;1.60
+Cañar;CIR2;12/9/2014 0:00:00;10;R3;Elong 1;1.60
+Cañar;CIR1;12/9/2014 0:00:00;8;R3;Elong 3;7.60
+Cañar;CIR2;12/9/2014 0:00:00;8;R1;Elong 1;2.10
+Cañar;CIR1;12/9/2014 0:00:00;6;R1;Elong 2;9.40
+Cañar;CIR2;12/9/2014 0:00:00;4;R1;Elong 1;1.70
+Cañar;CIR2;12/9/2014 0:00:00;4;R2;Elong 1;1.40
+Cañar;CIR2;12/9/2014 0:00:00;4;R3;Elong 1;1.00
+Cañar;CIR2;12/9/2014 0:00:00;5;R1;Elong 1;2.80
+Cañar;CIR2;12/9/2014 0:00:00;5;R2;Elong 1;11.30
+Cañar;CIR2;12/9/2014 0:00:00;5;R3;Elong 1;8.70
+Cañar;CIR2;12/9/2014 0:00:00;6;R1;Elong 1;9.40
+Cañar;CIR2;12/9/2014 0:00:00;6;R2;Elong 1;2.10
+Cañar;CIR2;12/9/2014 0:00:00;6;R3;Elong 1;0.60
+Cañar;CIR2;12/9/2014 0:00:00;7;R1;Elong 1;1.10
+Cañar;CIR1;12/9/2014 0:00:00;5;R1;Elong 3;3.00
+Cañar;CIR2;12/9/2014 0:00:00;7;R3;Elong 1;4.40
+Cañar;CIR1;12/9/2014 0:00:00;4;R3;Elong 3;3.40
+Cañar;CIR2;12/9/2014 0:00:00;8;R2;Elong 1;5.10
+Cañar;CIR1;12/9/2014 0:00:00;9;R2;Elong 1;5.40
+Cañar;CIR1;12/9/2014 0:00:00;9;R3;Elong 1;3.00
+Cañar;CIR1;12/9/2014 0:00:00;10;R1;Elong 1;1.40
+Cañar;CIR1;12/9/2014 0:00:00;10;R2;Elong 1;10.00
+Cañar;CIR1;12/9/2014 0:00:00;10;R3;Elong 1;4.80
+Cañar;CIR1;12/9/2014 0:00:00;10;R2;Elong 2;7.30
+Cañar;CIR1;12/9/2014 0:00:00;3;R2;Elong 3;2.10
+Cañar;CIR1;12/9/2014 0:00:00;3;R3;Elong 3;2.30
+Cañar;CIR1;12/9/2014 0:00:00;4;R1;Elong 3;4.00
+Cañar;CIR2;12/9/2014 0:00:00;3;R2;Elong 1;7.00
+Cañar;CIR2;12/9/2014 0:00:00;7;R2;Elong 1;2.10
+Cañar;CIR2;12/9/2014 0:00:00;8;R2;Elong 2;2.80
+Cañar;CIR2;12/9/2014 0:00:00;5;R1;Elong 2;7.40
+Cañar;CIR1;12/9/2014 0:00:00;1;R3;Elong 2;6.00
+Cañar;CIR1;12/9/2014 0:00:00;2;R1;Elong 2;4.20
+Cañar;CIR1;12/9/2014 0:00:00;2;R2;Elong 2;1.20
+Cañar;CIR1;12/9/2014 0:00:00;2;R3;Elong 2;2.60
+Cañar;CIR1;12/9/2014 0:00:00;3;R1;Elong 2;2.60
+Cañar;CIR1;12/9/2014 0:00:00;3;R2;Elong 2;0.70
+Cañar;CIR1;12/9/2014 0:00:00;1;R2;Elong 2;5.20
+Cañar;CIR2;12/9/2014 0:00:00;8;R3;Elong 2;1.10
+Cañar;CIR1;12/9/2014 0:00:00;1;R1;Elong 2;2.40
+Cañar;CIR2;12/9/2014 0:00:00;8;R1;Elong 2;2.00
+Cañar;CIR2;12/9/2014 0:00:00;7;R3;Elong 2;3.00
+Cañar;CIR2;12/9/2014 0:00:00;7;R2;Elong 2;1.20
+Cañar;CIR2;12/9/2014 0:00:00;7;R1;Elong 2;1.40
+Cañar;CIR2;12/9/2014 0:00:00;6;R2;Elong 2;2.30
+Cañar;CIR2;12/9/2014 0:00:00;5;R3;Elong 2;6.10
+Cañar;CIR2;12/9/2014 0:00:00;5;R2;Elong 2;2.40
+Cañar;CIR1;12/9/2014 0:00:00;3;R3;Elong 2;2.40
+Cañar;CIR2;12/9/2014 0:00:00;2;R3;Elong 3;7.60
+Cañar;CIR2;12/9/2014 0:00:00;2;R2;Elong 3;4.20
+Cañar;CIR2;12/9/2014 0:00:00;2;R1;Elong 3;4.80
+Cañar;CIR2;12/9/2014 0:00:00;1;R3;Elong 3;8.40
+Cañar;CIR2;12/9/2014 0:00:00;1;R2;Elong 3;3.60
+Cañar;CIR2;12/9/2014 0:00:00;1;R1;Elong 3;10.00
+Cañar;CIR1;12/9/2014 0:00:00;3;R1;Elong 3;4.00
+Cañar;CIR1;12/9/2014 0:00:00;2;R3;Elong 3;1.20
+Cañar;CIR1;12/9/2014 0:00:00;1;R3;Elong 2;4.60
+Cañar;CIR1;12/9/2014 0:00:00;2;R1;Elong 3;2.10
+Cañar;CIR2;12/9/2014 0:00:00;6;R1;Elong 2;4.20
+Cañar;CIR2;12/9/2014 0:00:00;3;R1;Elong 3;2.00
+Cañar;CIR2;12/9/2014 0:00:00;3;R2;Elong 3;2.30
+Cañar;CIR2;12/9/2014 0:00:00;3;R3;Elong 3;3.60
+Cañar;CIR1;12/9/2014 0:00:00;6;R3;Elong 2;7.60
+Cañar;CIR1;12/9/2014 0:00:00;1;R2;Elong 3;4.60
+Cañar;CIR2;12/9/2014 0:00:00;2;R1;Elong 2;2.40
+Cañar;CIR1;12/9/2014 0:00:00;1;R1;Elong 3;1.60
+Cañar;CIR1;12/9/2014 0:00:00;2;R2;Elong 3;2.60
+Cañar;CIR2;12/9/2014 0:00:00;10;R3;Elong 3;7.10
+Cañar;CIR2;12/9/2014 0:00:00;4;R3;Elong 2;0.80
+Cañar;CIR2;12/9/2014 0:00:00;8;R2;Elong 3;3.90
+Cañar;CIR2;12/9/2014 0:00:00;6;R3;Elong 2;2.30
+Cañar;CIR2;12/9/2014 0:00:00;8;R3;Elong 3;1.60
+Cañar;CIR2;12/9/2014 0:00:00;9;R1;Elong 3;3.30
+Cañar;CIR2;12/9/2014 0:00:00;9;R2;Elong 3;14.40
+Cañar;CIR2;12/9/2014 0:00:00;9;R3;Elong 3;2.60
+Cañar;CIR2;12/9/2014 0:00:00;10;R3;Elong 2;5.10
+Cañar;CIR2;12/9/2014 0:00:00;10;R2;Elong 3;1.90
+Cañar;CIR2;12/9/2014 0:00:00;8;R1;Elong 3;0.90
+Cañar;CIR2;12/9/2014 0:00:00;3;R3;Elong 2;1.60
+Cañar;CIR2;12/9/2014 0:00:00;3;R2;Elong 2;10.60
+Cañar;CIR1;12/9/2014 0:00:00;10;R3;Elong 2;5.00
+Cañar;CIR2;12/9/2014 0:00:00;3;R1;Elong 2;1.10
+Cañar;CIR2;12/9/2014 0:00:00;2;R3;Elong 2;8.60
+Cañar;CIR2;12/9/2014 0:00:00;1;R1;Elong 1;7.10
+Cañar;CIR2;12/9/2014 0:00:00;1;R2;Elong 1;1.80
+Cañar;CIR2;12/9/2014 0:00:00;2;R2;Elong 2;7.60
+Cañar;CIR2;12/9/2014 0:00:00;10;R1;Elong 3;2.30
+Cañar;CIR2;12/9/2014 0:00:00;5;R1;Elong 3;2.10
+Cañar;CIR2;12/9/2014 0:00:00;4;R2;Elong 2;0.90
+Cañar;CIR2;12/9/2014 0:00:00;4;R1;Elong 3;2.40
+Cañar;CIR2;12/9/2014 0:00:00;4;R2;Elong 3;3.30
+Cañar;CIR2;12/9/2014 0:00:00;9;R1;Elong 2;5.60
+Cañar;CIR2;12/9/2014 0:00:00;10;R2;Elong 2;1.60
+Cañar;CIR2;12/9/2014 0:00:00;5;R2;Elong 3;7.80
+Cañar;CIR2;12/9/2014 0:00:00;5;R3;Elong 3;1.70
+Cañar;CIR2;12/9/2014 0:00:00;6;R1;Elong 3;3.20
+Cañar;CIR2;12/9/2014 0:00:00;9;R2;Elong 2;5.70
+Cañar;CIR2;12/9/2014 0:00:00;10;R1;Elong 2;7.10
+Cañar;CIR2;12/9/2014 0:00:00;4;R3;Elong 3;1.60
+Cañar;CIR2;12/9/2014 0:00:00;9;R3;Elong 2;1.20
+Cañar;CIR2;12/9/2014 0:00:00;6;R2;Elong 3;1.60
+Cañar;CIR2;12/9/2014 0:00:00;7;R3;Elong 3;3.10
+Cañar;CIR2;12/9/2014 0:00:00;7;R2;Elong 3;0.80
+Cañar;CIR2;12/9/2014 0:00:00;7;R1;Elong 3;1.60
+Cañar;CIR2;12/9/2014 0:00:00;6;R3;Elong 3;2.90
+Cañar;CSR1;19/9/2014 0:00:00;2;R2;Elong 1;6.20
+Cañar;CSR2;19/9/2014 0:00:00;5;R2;Elong 3;2.60
+Cañar;CSR2;19/9/2014 0:00:00;3;R3;Elong 3;1.80
+Cañar;CSR2;19/9/2014 0:00:00;4;R1;Elong 3;0.90
+Cañar;CSR2;19/9/2014 0:00:00;4;R2;Elong 3;7.00
+Cañar;CSR2;19/9/2014 0:00:00;4;R3;Elong 3;6.00
+Cañar;CSR2;19/9/2014 0:00:00;5;R1;Elong 3;2.70
+Cañar;CSR2;19/9/2014 0:00:00;10;R1;Elong 1;12.90
+Cañar;CSR2;19/9/2014 0:00:00;3;R3;Elong 1;1.70
+Cañar;CSR2;19/9/2014 0:00:00;7;R2;Elong 1;5.60
+Cañar;CSR2;19/9/2014 0:00:00;7;R1;Elong 1;6.80
+Cañar;CSR2;19/9/2014 0:00:00;6;R3;Elong 1;5.00
+Cañar;CSR2;19/9/2014 0:00:00;6;R2;Elong 1;5.20
+Cañar;CSR2;19/9/2014 0:00:00;6;R1;Elong 1;6.70
+Cañar;CSR2;19/9/2014 0:00:00;5;R3;Elong 1;0.70
+Cañar;CSR2;19/9/2014 0:00:00;5;R2;Elong 1;4.10
+Cañar;CSR2;19/9/2014 0:00:00;5;R1;Elong 1;3.30
+Cañar;CSR2;19/9/2014 0:00:00;10;R3;Elong 1;1.00
+Cañar;CSR2;19/9/2014 0:00:00;4;R1;Elong 1;4.40
+Cañar;CSR2;19/9/2014 0:00:00;8;R2;Elong 1;1.70
+Cañar;CSR2;19/9/2014 0:00:00;3;R2;Elong 1;2.40
+Cañar;CSR2;19/9/2014 0:00:00;3;R1;Elong 1;2.20
+Cañar;CSR2;19/9/2014 0:00:00;2;R3;Elong 1;3.00
+Cañar;CSR2;19/9/2014 0:00:00;2;R2;Elong 1;1.20
+Cañar;CSR2;19/9/2014 0:00:00;2;R1;Elong 1;2.30
+Cañar;CSR2;19/9/2014 0:00:00;1;R3;Elong 1;2.90
+Cañar;CSR2;19/9/2014 0:00:00;1;R2;Elong 1;4.50
+Cañar;CSR2;19/9/2014 0:00:00;1;R1;Elong 1;6.80
+Cañar;CSR2;19/9/2014 0:00:00;4;R3;Elong 1;13.80
+Cañar;CSR2;19/9/2014 0:00:00;9;R3;Elong 3;4.50
+Cañar;CSR2;19/9/2014 0:00:00;6;R2;Elong 3;8.20
+Cañar;CSR2;19/9/2014 0:00:00;6;R3;Elong 3;1.70
+Cañar;CSR2;19/9/2014 0:00:00;7;R1;Elong 3;3.60
+Cañar;CSR2;19/9/2014 0:00:00;7;R2;Elong 3;2.50
+Cañar;CSR2;19/9/2014 0:00:00;7;R3;Elong 3;2.00
+Cañar;CSR2;19/9/2014 0:00:00;8;R1;Elong 3;1.70
+Cañar;CSR2;19/9/2014 0:00:00;8;R2;Elong 3;1.90
+Cañar;CSR2;19/9/2014 0:00:00;8;R3;Elong 3;1.70
+Cañar;CSR2;19/9/2014 0:00:00;7;R3;Elong 1;8.60
+Cañar;CSR2;19/9/2014 0:00:00;9;R2;Elong 3;2.00
+Cañar;CSR2;19/9/2014 0:00:00;8;R1;Elong 1;2.20
+Cañar;CSR2;19/9/2014 0:00:00;10;R1;Elong 3;2.10
+Cañar;CSR2;19/9/2014 0:00:00;10;R2;Elong 3;1.10
+Cañar;CSR2;19/9/2014 0:00:00;10;R3;Elong 3;2.20
+Cañar;CSR2;19/9/2014 0:00:00;10;R2;Elong 1;0.70
+Cañar;CSR2;19/9/2014 0:00:00;9;R3;Elong 1;3.00
+Cañar;CSR2;19/9/2014 0:00:00;9;R2;Elong 1;2.50
+Cañar;CSR2;19/9/2014 0:00:00;9;R1;Elong 1;6.20
+Cañar;CSR2;19/9/2014 0:00:00;8;R3;Elong 1;0.70
+Cañar;CSR2;19/9/2014 0:00:00;6;R1;Elong 3;8.40
+Cañar;CSR2;19/9/2014 0:00:00;9;R1;Elong 3;10.60
+Cañar;CSR1;19/9/2014 0:00:00;2;R3;Elong 2;5.60
+Cañar;CSR1;19/9/2014 0:00:00;3;R1;Elong 1;0.70
+Cañar;CSR1;19/9/2014 0:00:00;1;R3;Elong 3;3.00
+Cañar;CSR1;19/9/2014 0:00:00;1;R2;Elong 3;5.00
+Cañar;CSR1;19/9/2014 0:00:00;1;R1;Elong 3;1.70
+Cañar;CSR1;19/9/2014 0:00:00;10;R3;Elong 3;1.80
+Cañar;CSR1;19/9/2014 0:00:00;10;R3;Elong 2;2.40
+Cañar;CSR1;19/9/2014 0:00:00;1;R1;Elong 2;2.60
+Cañar;CSR1;19/9/2014 0:00:00;1;R2;Elong 2;2.90
+Cañar;CSR1;19/9/2014 0:00:00;1;R3;Elong 2;1.20
+Cañar;CSR1;19/9/2014 0:00:00;2;R2;Elong 3;1.90
+Cañar;CSR1;19/9/2014 0:00:00;2;R2;Elong 2;4.20
+Cañar;CSR1;19/9/2014 0:00:00;2;R3;Elong 3;6.60
+Cañar;CSR1;19/9/2014 0:00:00;3;R1;Elong 2;1.10
+Cañar;CSR1;19/9/2014 0:00:00;3;R3;Elong 2;2.00
+Cañar;CSR1;19/9/2014 0:00:00;4;R1;Elong 2;10.30
+Cañar;CSR1;19/9/2014 0:00:00;4;R2;Elong 2;1.10
+Cañar;CSR1;19/9/2014 0:00:00;4;R3;Elong 2;2.60
+Cañar;CSR1;19/9/2014 0:00:00;5;R1;Elong 2;1.60
+Cañar;CSR1;19/9/2014 0:00:00;5;R2;Elong 2;1.10
+Cañar;CSR2;19/9/2014 0:00:00;3;R2;Elong 3;3.10
+Cañar;CSR1;19/9/2014 0:00:00;10;R2;Elong 3;3.40
+Cañar;CSR1;19/9/2014 0:00:00;2;R1;Elong 2;2.20
+Cañar;CSR1;19/9/2014 0:00:00;6;R1;Elong 3;1.10
+Cañar;CSR1;19/9/2014 0:00:00;10;R1;Elong 3;5.80
+Cañar;CSR1;19/9/2014 0:00:00;9;R3;Elong 3;5.30
+Cañar;CSR1;19/9/2014 0:00:00;9;R2;Elong 3;12.20
+Cañar;CSR1;19/9/2014 0:00:00;8;R3;Elong 3;1.50
+Cañar;CSR1;19/9/2014 0:00:00;8;R2;Elong 3;5.60
+Cañar;CSR1;19/9/2014 0:00:00;8;R1;Elong 3;2.80
+Cañar;CSR1;19/9/2014 0:00:00;7;R3;Elong 3;2.00
+Cañar;CSR1;19/9/2014 0:00:00;7;R2;Elong 3;1.50
+Cañar;CSR1;19/9/2014 0:00:00;7;R1;Elong 3;0.40
+Cañar;CSR1;19/9/2014 0:00:00;2;R1;Elong 3;2.50
+Cañar;CSR1;19/9/2014 0:00:00;6;R2;Elong 3;1.70
+Cañar;CSR1;19/9/2014 0:00:00;6;R3;Elong 2;3.10
+Cañar;CSR1;19/9/2014 0:00:00;5;R3;Elong 3;1.70
+Cañar;CSR1;19/9/2014 0:00:00;5;R2;Elong 3;2.60
+Cañar;CSR1;19/9/2014 0:00:00;5;R1;Elong 3;2.60
+Cañar;CSR1;19/9/2014 0:00:00;4;R3;Elong 3;3.20
+Cañar;CSR1;19/9/2014 0:00:00;4;R2;Elong 3;2.50
+Cañar;CSR1;19/9/2014 0:00:00;4;R1;Elong 3;7.60
+Cañar;CSR1;19/9/2014 0:00:00;3;R3;Elong 3;3.00
+Cañar;CSR1;19/9/2014 0:00:00;3;R2;Elong 3;2.10
+Cañar;CSR1;19/9/2014 0:00:00;3;R1;Elong 3;0.90
+Cañar;CSR1;19/9/2014 0:00:00;6;R3;Elong 3;4.80
+Cañar;CSR2;19/9/2014 0:00:00;7;R3;Elong 2;3.20
+Cañar;CSR1;19/9/2014 0:00:00;6;R1;Elong 2;3.40
+Cañar;CSR2;19/9/2014 0:00:00;4;R3;Elong 2;3.60
+Cañar;CSR2;19/9/2014 0:00:00;5;R1;Elong 2;4.60
+Cañar;CSR2;19/9/2014 0:00:00;5;R2;Elong 2;2.20
+Cañar;CSR2;19/9/2014 0:00:00;5;R3;Elong 2;3.60
+Cañar;CSR2;19/9/2014 0:00:00;5;R3;Elong 2;2.50
+Cañar;CSR2;19/9/2014 0:00:00;6;R1;Elong 2;2.10
+Cañar;CSR2;19/9/2014 0:00:00;6;R2;Elong 2;4.00
+Cañar;CSR2;19/9/2014 0:00:00;6;R3;Elong 2;1.90
+Cañar;CSR2;19/9/2014 0:00:00;4;R2;Elong 2;8.00
+Cañar;CSR2;19/9/2014 0:00:00;7;R2;Elong 2;1.70
+Cañar;CSR2;19/9/2014 0:00:00;4;R1;Elong 2;2.50
+Cañar;CSR2;19/9/2014 0:00:00;8;R1;Elong 2;4.10
+Cañar;CSR2;19/9/2014 0:00:00;8;R2;Elong 2;2.60
+Cañar;CSR2;19/9/2014 0:00:00;8;R3;Elong 2;0.60
+Cañar;CSR2;19/9/2014 0:00:00;9;R1;Elong 2;6.00
+Cañar;CSR2;19/9/2014 0:00:00;9;R2;Elong 2;7.00
+Cañar;CSR2;19/9/2014 0:00:00;9;R3;Elong 2;4.10
+Cañar;CSR2;19/9/2014 0:00:00;10;R1;Elong 2;0.70
+Cañar;CSR2;19/9/2014 0:00:00;10;R2;Elong 2;1.90
+Cañar;CSR2;19/9/2014 0:00:00;10;R3;Elong 2;0.70
+Cañar;CSR2;19/9/2014 0:00:00;7;R1;Elong 2;7.00
+Cañar;CSR1;19/9/2014 0:00:00;10;R2;Elong 2;1.20
+Cañar;CSR1;19/9/2014 0:00:00;7;R1;Elong 2;0.70
+Cañar;CSR1;19/9/2014 0:00:00;7;R2;Elong 2;1.80
+Cañar;CSR1;19/9/2014 0:00:00;7;R3;Elong 2;4.60
+Cañar;CSR1;19/9/2014 0:00:00;8;R1;Elong 2;5.60
+Cañar;CSR1;19/9/2014 0:00:00;8;R2;Elong 2;1.70
+Cañar;CSR1;19/9/2014 0:00:00;8;R3;Elong 2;1.40
+Cañar;CSR1;19/9/2014 0:00:00;9;R1;Elong 2;3.00
+Cañar;CSR1;19/9/2014 0:00:00;9;R1;Elong 2;11.60
+Cañar;CSR1;19/9/2014 0:00:00;9;R2;Elong 2;6.10
+Cañar;CSR2;19/9/2014 0:00:00;4;R2;Elong 2;4.60
+Cañar;CSR1;19/9/2014 0:00:00;10;R1;Elong 2;6.20
+Cañar;CSR1;19/9/2014 0:00:00;5;R3;Elong 2;2.20
+Cañar;CSR2;19/9/2014 0:00:00;1;R1;Elong 2;1.90
+Cañar;CSR2;19/9/2014 0:00:00;1;R2;Elong 2;4.90
+Cañar;CSR2;19/9/2014 0:00:00;1;R3;Elong 2;3.20
+Cañar;CSR2;19/9/2014 0:00:00;2;R1;Elong 2;4.60
+Cañar;CSR2;19/9/2014 0:00:00;2;R2;Elong 2;2.00
+Cañar;CSR2;19/9/2014 0:00:00;2;R3;Elong 2;3.60
+Cañar;CSR2;19/9/2014 0:00:00;3;R1;Elong 2;4.50
+Cañar;CSR2;19/9/2014 0:00:00;3;R2;Elong 2;4.20
+Cañar;CSR2;19/9/2014 0:00:00;3;R3;Elong 2;1.50
+Cañar;CSR1;19/9/2014 0:00:00;9;R3;Elong 2;1.70
+Cañar;CSR2;19/9/2014 0:00:00;2;R3;Elong 3;3.30
+Cañar;CSR1;19/9/2014 0:00:00;4;R1;Elong 1;6.10
+Cañar;CSR1;19/9/2014 0:00:00;2;R3;Elong 1;7.00
+Cañar;CSR1;19/9/2014 0:00:00;3;R2;Elong 1;1.20
+Cañar;CSR2;19/9/2014 0:00:00;1;R1;Elong 3;2.20
+Cañar;CSR2;19/9/2014 0:00:00;1;R2;Elong 3;4.30
+Cañar;CSR2;19/9/2014 0:00:00;1;R3;Elong 3;5.00
+Cañar;CSR1;19/9/2014 0:00:00;3;R2;Elong 1;1.80
+Cañar;CSR2;19/9/2014 0:00:00;2;R2;Elong 3;2.30
+Cañar;CSR1;19/9/2014 0:00:00;4;R2;Elong 1;1.50
+Cañar;CSR2;19/9/2014 0:00:00;3;R1;Elong 3;4.20
+Cañar;CSR1;19/9/2014 0:00:00;6;R2;Elong 2;3.40
+Cañar;CSR1;19/9/2014 0:00:00;10;R3;Elong 1;1.60
+Cañar;CSR1;19/9/2014 0:00:00;1;R1;Elong 1;5.70
+Cañar;CSR1;19/9/2014 0:00:00;1;R2;Elong 1;5.10
+Cañar;CSR1;19/9/2014 0:00:00;1;R3;Elong 1;2.70
+Cañar;CSR1;19/9/2014 0:00:00;2;R1;Elong 1;1.60
+Cañar;CSR2;19/9/2014 0:00:00;2;R1;Elong 3;7.50
+Cañar;CSR1;19/9/2014 0:00:00;7;R2;Elong 1;2.40
+Cañar;CSR1;19/9/2014 0:00:00;10;R2;Elong 1;4.40
+Cañar;CSR1;19/9/2014 0:00:00;10;R1;Elong 1;10.20
+Cañar;CSR1;19/9/2014 0:00:00;9;R3;Elong 1;1.80
+Cañar;CSR1;19/9/2014 0:00:00;9;R2;Elong 1;0.90
+Cañar;CSR1;19/9/2014 0:00:00;9;R1;Elong 1;3.60
+Cañar;CSR1;19/9/2014 0:00:00;8;R3;Elong 1;2.10
+Cañar;CSR1;19/9/2014 0:00:00;8;R2;Elong 1;2.20
+Cañar;CSR1;19/9/2014 0:00:00;3;R3;Elong 1;1.70
+Cañar;CSR1;19/9/2014 0:00:00;7;R3;Elong 1;2.70
+Cañar;CSR1;19/9/2014 0:00:00;4;R3;Elong 1;3.50
+Cañar;CSR1;19/9/2014 0:00:00;7;R1;Elong 1;1.20
+Cañar;CSR1;19/9/2014 0:00:00;6;R3;Elong 1;7.20
+Cañar;CSR1;19/9/2014 0:00:00;6;R2;Elong 1;2.70
+Cañar;CSR1;19/9/2014 0:00:00;6;R1;Elong 1;3.70
+Cañar;CSR1;19/9/2014 0:00:00;5;R3;Elong 1;1.60
+Cañar;CSR1;19/9/2014 0:00:00;5;R2;Elong 1;5.00
+Cañar;CSR1;19/9/2014 0:00:00;5;R1;Elong 1;7.20
+Cañar;CSR1;19/9/2014 0:00:00;8;R1;Elong 1;3.40
+Cañar;CIR1;1/10/2015 0:00:00;1;R1;Elong 2;0.50
+Cañar;CIR1;1/10/2015 0:00:00;3;R1;Elong 3;1.00
+Cañar;CIR1;1/10/2015 0:00:00;1;R2;Elong 2;1.00
+Cañar;CIR1;1/10/2015 0:00:00;4;R1;Elong 2;0.50
+Cañar;CIR1;1/10/2015 0:00:00;6;R2;Elong 2;1.50
+Cañar;CIR1;1/10/2015 0:00:00;6;R1;Elong 2;6.00
+Cañar;CIR1;1/10/2015 0:00:00;5;R3;Elong 2;1.00
+Cañar;CIR1;1/10/2015 0:00:00;5;R2;Elong 2;1.00
+Cañar;CIR1;1/10/2015 0:00:00;8;R2;Elong 1;4.00
+Cañar;CIR1;1/10/2015 0:00:00;5;R1;Elong 2;1.00
+Cañar;CIR1;1/10/2015 0:00:00;4;R3;Elong 2;3.50
+Cañar;CIR1;1/10/2015 0:00:00;4;R2;Elong 2;0.50
+Cañar;CIR1;1/10/2015 0:00:00;1;R3;Elong 2;4.50
+Cañar;CIR1;1/10/2015 0:00:00;3;R3;Elong 2;2.50
+Cañar;CIR1;1/10/2015 0:00:00;3;R2;Elong 2;1.00
+Cañar;CIR1;1/10/2015 0:00:00;3;R1;Elong 2;1.50
+Cañar;CIR1;1/10/2015 0:00:00;2;R3;Elong 2;5.00
+Cañar;CIR1;1/10/2015 0:00:00;2;R2;Elong 2;4.00
+Cañar;CIR1;1/10/2015 0:00:00;2;R1;Elong 2;2.00
+Cañar;CIR1;1/10/2015 0:00:00;2;R3;Elong 3;0.50
+Cañar;CIR1;1/10/2015 0:00:00;3;R1;Elong 1;4.00
+Cañar;CIR1;1/10/2015 0:00:00;9;R1;Elong 1;1.50
+Cañar;CIR1;1/10/2015 0:00:00;6;R1;Elong 1;6.50
+Cañar;CIR1;1/10/2015 0:00:00;5;R3;Elong 1;1.50
+Cañar;CIR1;1/10/2015 0:00:00;5;R2;Elong 1;1.50
+Cañar;CIR1;1/10/2015 0:00:00;5;R1;Elong 1;3.50
+Cañar;CIR1;1/10/2015 0:00:00;4;R3;Elong 1;1.00
+Cañar;CIR1;1/10/2015 0:00:00;6;R3;Elong 1;4.00
+Cañar;CIR1;1/10/2015 0:00:00;3;R2;Elong 1;1.50
+Cañar;CIR1;1/10/2015 0:00:00;7;R1;Elong 1;1.50
+Cañar;CIR1;1/10/2015 0:00:00;2;R3;Elong 1;4.00
+Cañar;CIR1;1/10/2015 0:00:00;2;R2;Elong 1;2.50
+Cañar;CIR1;1/10/2015 0:00:00;2;R1;Elong 1;5.00
+Cañar;CIR1;1/10/2015 0:00:00;1;R3;Elong 1;0.50
+Cañar;CIR1;1/10/2015 0:00:00;1;R2;Elong 1;3.00
+Cañar;CIR1;1/10/2015 0:00:00;1;R1;Elong 1;1.50
+Cañar;CIR1;1/10/2015 0:00:00;4;R1;Elong 1;1.50
+Cañar;CIR1;1/10/2015 0:00:00;9;R2;Elong 1;3.50
+Cañar;CIR1;1/10/2015 0:00:00;2;R1;Elong 3;5.00
+Cañar;CIR1;1/10/2015 0:00:00;1;R3;Elong 3;3.00
+Cañar;CIR1;1/10/2015 0:00:00;1;R2;Elong 3;0.50
+Cañar;CIR1;1/10/2015 0:00:00;1;R1;Elong 3;0.50
+Cañar;CIR1;1/10/2015 0:00:00;10;R3;Elong 1;4.50
+Cañar;CIR1;1/10/2015 0:00:00;10;R2;Elong 1;4.00
+Cañar;CIR1;1/10/2015 0:00:00;6;R2;Elong 1;2.00
+Cañar;CIR1;1/10/2015 0:00:00;9;R3;Elong 1;2.00
+Cañar;CIR1;1/10/2015 0:00:00;2;R2;Elong 3;0.50
+Cañar;CIR1;1/10/2015 0:00:00;6;R3;Elong 2;3.50
+Cañar;CIR1;1/10/2015 0:00:00;8;R3;Elong 1;10.00
+Cañar;CIR1;1/10/2015 0:00:00;9;R2;Elong 2;0.50
+Cañar;CIR1;1/10/2015 0:00:00;8;R1;Elong 1;4.00
+Cañar;CIR1;1/10/2015 0:00:00;7;R3;Elong 1;1.00
+Cañar;CIR1;1/10/2015 0:00:00;7;R2;Elong 1;1.50
+Cañar;CIR1;1/10/2015 0:00:00;10;R1;Elong 1;7.00
+Cañar;CIR2;1/10/2015 0:00:00;10;R2;Elong 3;3.50
+Cañar;CIR1;1/10/2015 0:00:00;8;R3;Elong 2;3.00
+Cañar;CIR2;1/10/2015 0:00:00;3;R2;Elong 1;6.00
+Cañar;CIR2;1/10/2015 0:00:00;3;R1;Elong 1;4.50
+Cañar;CIR2;1/10/2015 0:00:00;2;R2;Elong 1;2.00
+Cañar;CIR2;1/10/2015 0:00:00;2;R1;Elong 1;5.20
+Cañar;CIR2;1/10/2015 0:00:00;1;R3;Elong 1;4.00
+Cañar;CIR2;1/10/2015 0:00:00;1;R2;Elong 1;3.00
+Cañar;CIR2;1/10/2015 0:00:00;4;R1;Elong 1;2.00
+Cañar;CIR2;1/10/2015 0:00:00;10;R3;Elong 3;1.00
+Cañar;CIR2;1/10/2015 0:00:00;4;R2;Elong 1;1.00
+Cañar;CIR2;1/10/2015 0:00:00;10;R1;Elong 3;4.00
+Cañar;CIR2;1/10/2015 0:00:00;9;R3;Elong 3;1.00
+Cañar;CIR2;1/10/2015 0:00:00;9;R2;Elong 3;0.50
+Cañar;CIR2;1/10/2015 0:00:00;10;R3;Elong 2;1.50
+Cañar;CIR2;1/10/2015 0:00:00;10;R2;Elong 2;0.50
+Cañar;CIR2;1/10/2015 0:00:00;10;R2;Elong 2;3.00
+Cañar;CIR2;1/10/2015 0:00:00;10;R1;Elong 2;3.50
+Cañar;CIR2;1/10/2015 0:00:00;1;R1;Elong 1;3.00
+Cañar;CIR2;1/10/2015 0:00:00;7;R1;Elong 1;1.00
+Cañar;CIR2;1/10/2015 0:00:00;10;R3;Elong 1;1.50
+Cañar;CIR2;1/10/2015 0:00:00;10;R1;Elong 1;2.50
+Cañar;CIR2;1/10/2015 0:00:00;9;R3;Elong 1;2.50
+Cañar;CIR2;1/10/2015 0:00:00;9;R2;Elong 1;1.00
+Cañar;CIR2;1/10/2015 0:00:00;8;R3;Elong 1;2.00
+Cañar;CIR2;1/10/2015 0:00:00;8;R2;Elong 1;1.00
+Cañar;CIR2;1/10/2015 0:00:00;8;R1;Elong 1;4.00
+Cañar;CIR2;1/10/2015 0:00:00;3;R3;Elong 1;1.00
+Cañar;CIR2;1/10/2015 0:00:00;7;R2;Elong 1;0.50
+Cañar;CIR2;1/10/2015 0:00:00;9;R1;Elong 2;1.00
+Cañar;CIR2;1/10/2015 0:00:00;6;R3;Elong 1;0.50
+Cañar;CIR2;1/10/2015 0:00:00;6;R2;Elong 1;0.50
+Cañar;CIR2;1/10/2015 0:00:00;6;R1;Elong 1;5.50
+Cañar;CIR2;1/10/2015 0:00:00;5;R3;Elong 1;1.50
+Cañar;CIR2;1/10/2015 0:00:00;5;R2;Elong 1;7.50
+Cañar;CIR2;1/10/2015 0:00:00;5;R1;Elong 1;2.00
+Cañar;CIR2;1/10/2015 0:00:00;4;R3;Elong 1;3.00
+Cañar;CIR2;1/10/2015 0:00:00;7;R3;Elong 1;1.00
+Cañar;CIR1;1/10/2015 0:00:00;10;R1;Elong 2;3.00
+Cañar;CIR2;1/10/2015 0:00:00;2;R3;Elong 2;5.50
+Cañar;CIR2;1/10/2015 0:00:00;2;R3;Elong 2;5.00
+Cañar;CIR2;1/10/2015 0:00:00;2;R2;Elong 2;5.00
+Cañar;CIR2;1/10/2015 0:00:00;2;R1;Elong 2;0.50
+Cañar;CIR2;1/10/2015 0:00:00;1;R3;Elong 2;3.00
+Cañar;CIR2;1/10/2015 0:00:00;1;R2;Elong 2;5.00
+Cañar;CIR2;1/10/2015 0:00:00;1;R1;Elong 2;1.00
+Cañar;CIR2;1/10/2015 0:00:00;9;R3;Elong 2;1.50
+Cañar;CIR1;1/10/2015 0:00:00;10;R2;Elong 2;2.00
+Cañar;CIR2;1/10/2015 0:00:00;3;R3;Elong 2;0.50
+Cañar;CIR1;1/10/2015 0:00:00;9;R3;Elong 2;2.50
+Cañar;CIR1;1/10/2015 0:00:00;3;R3;Elong 1;1.50
+Cañar;CIR1;1/10/2015 0:00:00;9;R1;Elong 2;3.00
+Cañar;CIR1;1/10/2015 0:00:00;8;R2;Elong 2;11.50
+Cañar;CIR1;1/10/2015 0:00:00;8;R1;Elong 2;3.00
+Cañar;CIR1;1/10/2015 0:00:00;7;R3;Elong 2;1.00
+Cañar;CIR1;1/10/2015 0:00:00;7;R2;Elong 2;0.50
+Cañar;CIR1;1/10/2015 0:00:00;10;R3;Elong 2;2.50
+Cañar;CIR2;1/10/2015 0:00:00;6;R2;Elong 2;1.00
+Cañar;CIR1;1/10/2015 0:00:00;7;R1;Elong 2;1.00
+Cañar;CIR2;1/10/2015 0:00:00;9;R1;Elong 2;2.00
+Cañar;CIR2;1/10/2015 0:00:00;8;R3;Elong 2;2.50
+Cañar;CIR2;1/10/2015 0:00:00;8;R2;Elong 2;1.00
+Cañar;CIR2;1/10/2015 0:00:00;8;R1;Elong 2;1.00
+Cañar;CIR2;1/10/2015 0:00:00;7;R3;Elong 2;1.00
+Cañar;CIR2;1/10/2015 0:00:00;7;R2;Elong 2;1.50
+Cañar;CIR2;1/10/2015 0:00:00;3;R1;Elong 2;20.00
+Cañar;CIR2;1/10/2015 0:00:00;6;R3;Elong 2;0.50
+Cañar;CIR2;1/10/2015 0:00:00;3;R2;Elong 2;3.00
+Cañar;CIR2;1/10/2015 0:00:00;6;R1;Elong 2;1.50
+Cañar;CIR2;1/10/2015 0:00:00;5;R3;Elong 2;1.00
+Cañar;CIR2;1/10/2015 0:00:00;5;R2;Elong 2;5.50
+Cañar;CIR2;1/10/2015 0:00:00;5;R1;Elong 2;1.50
+Cañar;CIR2;1/10/2015 0:00:00;4;R3;Elong 2;2.00
+Cañar;CIR2;1/10/2015 0:00:00;4;R2;Elong 2;0.50
+Cañar;CIR2;1/10/2015 0:00:00;4;R1;Elong 2;1.50
+Cañar;CIR2;1/10/2015 0:00:00;9;R2;Elong 2;0.50
+Cañar;CIR2;1/10/2015 0:00:00;7;R1;Elong 2;0.50
+Cañar;CIR2;1/10/2015 0:00:00;3;R3;Elong 3;2.00
+Cañar;CIR1;1/10/2015 0:00:00;6;R1;Elong 3;3.00
+Cañar;CIR2;1/10/2015 0:00:00;1;R2;Elong 3;4.50
+Cañar;CIR2;1/10/2015 0:00:00;1;R3;Elong 3;1.00
+Cañar;CIR2;1/10/2015 0:00:00;2;R1;Elong 3;3.00
+Cañar;CIR2;1/10/2015 0:00:00;2;R2;Elong 3;1.50
+Cañar;CIR2;1/10/2015 0:00:00;2;R3;Elong 3;1.00
+Cañar;CIR1;1/10/2015 0:00:00;10;R3;Elong 3;2.00
+Cañar;CIR2;1/10/2015 0:00:00;3;R2;Elong 3;3.00
+Cañar;CIR1;1/10/2015 0:00:00;10;R2;Elong 3;1.50
+Cañar;CIR2;1/10/2015 0:00:00;4;R1;Elong 3;3.50
+Cañar;CIR2;1/10/2015 0:00:00;4;R2;Elong 3;1.50
+Cañar;CIR2;1/10/2015 0:00:00;4;R3;Elong 3;2.00
+Cañar;CIR2;1/10/2015 0:00:00;5;R1;Elong 3;0.50
+Cañar;CIR2;1/10/2015 0:00:00;5;R3;Elong 3;0.50
+Cañar;CIR2;1/10/2015 0:00:00;6;R2;Elong 3;0.50
+Cañar;CIR2;1/10/2015 0:00:00;6;R3;Elong 3;0.50
+Cañar;CIR2;1/10/2015 0:00:00;3;R1;Elong 3;3.50
+Cañar;CIR1;1/10/2015 0:00:00;8;R1;Elong 3;2.00
+Cañar;CIR1;1/10/2015 0:00:00;3;R2;Elong 3;0.50
+Cañar;CIR1;1/10/2015 0:00:00;3;R3;Elong 3;0.50
+Cañar;CIR1;1/10/2015 0:00:00;4;R1;Elong 3;1.50
+Cañar;CIR1;1/10/2015 0:00:00;9;R3;Elong 3;0.50
+Cañar;CIR1;1/10/2015 0:00:00;9;R2;Elong 3;1.50
+Cañar;CIR1;1/10/2015 0:00:00;9;R1;Elong 3;2.00
+Cañar;CIR2;1/10/2015 0:00:00;1;R1;Elong 3;1.50
+Cañar;CIR1;1/10/2015 0:00:00;8;R2;Elong 3;2.00
+Cañar;CIR2;1/10/2015 0:00:00;6;R1;Elong 3;2.00
+Cañar;CIR1;1/10/2015 0:00:00;7;R3;Elong 3;0.50
+Cañar;CIR1;1/10/2015 0:00:00;4;R2;Elong 3;0.50
+Cañar;CIR1;1/10/2015 0:00:00;4;R3;Elong 3;0.50
+Cañar;CIR1;1/10/2015 0:00:00;5;R1;Elong 3;1.50
+Cañar;CIR1;1/10/2015 0:00:00;5;R2;Elong 3;1.00
+Cañar;CIR1;1/10/2015 0:00:00;5;R3;Elong 3;0.50
+Cañar;CIR1;1/10/2015 0:00:00;10;R1;Elong 3;1.50
+Cañar;CIR1;1/10/2015 0:00:00;8;R3;Elong 3;3.00
+Cañar;CIR2;1/10/2015 0:00:00;9;R1;Elong 3;1.50
+Cañar;CIR2;1/10/2015 0:00:00;7;R1;Elong 3;1.50
+Cañar;CIR1;1/10/2015 0:00:00;4;R2;Elong 1;1.00
+Cañar;CIR2;1/10/2015 0:00:00;5;R2;Elong 3;6.00
+Cañar;CIR1;1/10/2015 0:00:00;7;R2;Elong 3;0.50
+Cañar;CIR1;1/10/2015 0:00:00;7;R1;Elong 3;0.50
+Cañar;CIR1;1/10/2015 0:00:00;6;R2;Elong 3;1.00
+Cañar;CIR2;1/10/2015 0:00:00;8;R3;Elong 3;1.00
+Cañar;CIR2;1/10/2015 0:00:00;8;R2;Elong 3;0.50
+Cañar;CIR2;1/10/2015 0:00:00;8;R1;Elong 3;0.50
+Cañar;CIR2;1/10/2015 0:00:00;7;R3;Elong 3;0.50
+Cañar;CIR2;1/10/2015 0:00:00;7;R2;Elong 3;0.50
+Cañar;CIR1;1/10/2015 0:00:00;6;R3;Elong 3;2.00
+Cañar;CSR1;8/10/2015 0:00:00;9;R3;Elong 3;4.00
+Cañar;CSR2;8/10/2015 0:00:00;10;R1;Elong 3;1.40
+Cañar;CSR2;8/10/2015 0:00:00;9;R1;Elong 3;2.50
+Cañar;CSR2;8/10/2015 0:00:00;9;R2;Elong 3;2.30
+Cañar;CSR2;8/10/2015 0:00:00;8;R3;Elong 3;6.00
+Cañar;CSR2;8/10/2015 0:00:00;9;R3;Elong 3;3.70
+Cañar;CSR2;8/10/2015 0:00:00;10;R2;Elong 3;1.60
+Cañar;CSR2;8/10/2015 0:00:00;10;R3;Elong 3;2.50
+Cañar;CSR2;8/10/2015 0:00:00;10;R3;Elong 2;3.70
+Cañar;CSR1;8/10/2015 0:00:00;10;R3;Elong 3;2.40
+Cañar;CSR1;8/10/2015 0:00:00;10;R1;Elong 3;1.00
+Cañar;CSR2;8/10/2015 0:00:00;6;R2;Elong 3;1.10
+Cañar;CSR1;8/10/2015 0:00:00;9;R2;Elong 3;3.90
+Cañar;CSR1;8/10/2015 0:00:00;9;R1;Elong 3;1.20
+Cañar;CSR1;8/10/2015 0:00:00;10;R2;Elong 3;1.00
+Cañar;CSR2;8/10/2015 0:00:00;5;R2;Elong 3;2.10
+Cañar;CSR2;8/10/2015 0:00:00;7;R2;Elong 1;1.90
+Cañar;CSR1;8/10/2015 0:00:00;8;R3;Elong 3;0.90
+Cañar;CSR2;8/10/2015 0:00:00;3;R3;Elong 3;2.00
+Cañar;CSR2;8/10/2015 0:00:00;4;R1;Elong 3;1.20
+Cañar;CSR2;8/10/2015 0:00:00;4;R2;Elong 3;1.10
+Cañar;CSR2;8/10/2015 0:00:00;7;R1;Elong 3;2.00
+Cañar;CSR2;8/10/2015 0:00:00;5;R1;Elong 3;3.40
+Cañar;CSR2;8/10/2015 0:00:00;8;R2;Elong 3;1.60
+Cañar;CSR2;8/10/2015 0:00:00;5;R3;Elong 3;1.60
+Cañar;CSR2;8/10/2015 0:00:00;6;R1;Elong 3;2.60
+Cañar;CSR2;8/10/2015 0:00:00;6;R3;Elong 3;2.10
+Cañar;CSR2;8/10/2015 0:00:00;7;R2;Elong 3;1.70
+Cañar;CSR2;8/10/2015 0:00:00;7;R3;Elong 3;2.00
+Cañar;CSR2;8/10/2015 0:00:00;8;R1;Elong 3;2.80
+Cañar;CSR2;8/10/2015 0:00:00;4;R3;Elong 3;2.10
+Cañar;CSR1;8/10/2015 0:00:00;1;R3;Elong 3;1.70
+Cañar;CSR2;8/10/2015 0:00:00;3;R1;Elong 1;5.30
+Cañar;CSR2;8/10/2015 0:00:00;2;R3;Elong 1;1.20
+Cañar;CSR2;8/10/2015 0:00:00;2;R2;Elong 1;1.10
+Cañar;CSR2;8/10/2015 0:00:00;2;R1;Elong 1;2.50
+Cañar;CSR2;8/10/2015 0:00:00;1;R3;Elong 1;3.70
+Cañar;CSR2;8/10/2015 0:00:00;1;R2;Elong 1;2.90
+Cañar;CSR2;8/10/2015 0:00:00;1;R1;Elong 1;2.10
+Cañar;CSR1;8/10/2015 0:00:00;6;R3;Elong 3;4.60
+Cañar;CSR1;8/10/2015 0:00:00;6;R2;Elong 3;2.50
+Cañar;CSR1;8/10/2015 0:00:00;6;R1;Elong 3;1.20
+Cañar;CSR2;8/10/2015 0:00:00;8;R1;Elong 1;3.00
+Cañar;CSR1;8/10/2015 0:00:00;1;R2;Elong 3;1.60
+Cañar;CSR2;8/10/2015 0:00:00;4;R1;Elong 1;1.70
+Cañar;CSR1;8/10/2015 0:00:00;2;R1;Elong 3;1.90
+Cañar;CSR1;8/10/2015 0:00:00;2;R2;Elong 3;3.40
+Cañar;CSR1;8/10/2015 0:00:00;2;R3;Elong 3;2.40
+Cañar;CSR1;8/10/2015 0:00:00;3;R1;Elong 3;2.50
+Cañar;CSR1;8/10/2015 0:00:00;3;R2;Elong 3;3.60
+Cañar;CSR1;8/10/2015 0:00:00;3;R3;Elong 3;2.40
+Cañar;CSR1;8/10/2015 0:00:00;4;R1;Elong 3;1.80
+Cañar;CSR1;8/10/2015 0:00:00;4;R2;Elong 3;5.50
+Cañar;CSR1;8/10/2015 0:00:00;4;R3;Elong 3;2.60
+Cañar;CSR1;8/10/2015 0:00:00;5;R1;Elong 3;2.30
+Cañar;CSR1;8/10/2015 0:00:00;5;R2;Elong 3;1.70
+Cañar;CSR1;8/10/2015 0:00:00;1;R1;Elong 3;3.90
+Cañar;CSR2;8/10/2015 0:00:00;7;R3;Elong 1;1.60
+Cañar;CSR1;8/10/2015 0:00:00;8;R1;Elong 3;1.80
+Cañar;CSR1;8/10/2015 0:00:00;7;R3;Elong 3;1.20
+Cañar;CSR1;8/10/2015 0:00:00;7;R2;Elong 3;1.70
+Cañar;CSR1;8/10/2015 0:00:00;7;R1;Elong 3;0.60
+Cañar;CSR2;8/10/2015 0:00:00;10;R3;Elong 1;2.60
+Cañar;CSR2;8/10/2015 0:00:00;10;R2;Elong 1;3.30
+Cañar;CSR2;8/10/2015 0:00:00;10;R1;Elong 1;1.30
+Cañar;CSR2;8/10/2015 0:00:00;9;R3;Elong 1;3.60
+Cañar;CSR2;8/10/2015 0:00:00;9;R2;Elong 1;4.50
+Cañar;CSR2;8/10/2015 0:00:00;9;R1;Elong 1;3.40
+Cañar;CSR2;8/10/2015 0:00:00;8;R3;Elong 1;0.80
+Cañar;CSR2;8/10/2015 0:00:00;3;R2;Elong 1;1.20
+Cañar;CSR2;8/10/2015 0:00:00;10;R2;Elong 2;1.30
+Cañar;CSR2;8/10/2015 0:00:00;3;R3;Elong 1;3.70
+Cañar;CSR2;8/10/2015 0:00:00;6;R1;Elong 2;2.90
+Cañar;CSR2;8/10/2015 0:00:00;7;R1;Elong 1;5.80
+Cañar;CSR2;8/10/2015 0:00:00;6;R3;Elong 1;6.60
+Cañar;CSR2;8/10/2015 0:00:00;6;R2;Elong 1;2.50
+Cañar;CSR2;8/10/2015 0:00:00;6;R1;Elong 1;6.90
+Cañar;CSR2;8/10/2015 0:00:00;5;R3;Elong 1;1.40
+Cañar;CSR2;8/10/2015 0:00:00;5;R2;Elong 1;1.60
+Cañar;CSR2;8/10/2015 0:00:00;5;R1;Elong 1;3.00
+Cañar;CSR2;8/10/2015 0:00:00;4;R3;Elong 1;5.40
+Cañar;CSR2;8/10/2015 0:00:00;4;R2;Elong 1;5.20
+Cañar;CSR1;8/10/2015 0:00:00;8;R2;Elong 3;1.70
+Cañar;CSR2;8/10/2015 0:00:00;8;R2;Elong 1;2.00
+Cañar;CSR1;8/10/2015 0:00:00;10;R3;Elong 2;1.20
+Cañar;CSR2;8/10/2015 0:00:00;1;R1;Elong 3;2.80
+Cañar;CSR1;8/10/2015 0:00:00;7;R3;Elong 2;1.00
+Cañar;CSR1;8/10/2015 0:00:00;8;R1;Elong 2;3.00
+Cañar;CSR1;8/10/2015 0:00:00;5;R3;Elong 3;1.30
+Cañar;CSR1;8/10/2015 0:00:00;8;R2;Elong 2;1.50
+Cañar;CSR1;8/10/2015 0:00:00;8;R3;Elong 2;3.60
+Cañar;CSR1;8/10/2015 0:00:00;9;R1;Elong 2;0.90
+Cañar;CSR1;8/10/2015 0:00:00;9;R2;Elong 2;5.40
+Cañar;CSR1;8/10/2015 0:00:00;9;R3;Elong 2;0.90
+Cañar;CSR1;8/10/2015 0:00:00;7;R1;Elong 2;1.50
+Cañar;CSR1;8/10/2015 0:00:00;10;R2;Elong 2;2.00
+Cañar;CSR1;8/10/2015 0:00:00;6;R3;Elong 2;2.50
+Cañar;CSR1;8/10/2015 0:00:00;3;R1;Elong 1;3.40
+Cañar;CSR1;8/10/2015 0:00:00;3;R2;Elong 1;4.60
+Cañar;CSR1;8/10/2015 0:00:00;3;R3;Elong 1;1.60
+Cañar;CSR2;8/10/2015 0:00:00;3;R2;Elong 3;1.60
+Cañar;CSR2;8/10/2015 0:00:00;6;R3;Elong 2;0.30
+Cañar;CSR2;8/10/2015 0:00:00;2;R3;Elong 3;1.40
+Cañar;CSR2;8/10/2015 0:00:00;10;R1;Elong 2;0.90
+Cañar;CSR2;8/10/2015 0:00:00;2;R1;Elong 3;2.40
+Cañar;CSR2;8/10/2015 0:00:00;1;R3;Elong 3;3.40
+Cañar;CSR2;8/10/2015 0:00:00;1;R2;Elong 3;3.40
+Cañar;CSR1;8/10/2015 0:00:00;10;R1;Elong 2;2.00
+Cañar;CSR1;8/10/2015 0:00:00;3;R1;Elong 2;5.60
+Cañar;CSR1;8/10/2015 0:00:00;1;R2;Elong 1;3.10
+Cañar;CSR1;8/10/2015 0:00:00;1;R3;Elong 1;1.10
+Cañar;CSR1;8/10/2015 0:00:00;2;R1;Elong 1;0.30
+Cañar;CSR1;8/10/2015 0:00:00;2;R2;Elong 1;4.60
+Cañar;CSR1;8/10/2015 0:00:00;2;R3;Elong 1;3.80
+Cañar;CSR1;8/10/2015 0:00:00;1;R1;Elong 2;1.40
+Cañar;CSR1;8/10/2015 0:00:00;1;R2;Elong 2;1.90
+Cañar;CSR1;8/10/2015 0:00:00;1;R3;Elong 2;5.90
+Cañar;CSR1;8/10/2015 0:00:00;2;R1;Elong 2;0.20
+Cañar;CSR1;8/10/2015 0:00:00;7;R2;Elong 2;0.30
+Cañar;CSR1;8/10/2015 0:00:00;2;R3;Elong 2;6.00
+Cañar;CSR2;8/10/2015 0:00:00;2;R2;Elong 3;0.70
+Cañar;CSR1;8/10/2015 0:00:00;3;R2;Elong 2;3.80
+Cañar;CSR1;8/10/2015 0:00:00;3;R3;Elong 2;3.70
+Cañar;CSR1;8/10/2015 0:00:00;4;R1;Elong 2;0.40
+Cañar;CSR1;8/10/2015 0:00:00;4;R2;Elong 2;2.70
+Cañar;CSR1;8/10/2015 0:00:00;4;R3;Elong 2;1.90
+Cañar;CSR1;8/10/2015 0:00:00;5;R1;Elong 2;2.10
+Cañar;CSR1;8/10/2015 0:00:00;5;R2;Elong 2;1.60
+Cañar;CSR1;8/10/2015 0:00:00;5;R3;Elong 2;0.30
+Cañar;CSR1;8/10/2015 0:00:00;6;R1;Elong 2;1.10
+Cañar;CSR1;8/10/2015 0:00:00;6;R2;Elong 2;1.60
+Cañar;CSR1;8/10/2015 0:00:00;2;R2;Elong 2;5.00
+Cañar;CSR2;8/10/2015 0:00:00;5;R2;Elong 2;2.20
+Cañar;CSR1;8/10/2015 0:00:00;4;R1;Elong 1;1.40
+Cañar;CSR2;8/10/2015 0:00:00;1;R2;Elong 2;1.90
+Cañar;CSR2;8/10/2015 0:00:00;3;R1;Elong 3;2.60
+Cañar;CSR2;8/10/2015 0:00:00;2;R1;Elong 2;2.40
+Cañar;CSR2;8/10/2015 0:00:00;2;R2;Elong 2;1.60
+Cañar;CSR2;8/10/2015 0:00:00;2;R3;Elong 2;1.50
+Cañar;CSR2;8/10/2015 0:00:00;3;R1;Elong 2;3.80
+Cañar;CSR2;8/10/2015 0:00:00;3;R2;Elong 2;1.90
+Cañar;CSR2;8/10/2015 0:00:00;3;R3;Elong 2;3.70
+Cañar;CSR2;8/10/2015 0:00:00;4;R1;Elong 2;1.80
+Cañar;CSR2;8/10/2015 0:00:00;4;R2;Elong 2;1.90
+Cañar;CSR1;8/10/2015 0:00:00;10;R3;Elong 1;1.10
+Cañar;CSR2;8/10/2015 0:00:00;5;R1;Elong 2;2.60
+Cañar;CSR2;8/10/2015 0:00:00;1;R1;Elong 2;3.00
+Cañar;CSR2;8/10/2015 0:00:00;5;R3;Elong 2;1.30
+Cañar;CSR1;8/10/2015 0:00:00;1;R1;Elong 1;3.00
+Cañar;CSR2;8/10/2015 0:00:00;6;R2;Elong 2;3.00
+Cañar;CSR2;8/10/2015 0:00:00;7;R1;Elong 2;2.30
+Cañar;CSR2;8/10/2015 0:00:00;7;R2;Elong 2;1.00
+Cañar;CSR2;8/10/2015 0:00:00;7;R3;Elong 2;2.30
+Cañar;CSR2;8/10/2015 0:00:00;8;R1;Elong 2;3.10
+Cañar;CSR2;8/10/2015 0:00:00;8;R2;Elong 2;3.20
+Cañar;CSR2;8/10/2015 0:00:00;8;R3;Elong 2;1.30
+Cañar;CSR2;8/10/2015 0:00:00;9;R1;Elong 2;0.70
+Cañar;CSR2;8/10/2015 0:00:00;9;R2;Elong 2;2.10
+Cañar;CSR2;8/10/2015 0:00:00;9;R3;Elong 2;4.60
+Cañar;CSR2;8/10/2015 0:00:00;4;R3;Elong 2;4.30
+Cañar;CSR1;8/10/2015 0:00:00;7;R3;Elong 1;2.40
+Cañar;CSR1;8/10/2015 0:00:00;4;R2;Elong 1;5.60
+Cañar;CSR1;8/10/2015 0:00:00;4;R3;Elong 1;8.00
+Cañar;CSR1;8/10/2015 0:00:00;5;R1;Elong 1;1.30
+Cañar;CSR1;8/10/2015 0:00:00;5;R2;Elong 1;3.20
+Cañar;CSR1;8/10/2015 0:00:00;5;R3;Elong 1;2.40
+Cañar;CSR1;8/10/2015 0:00:00;6;R1;Elong 1;1.40
+Cañar;CSR1;8/10/2015 0:00:00;6;R2;Elong 1;2.80
+Cañar;CSR1;8/10/2015 0:00:00;6;R3;Elong 1;1.20
+Cañar;CSR1;8/10/2015 0:00:00;7;R1;Elong 1;1.10
+Cañar;CSR2;8/10/2015 0:00:00;1;R3;Elong 2;4.60
+Cañar;CSR1;8/10/2015 0:00:00;7;R2;Elong 1;0.60
+Cañar;CSR1;8/10/2015 0:00:00;8;R1;Elong 1;1.60
+Cañar;CSR1;8/10/2015 0:00:00;8;R3;Elong 1;2.80
+Cañar;CSR1;8/10/2015 0:00:00;9;R1;Elong 1;4.60
+Cañar;CSR1;8/10/2015 0:00:00;9;R2;Elong 1;2.90
+Cañar;CSR1;8/10/2015 0:00:00;9;R3;Elong 1;2.60
+Cañar;CSR1;8/10/2015 0:00:00;10;R1;Elong 1;1.80
+Cañar;CSR1;8/10/2015 0:00:00;10;R2;Elong 1;0.40
+Cañar;CSR1;8/10/2015 0:00:00;8;R2;Elong 1;1.60
+San Juan;CSR1;20/9/2011 0:00:00;5;R1;Elong 3;
+San Juan;CSR1;20/9/2011 0:00:00;2;R2;Elong 1;5.00
+San Juan;CSR1;20/9/2011 0:00:00;2;R1;Elong 1;2.00
+San Juan;CSR1;20/9/2011 0:00:00;1;R3;Elong 1;2.00
+San Juan;CSR1;20/9/2011 0:00:00;1;R2;Elong 1;1.00
+San Juan;CSR1;20/9/2011 0:00:00;1;R1;Elong 1;14.00
+San Juan;CIR1;20/9/2011 0:00:00;1;R3;Elong 3;
+San Juan;CIR1;20/9/2011 0:00:00;1;R2;Elong 3;
+San Juan;CSR2;20/9/2011 0:00:00;3;R3;Elong 1;3.00
+San Juan;CSR2;20/9/2011 0:00:00;10;R1;Elong 3;
+San Juan;CSR1;20/9/2011 0:00:00;2;R3;Elong 1;2.00
+San Juan;CIR2;20/9/2011 0:00:00;1;R1;Elong 3;
+San Juan;CIR1;20/9/2011 0:00:00;1;R1;Elong 3;
+San Juan;CIR1;20/9/2011 0:00:00;4;R1;Elong 1;12.00
+San Juan;CSR2;20/9/2011 0:00:00;10;R1;Elong 1;4.00
+San Juan;CSR2;20/9/2011 0:00:00;10;R2;Elong 1;2.00
+San Juan;CSR2;20/9/2011 0:00:00;10;R3;Elong 1;5.00
+San Juan;CIR1;20/9/2011 0:00:00;1;R1;Elong 1;19.00
+San Juan;CIR1;20/9/2011 0:00:00;1;R2;Elong 1;38.00
+San Juan;CIR1;20/9/2011 0:00:00;1;R3;Elong 1;7.00
+San Juan;CIR1;20/9/2011 0:00:00;2;R1;Elong 1;13.00
+San Juan;CIR1;20/9/2011 0:00:00;2;R3;Elong 1;23.00
+San Juan;CIR1;20/9/2011 0:00:00;3;R1;Elong 1;8.00
+San Juan;CSR2;20/9/2011 0:00:00;1;R2;Elong 1;15.00
+San Juan;CIR1;20/9/2011 0:00:00;3;R3;Elong 1;7.00
+San Juan;CSR2;20/9/2011 0:00:00;9;R1;Elong 1;14.00
+San Juan;CIR1;20/9/2011 0:00:00;4;R2;Elong 1;3.00
+San Juan;CIR1;20/9/2011 0:00:00;4;R3;Elong 1;16.00
+San Juan;CIR1;20/9/2011 0:00:00;5;R1;Elong 1;23.00
+San Juan;CIR1;20/9/2011 0:00:00;5;R2;Elong 1;14.00
+San Juan;CIR1;20/9/2011 0:00:00;5;R3;Elong 1;12.00
+San Juan;CIR1;20/9/2011 0:00:00;6;R1;Elong 1;12.00
+San Juan;CIR1;20/9/2011 0:00:00;6;R2;Elong 1;8.00
+San Juan;CIR1;20/9/2011 0:00:00;6;R3;Elong 1;20.00
+San Juan;CIR1;20/9/2011 0:00:00;7;R1;Elong 1;12.00
+San Juan;CIR1;20/9/2011 0:00:00;3;R2;Elong 1;26.00
+San Juan;CSR2;20/9/2011 0:00:00;5;R3;Elong 1;9.00
+San Juan;CSR2;20/9/2011 0:00:00;1;R1;Elong 1;63.00
+San Juan;CSR2;20/9/2011 0:00:00;1;R3;Elong 1;23.00
+San Juan;CSR2;20/9/2011 0:00:00;2;R1;Elong 1;9.00
+San Juan;CSR2;20/9/2011 0:00:00;2;R2;Elong 1;13.00
+San Juan;CSR2;20/9/2011 0:00:00;2;R3;Elong 1;21.00
+San Juan;CSR2;20/9/2011 0:00:00;3;R2;Elong 1;21.00
+San Juan;CSR2;20/9/2011 0:00:00;4;R1;Elong 1;6.00
+San Juan;CSR2;20/9/2011 0:00:00;4;R2;Elong 1;6.00
+San Juan;CSR2;20/9/2011 0:00:00;4;R3;Elong 1;6.00
+San Juan;CSR2;20/9/2011 0:00:00;9;R3;Elong 1;3.00
+San Juan;CSR2;20/9/2011 0:00:00;5;R2;Elong 1;6.00
+San Juan;CSR2;20/9/2011 0:00:00;9;R2;Elong 1;4.00
+San Juan;CSR2;20/9/2011 0:00:00;6;R1;Elong 1;24.00
+San Juan;CSR2;20/9/2011 0:00:00;6;R2;Elong 1;13.00
+San Juan;CSR2;20/9/2011 0:00:00;6;R3;Elong 1;23.00
+San Juan;CSR2;20/9/2011 0:00:00;7;R1;Elong 1;19.00
+San Juan;CSR2;20/9/2011 0:00:00;7;R2;Elong 1;6.00
+San Juan;CSR2;20/9/2011 0:00:00;7;R3;Elong 1;4.00
+San Juan;CSR2;20/9/2011 0:00:00;8;R1;Elong 1;2.00
+San Juan;CSR2;20/9/2011 0:00:00;8;R2;Elong 1;6.00
+San Juan;CSR2;20/9/2011 0:00:00;8;R3;Elong 1;6.00
+San Juan;CIR1;20/9/2011 0:00:00;8;R1;Elong 1;11.00
+San Juan;CSR2;20/9/2011 0:00:00;5;R1;Elong 1;18.00
+San Juan;CIR2;20/9/2011 0:00:00;7;R3;Elong 1;6.00
+San Juan;CIR1;20/9/2011 0:00:00;7;R2;Elong 1;10.00
+San Juan;CIR2;20/9/2011 0:00:00;4;R2;Elong 1;39.00
+San Juan;CIR2;20/9/2011 0:00:00;4;R3;Elong 1;11.00
+San Juan;CIR2;20/9/2011 0:00:00;5;R1;Elong 1;25.00
+San Juan;CIR2;20/9/2011 0:00:00;5;R2;Elong 1;15.00
+San Juan;CIR2;20/9/2011 0:00:00;5;R3;Elong 1;41.00
+San Juan;CIR2;20/9/2011 0:00:00;6;R1;Elong 1;16.00
+San Juan;CIR2;20/9/2011 0:00:00;6;R2;Elong 1;17.00
+San Juan;CIR2;20/9/2011 0:00:00;6;R3;Elong 1;14.00
+San Juan;CIR2;20/9/2011 0:00:00;3;R3;Elong 1;8.00
+San Juan;CIR2;20/9/2011 0:00:00;7;R2;Elong 1;4.00
+San Juan;CIR2;20/9/2011 0:00:00;3;R2;Elong 1;16.00
+San Juan;CIR2;20/9/2011 0:00:00;8;R1;Elong 1;36.00
+San Juan;CIR2;20/9/2011 0:00:00;8;R2;Elong 1;42.00
+San Juan;CIR2;20/9/2011 0:00:00;8;R3;Elong 1;44.00
+San Juan;CIR2;20/9/2011 0:00:00;9;R1;Elong 1;13.00
+San Juan;CIR2;20/9/2011 0:00:00;9;R2;Elong 1;9.00
+San Juan;CIR2;20/9/2011 0:00:00;9;R3;Elong 1;20.00
+San Juan;CIR2;20/9/2011 0:00:00;10;R1;Elong 1;31.00
+San Juan;CIR2;20/9/2011 0:00:00;10;R2;Elong 1;27.00
+San Juan;CIR2;20/9/2011 0:00:00;10;R3;Elong 1;43.00
+San Juan;CIR2;20/9/2011 0:00:00;1;R1;Elong 2;
+San Juan;CIR2;20/9/2011 0:00:00;7;R1;Elong 1;15.00
+San Juan;CIR1;20/9/2011 0:00:00;1;R3;Elong 2;
+San Juan;CIR1;20/9/2011 0:00:00;8;R2;Elong 1;4.00
+San Juan;CIR1;20/9/2011 0:00:00;8;R3;Elong 1;14.00
+San Juan;CIR1;20/9/2011 0:00:00;9;R2;Elong 1;19.00
+San Juan;CIR1;20/9/2011 0:00:00;9;R3;Elong 1;34.00
+San Juan;CIR1;20/9/2011 0:00:00;10;R1;Elong 1;3.00
+San Juan;CIR1;20/9/2011 0:00:00;10;R2;Elong 1;9.00
+San Juan;CIR1;20/9/2011 0:00:00;10;R3;Elong 1;3.00
+San Juan;CSR1;20/9/2011 0:00:00;5;R1;Elong 2;
+San Juan;CSR2;20/9/2011 0:00:00;10;R1;Elong 2;
+San Juan;CIR2;20/9/2011 0:00:00;4;R1;Elong 1;15.00
+San Juan;CIR1;20/9/2011 0:00:00;1;R2;Elong 2;
+San Juan;CIR1;20/9/2011 0:00:00;7;R3;Elong 1;20.00
+San Juan;CIR1;20/9/2011 0:00:00;2;R2;Elong 2;18.00
+San Juan;CSR1;20/9/2011 0:00:00;3;R1;Elong 1;2.00
+San Juan;CSR2;20/9/2011 0:00:00;3;R1;Elong 1;7.00
+San Juan;CIR2;20/9/2011 0:00:00;1;R1;Elong 1;20.00
+San Juan;CIR2;20/9/2011 0:00:00;1;R2;Elong 1;35.00
+San Juan;CIR2;20/9/2011 0:00:00;1;R3;Elong 1;33.00
+San Juan;CIR2;20/9/2011 0:00:00;2;R1;Elong 1;3.00
+San Juan;CIR2;20/9/2011 0:00:00;2;R2;Elong 1;13.00
+San Juan;CIR2;20/9/2011 0:00:00;2;R3;Elong 1;17.00
+San Juan;CIR2;20/9/2011 0:00:00;3;R1;Elong 1;5.00
+San Juan;CIR1;20/9/2011 0:00:00;1;R1;Elong 2;
+San Juan;CSR1;20/9/2011 0:00:00;5;R2;Elong 1;2.00
+San Juan;CSR1;20/9/2011 0:00:00;8;R2;Elong 1;3.00
+San Juan;CSR1;20/9/2011 0:00:00;8;R1;Elong 1;2.00
+San Juan;CSR1;20/9/2011 0:00:00;7;R2;Elong 1;2.00
+San Juan;CSR1;20/9/2011 0:00:00;6;R3;Elong 1;2.00
+San Juan;CSR1;20/9/2011 0:00:00;6;R2;Elong 1;1.00
+San Juan;CSR1;20/9/2011 0:00:00;8;R3;Elong 1;4.00
+San Juan;CSR1;20/9/2011 0:00:00;5;R3;Elong 1;4.00
+San Juan;CSR1;20/9/2011 0:00:00;7;R3;Elong 1;3.00
+San Juan;CSR1;20/9/2011 0:00:00;5;R1;Elong 1;11.00
+San Juan;CSR1;20/9/2011 0:00:00;4;R3;Elong 1;1.00
+San Juan;CSR1;20/9/2011 0:00:00;4;R2;Elong 1;2.00
+San Juan;CSR1;20/9/2011 0:00:00;4;R1;Elong 1;3.00
+San Juan;CSR1;20/9/2011 0:00:00;3;R3;Elong 1;8.00
+San Juan;CIR1;20/9/2011 0:00:00;9;R1;Elong 1;21.00
+San Juan;CSR1;20/9/2011 0:00:00;6;R1;Elong 1;
+San Juan;CSR1;20/9/2011 0:00:00;10;R1;Elong 1;2.00
+San Juan;CSR1;20/9/2011 0:00:00;7;R1;Elong 1;4.00
+San Juan;CSR1;20/9/2011 0:00:00;9;R1;Elong 1;8.00
+San Juan;CSR1;20/9/2011 0:00:00;9;R2;Elong 1;5.00
+San Juan;CSR1;20/9/2011 0:00:00;3;R2;Elong 1;2.00
+San Juan;CSR1;20/9/2011 0:00:00;9;R3;Elong 1;1.00
+San Juan;CSR1;20/9/2011 0:00:00;10;R2;Elong 1;3.00
+San Juan;CSR1;20/9/2011 0:00:00;10;R3;Elong 1;4.00
+San Juan;CSR1;17/9/2012 0:00:00;4;R3;Elong 1;5.60
+San Juan;CIR1;17/9/2012 0:00:00;5;R1;Elong 1;17.30
+San Juan;CSR1;17/9/2012 0:00:00;5;R1;Elong 1;2.60
+San Juan;CSR2;17/9/2012 0:00:00;1;R3;Elong 2;
+San Juan;CSR2;17/9/2012 0:00:00;8;R2;Elong 1;3.00
+San Juan;CSR2;17/9/2012 0:00:00;1;R2;Elong 2;
+San Juan;CSR1;17/9/2012 0:00:00;4;R1;Elong 1;2.60
+San Juan;CSR1;17/9/2012 0:00:00;3;R3;Elong 1;5.90
+San Juan;CSR1;17/9/2012 0:00:00;3;R2;Elong 1;8.80
+San Juan;CSR1;17/9/2012 0:00:00;2;R3;Elong 1;2.40
+San Juan;CSR2;17/9/2012 0:00:00;1;R1;Elong 2;
+San Juan;CSR1;17/9/2012 0:00:00;2;R2;Elong 1;2.40
+San Juan;CSR1;17/9/2012 0:00:00;4;R2;Elong 1;2.80
+San Juan;CSR2;17/9/2012 0:00:00;8;R3;Elong 1;3.70
+San Juan;CSR2;17/9/2012 0:00:00;9;R3;Elong 1;5.60
+San Juan;CSR1;17/9/2012 0:00:00;1;R1;Elong 1;20.50
+San Juan;CSR2;17/9/2012 0:00:00;10;R2;Elong 1;10.40
+San Juan;CSR2;17/9/2012 0:00:00;10;R3;Elong 1;4.40
+San Juan;CSR1;17/9/2012 0:00:00;5;R2;Elong 1;1.30
+San Juan;CSR2;17/9/2012 0:00:00;1;R2;Elong 3;
+San Juan;CSR1;17/9/2012 0:00:00;3;R1;Elong 1;2.00
+San Juan;CSR1;17/9/2012 0:00:00;2;R1;Elong 1;3.00
+San Juan;CSR1;17/9/2012 0:00:00;1;R3;Elong 1;7.80
+San Juan;CSR1;17/9/2012 0:00:00;1;R2;Elong 1;11.40
+San Juan;CSR1;17/9/2012 0:00:00;1;R1;Elong 1;
+San Juan;CSR2;17/9/2012 0:00:00;9;R1;Elong 1;11.40
+San Juan;CIR1;17/9/2012 0:00:00;1;R2;Elong 1;13.00
+San Juan;CSR1;17/9/2012 0:00:00;8;R2;Elong 1;8.80
+San Juan;CSR1;17/9/2012 0:00:00;8;R1;Elong 1;2.40
+San Juan;CIR1;17/9/2012 0:00:00;5;R3;Elong 1;8.40
+San Juan;CSR1;17/9/2012 0:00:00;7;R3;Elong 1;2.80
+San Juan;CIR1;17/9/2012 0:00:00;5;R2;Elong 1;3.00
+San Juan;CSR1;17/9/2012 0:00:00;7;R2;Elong 1;6.80
+San Juan;CSR1;17/9/2012 0:00:00;7;R1;Elong 1;14.00
+San Juan;CSR1;17/9/2012 0:00:00;6;R3;Elong 1;3.00
+San Juan;CSR1;17/9/2012 0:00:00;6;R2;Elong 1;5.10
+San Juan;CSR1;17/9/2012 0:00:00;5;R3;Elong 1;1.50
+San Juan;CIR1;17/9/2012 0:00:00;1;R1;Elong 1;8.30
+San Juan;CSR1;17/9/2012 0:00:00;9;R2;Elong 1;5.00
+San Juan;CIR1;17/9/2012 0:00:00;1;R3;Elong 1;11.20
+San Juan;CIR1;17/9/2012 0:00:00;2;R1;Elong 1;20.00
+San Juan;CIR1;17/9/2012 0:00:00;2;R2;Elong 1;5.00
+San Juan;CIR1;17/9/2012 0:00:00;2;R3;Elong 1;27.50
+San Juan;CIR1;17/9/2012 0:00:00;3;R1;Elong 1;2.50
+San Juan;CIR1;17/9/2012 0:00:00;3;R2;Elong 1;20.50
+San Juan;CIR1;17/9/2012 0:00:00;3;R3;Elong 1;8.50
+San Juan;CIR1;17/9/2012 0:00:00;4;R1;Elong 1;21.00
+San Juan;CIR1;17/9/2012 0:00:00;4;R2;Elong 1;5.50
+San Juan;CIR1;17/9/2012 0:00:00;4;R3;Elong 1;4.30
+San Juan;CSR1;17/9/2012 0:00:00;6;R1;Elong 1;13.50
+San Juan;CIR1;17/9/2012 0:00:00;7;R3;Elong 1;11.50
+San Juan;CSR2;17/9/2012 0:00:00;1;R1;Elong 3;
+San Juan;CSR2;17/9/2012 0:00:00;9;R2;Elong 1;2.80
+San Juan;CSR2;17/9/2012 0:00:00;1;R3;Elong 3;
+San Juan;CIR1;17/9/2012 0:00:00;10;R3;Elong 1;2.50
+San Juan;CIR1;17/9/2012 0:00:00;10;R2;Elong 1;3.80
+San Juan;CIR1;17/9/2012 0:00:00;10;R1;Elong 1;9.80
+San Juan;CIR1;17/9/2012 0:00:00;9;R3;Elong 1;27.50
+San Juan;CIR1;17/9/2012 0:00:00;9;R2;Elong 1;20.50
+San Juan;CIR1;17/9/2012 0:00:00;9;R1;Elong 1;17.00
+San Juan;CIR1;17/9/2012 0:00:00;8;R3;Elong 1;29.20
+San Juan;CSR1;17/9/2012 0:00:00;8;R3;Elong 1;7.80
+San Juan;CIR1;17/9/2012 0:00:00;8;R1;Elong 1;3.90
+San Juan;CSR1;17/9/2012 0:00:00;9;R1;Elong 1;2.50
+San Juan;CIR1;17/9/2012 0:00:00;7;R2;Elong 1;19.80
+San Juan;CIR1;17/9/2012 0:00:00;7;R1;Elong 1;0.70
+San Juan;CIR1;17/9/2012 0:00:00;6;R3;Elong 1;15.00
+San Juan;CIR1;17/9/2012 0:00:00;6;R2;Elong 1;9.80
+San Juan;CIR1;17/9/2012 0:00:00;6;R1;Elong 1;11.40
+San Juan;CSR1;17/9/2012 0:00:00;10;R3;Elong 1;2.80
+San Juan;CSR1;17/9/2012 0:00:00;10;R2;Elong 1;3.20
+San Juan;CSR1;17/9/2012 0:00:00;10;R1;Elong 1;7.80
+San Juan;CSR1;17/9/2012 0:00:00;9;R3;Elong 1;3.90
+San Juan;CSR2;17/9/2012 0:00:00;8;R1;Elong 1;15.00
+San Juan;CIR1;17/9/2012 0:00:00;8;R2;Elong 1;5.30
+San Juan;CIR2;17/9/2012 0:00:00;9;R3;Elong 1;2.00
+San Juan;CIR2;17/9/2012 0:00:00;3;R1;Elong 1;2.10
+San Juan;CIR2;17/9/2012 0:00:00;3;R3;Elong 1;5.20
+San Juan;CIR2;17/9/2012 0:00:00;4;R2;Elong 1;22.80
+San Juan;CIR2;17/9/2012 0:00:00;4;R3;Elong 1;2.50
+San Juan;CIR2;17/9/2012 0:00:00;5;R1;Elong 1;14.70
+San Juan;CIR2;17/9/2012 0:00:00;5;R2;Elong 1;6.00
+San Juan;CIR2;17/9/2012 0:00:00;5;R3;Elong 1;14.60
+San Juan;CIR2;17/9/2012 0:00:00;6;R1;Elong 1;22.50
+San Juan;CIR2;17/9/2012 0:00:00;10;R2;Elong 1;7.00
+San Juan;CIR2;17/9/2012 0:00:00;10;R1;Elong 1;
+San Juan;CIR2;17/9/2012 0:00:00;2;R3;Elong 1;24.50
+San Juan;CIR2;17/9/2012 0:00:00;10;R1;Elong 1;11.60
+San Juan;CIR2;17/9/2012 0:00:00;3;R2;Elong 1;9.40
+San Juan;CIR2;17/9/2012 0:00:00;9;R2;Elong 1;2.50
+San Juan;CIR2;17/9/2012 0:00:00;9;R1;Elong 1;11.50
+San Juan;CIR2;17/9/2012 0:00:00;8;R3;Elong 1;13.00
+San Juan;CIR2;17/9/2012 0:00:00;8;R2;Elong 1;19.50
+San Juan;CIR2;17/9/2012 0:00:00;8;R1;Elong 1;28.50
+San Juan;CIR2;17/9/2012 0:00:00;7;R3;Elong 1;4.80
+San Juan;CIR2;17/9/2012 0:00:00;7;R2;Elong 1;18.40
+San Juan;CIR2;17/9/2012 0:00:00;7;R1;Elong 1;14.30
+San Juan;CIR2;17/9/2012 0:00:00;6;R3;Elong 1;6.00
+San Juan;CSR2;17/9/2012 0:00:00;7;R3;Elong 1;1.80
+San Juan;CSR2;17/9/2012 0:00:00;10;R1;Elong 1;8.40
+San Juan;CIR2;17/9/2012 0:00:00;6;R2;Elong 1;19.00
+San Juan;CSR2;17/9/2012 0:00:00;4;R1;Elong 1;3.30
+San Juan;CSR2;17/9/2012 0:00:00;7;R2;Elong 1;9.40
+San Juan;CSR2;17/9/2012 0:00:00;7;R1;Elong 1;13.00
+San Juan;CSR2;17/9/2012 0:00:00;6;R3;Elong 1;11.40
+San Juan;CSR2;17/9/2012 0:00:00;6;R2;Elong 1;8.50
+San Juan;CIR2;17/9/2012 0:00:00;10;R3;Elong 1;6.00
+San Juan;CSR2;17/9/2012 0:00:00;6;R1;Elong 1;10.60
+San Juan;CSR2;17/9/2012 0:00:00;5;R3;Elong 1;8.00
+San Juan;CSR2;17/9/2012 0:00:00;5;R2;Elong 1;8.30
+San Juan;CSR2;17/9/2012 0:00:00;5;R1;Elong 1;15.60
+San Juan;CIR2;17/9/2012 0:00:00;4;R1;Elong 1;12.50
+San Juan;CSR2;17/9/2012 0:00:00;4;R2;Elong 1;3.00
+San Juan;CIR2;17/9/2012 0:00:00;2;R2;Elong 1;14.40
+San Juan;CSR2;17/9/2012 0:00:00;3;R3;Elong 1;1.60
+San Juan;CIR2;17/9/2012 0:00:00;1;R2;Elong 1;23.50
+San Juan;CSR2;17/9/2012 0:00:00;3;R1;Elong 1;9.70
+San Juan;CSR2;17/9/2012 0:00:00;2;R3;Elong 1;16.40
+San Juan;CSR2;17/9/2012 0:00:00;2;R2;Elong 1;3.20
+San Juan;CSR2;17/9/2012 0:00:00;2;R1;Elong 1;2.60
+San Juan;CSR2;17/9/2012 0:00:00;1;R3;Elong 1;5.80
+San Juan;CSR2;17/9/2012 0:00:00;1;R2;Elong 1;29.00
+San Juan;CSR2;17/9/2012 0:00:00;1;R1;Elong 1;17.50
+San Juan;CIR2;17/9/2012 0:00:00;1;R1;Elong 1;5.60
+San Juan;CSR2;17/9/2012 0:00:00;3;R2;Elong 1;4.60
+San Juan;CSR2;17/9/2012 0:00:00;4;R3;Elong 1;3.80
+San Juan;CIR2;17/9/2012 0:00:00;2;R1;Elong 1;3.50
+San Juan;CIR2;17/9/2012 0:00:00;1;R3;Elong 1;11.20
+San Juan;CIR2;6/6/2013 0:00:00;3;R2;Elong 1;10.80
+San Juan;CIR2;6/6/2013 0:00:00;3;R1;Elong 1;4.60
+San Juan;CIR2;6/6/2013 0:00:00;2;R2;Elong 1;4.50
+San Juan;CIR2;6/6/2013 0:00:00;2;R1;Elong 1;0.80
+San Juan;CIR2;6/6/2013 0:00:00;1;R3;Elong 1;11.60
+San Juan;CIR2;6/6/2013 0:00:00;3;R3;Elong 1;3.30
+San Juan;CIR2;6/6/2013 0:00:00;10;R1;Elong 1;5.30
+San Juan;CIR2;6/6/2013 0:00:00;7;R2;Elong 1;4.20
+San Juan;CIR2;6/6/2013 0:00:00;8;R1;Elong 2;
+San Juan;CIR2;6/6/2013 0:00:00;10;R3;Elong 1;5.40
+San Juan;CIR2;6/6/2013 0:00:00;10;R2;Elong 1;3.30
+San Juan;CIR2;6/6/2013 0:00:00;9;R3;Elong 1;6.30
+San Juan;CIR2;6/6/2013 0:00:00;1;R2;Elong 1;7.20
+San Juan;CIR2;6/6/2013 0:00:00;9;R1;Elong 1;2.00
+San Juan;CIR2;6/6/2013 0:00:00;8;R3;Elong 1;14.00
+San Juan;CIR2;6/6/2013 0:00:00;8;R2;Elong 1;2.00
+San Juan;CIR2;6/6/2013 0:00:00;9;R2;Elong 1;7.00
+San Juan;CIR2;6/6/2013 0:00:00;7;R3;Elong 1;3.00
+San Juan;CIR2;6/6/2013 0:00:00;4;R1;Elong 1;2.30
+San Juan;CIR2;6/6/2013 0:00:00;7;R1;Elong 1;7.50
+San Juan;CIR2;6/6/2013 0:00:00;6;R3;Elong 1;3.50
+San Juan;CIR2;6/6/2013 0:00:00;6;R2;Elong 1;1.20
+San Juan;CIR2;6/6/2013 0:00:00;6;R1;Elong 1;4.80
+San Juan;CIR2;6/6/2013 0:00:00;5;R3;Elong 1;11.60
+San Juan;CIR2;6/6/2013 0:00:00;5;R2;Elong 1;3.90
+San Juan;CIR2;6/6/2013 0:00:00;5;R1;Elong 1;9.70
+San Juan;CIR2;6/6/2013 0:00:00;4;R3;Elong 1;1.70
+San Juan;CIR2;6/6/2013 0:00:00;4;R2;Elong 1;10.30
+San Juan;CIR2;6/6/2013 0:00:00;8;R1;Elong 1;20.00
+San Juan;CIR1;6/6/2013 0:00:00;6;R2;Elong 1;1.20
+San Juan;CIR1;6/6/2013 0:00:00;4;R2;Elong 1;1.90
+San Juan;CIR1;6/6/2013 0:00:00;10;R3;Elong 1;4.90
+San Juan;CIR1;6/6/2013 0:00:00;10;R2;Elong 1;1.30
+San Juan;CIR1;6/6/2013 0:00:00;10;R1;Elong 1;3.50
+San Juan;CIR1;6/6/2013 0:00:00;9;R3;Elong 1;3.80
+San Juan;CIR1;6/6/2013 0:00:00;9;R2;Elong 1;1.90
+San Juan;CIR1;6/6/2013 0:00:00;9;R1;Elong 1;3.90
+San Juan;CIR1;6/6/2013 0:00:00;8;R3;Elong 1;4.70
+San Juan;CIR1;6/6/2013 0:00:00;8;R2;Elong 1;2.10
+San Juan;CIR1;6/6/2013 0:00:00;8;R1;Elong 1;4.40
+San Juan;CIR1;6/6/2013 0:00:00;7;R3;Elong 1;3.80
+San Juan;CIR1;6/6/2013 0:00:00;7;R2;Elong 1;8.90
+San Juan;CIR1;6/6/2013 0:00:00;4;R1;Elong 1;3.30
+San Juan;CIR1;6/6/2013 0:00:00;6;R3;Elong 1;5.30
+San Juan;CIR2;6/6/2013 0:00:00;1;R1;Elong 1;1.80
+San Juan;CIR1;6/6/2013 0:00:00;6;R1;Elong 1;1.30
+San Juan;CIR1;6/6/2013 0:00:00;5;R3;Elong 1;9.60
+San Juan;CIR1;6/6/2013 0:00:00;5;R2;Elong 1;2.00
+San Juan;CIR1;6/6/2013 0:00:00;4;R3;Elong 1;5.10
+San Juan;CIR1;6/6/2013 0:00:00;3;R3;Elong 1;1.10
+San Juan;CIR1;6/6/2013 0:00:00;3;R2;Elong 1;9.30
+San Juan;CIR1;6/6/2013 0:00:00;3;R1;Elong 1;3.90
+San Juan;CIR1;6/6/2013 0:00:00;2;R3;Elong 1;3.40
+San Juan;CIR1;6/6/2013 0:00:00;2;R2;Elong 1;0.50
+San Juan;CIR1;6/6/2013 0:00:00;2;R1;Elong 1;4.80
+San Juan;CIR1;6/6/2013 0:00:00;1;R3;Elong 1;4.30
+San Juan;CIR1;6/6/2013 0:00:00;1;R2;Elong 1;23.00
+San Juan;CIR1;6/6/2013 0:00:00;1;R1;Elong 1;2.10
+San Juan;CIR1;6/6/2013 0:00:00;7;R1;Elong 1;3.90
+San Juan;CIR2;6/6/2013 0:00:00;8;R1;Elong 3;
+San Juan;CIR1;6/6/2013 0:00:00;5;R1;Elong 1;2.70
+San Juan;CIR2;6/6/2013 0:00:00;2;R3;Elong 3;7.60
+San Juan;CSR2;14/6/2013 0:00:00;7;R3;Elong 1;6.20
+San Juan;CSR2;14/6/2013 0:00:00;4;R1;Elong 1;0.60
+San Juan;CSR2;14/6/2013 0:00:00;4;R2;Elong 1;0.40
+San Juan;CSR2;14/6/2013 0:00:00;4;R3;Elong 1;1.90
+San Juan;CSR2;14/6/2013 0:00:00;5;R1;Elong 1;6.50
+San Juan;CSR2;14/6/2013 0:00:00;5;R2;Elong 1;11.40
+San Juan;CSR2;14/6/2013 0:00:00;5;R3;Elong 1;3.50
+San Juan;CSR2;14/6/2013 0:00:00;6;R1;Elong 1;0.30
+San Juan;CSR2;14/6/2013 0:00:00;6;R2;Elong 1;11.20
+San Juan;CSR2;14/6/2013 0:00:00;6;R3;Elong 1;5.40
+San Juan;CSR2;14/6/2013 0:00:00;7;R1;Elong 1;8.10
+San Juan;CSR2;14/6/2013 0:00:00;3;R3;Elong 1;1.40
+San Juan;CSR2;14/6/2013 0:00:00;6;R1;Elong 2;
+San Juan;CSR2;14/6/2013 0:00:00;2;R3;Elong 1;4.30
+San Juan;CSR2;14/6/2013 0:00:00;8;R1;Elong 1;6.00
+San Juan;CSR2;14/6/2013 0:00:00;8;R2;Elong 1;0.10
+San Juan;CSR2;14/6/2013 0:00:00;8;R3;Elong 1;2.50
+San Juan;CSR2;14/6/2013 0:00:00;9;R1;Elong 1;0.00
+San Juan;CSR1;14/6/2013 0:00:00;6;R1;Elong 2;
+San Juan;CSR2;14/6/2013 0:00:00;9;R2;Elong 1;0.00
+San Juan;CSR2;14/6/2013 0:00:00;9;R3;Elong 1;0.00
+San Juan;CSR2;14/6/2013 0:00:00;10;R1;Elong 1;1.30
+San Juan;CSR2;14/6/2013 0:00:00;7;R2;Elong 1;0.60
+San Juan;CSR1;14/6/2013 0:00:00;6;R1;Elong 1;0.00
+San Juan;CSR1;14/6/2013 0:00:00;10;R3;Elong 1;5.20
+San Juan;CSR1;14/6/2013 0:00:00;10;R2;Elong 1;3.10
+San Juan;CSR1;14/6/2013 0:00:00;10;R1;Elong 1;3.60
+San Juan;CSR1;14/6/2013 0:00:00;9;R3;Elong 1;8.20
+San Juan;CSR1;14/6/2013 0:00:00;9;R1;Elong 1;5.00
+San Juan;CSR1;14/6/2013 0:00:00;8;R2;Elong 1;5.20
+San Juan;CSR1;14/6/2013 0:00:00;8;R1;Elong 1;0.00
+San Juan;CSR1;14/6/2013 0:00:00;7;R3;Elong 1;6.20
+San Juan;CSR1;14/6/2013 0:00:00;7;R2;Elong 1;3.20
+San Juan;CSR1;14/6/2013 0:00:00;7;R1;Elong 1;3.90
+San Juan;CSR2;14/6/2013 0:00:00;3;R2;Elong 1;2.80
+San Juan;CSR1;14/6/2013 0:00:00;6;R2;Elong 1;5.50
+San Juan;CSR2;14/6/2013 0:00:00;6;R1;Elong 3;
+San Juan;CSR1;14/6/2013 0:00:00;5;R3;Elong 1;0.00
+San Juan;CSR1;14/6/2013 0:00:00;5;R2;Elong 1;0.00
+San Juan;CSR1;14/6/2013 0:00:00;5;R1;Elong 1;0.20
+San Juan;CSR2;14/6/2013 0:00:00;1;R1;Elong 1;3.50
+San Juan;CSR2;14/6/2013 0:00:00;1;R2;Elong 1;7.00
+San Juan;CSR2;14/6/2013 0:00:00;1;R3;Elong 1;1.80
+San Juan;CSR2;14/6/2013 0:00:00;2;R1;Elong 1;1.40
+San Juan;CSR2;14/6/2013 0:00:00;2;R2;Elong 1;1.80
+San Juan;CSR1;14/6/2013 0:00:00;8;R3;Elong 1;2.20
+San Juan;CSR2;14/6/2013 0:00:00;3;R1;Elong 1;1.00
+San Juan;CSR1;14/6/2013 0:00:00;6;R3;Elong 1;10.00
+San Juan;CSR1;14/6/2013 0:00:00;3;R2;Elong 1;0.60
+San Juan;CSR1;14/6/2013 0:00:00;9;R2;Elong 1;1.50
+San Juan;CSR2;14/6/2013 0:00:00;10;R3;Elong 1;0.40
+San Juan;CSR2;14/6/2013 0:00:00;10;R2;Elong 1;1.90
+San Juan;CSR1;14/6/2013 0:00:00;4;R3;Elong 1;7.70
+San Juan;CSR1;14/6/2013 0:00:00;4;R2;Elong 1;3.20
+San Juan;CSR1;14/6/2013 0:00:00;3;R3;Elong 1;12.00
+San Juan;CSR1;14/6/2013 0:00:00;3;R1;Elong 1;0.50
+San Juan;CSR1;14/6/2013 0:00:00;2;R3;Elong 1;0.00
+San Juan;CSR1;14/6/2013 0:00:00;2;R2;Elong 1;0.60
+San Juan;CSR1;14/6/2013 0:00:00;2;R1;Elong 1;0.30
+San Juan;CSR1;14/6/2013 0:00:00;1;R3;Elong 1;11.70
+San Juan;CSR1;14/6/2013 0:00:00;1;R2;Elong 1;4.00
+San Juan;CSR1;14/6/2013 0:00:00;1;R1;Elong 1;23.30
+San Juan;CSR1;14/6/2013 0:00:00;4;R1;Elong 1;6.50
+San Juan;CIR2;1/8/2013 0:00:00;4;R3;Elong 1;7.20
+San Juan;CIR2;1/8/2013 0:00:00;7;R1;Elong 1;8.40
+San Juan;CIR2;1/8/2013 0:00:00;6;R3;Elong 1;3.50
+San Juan;CIR1;1/8/2013 0:00:00;2;R2;Elong 1;1.00
+San Juan;CIR2;1/8/2013 0:00:00;6;R2;Elong 1;11.60
+San Juan;CIR2;1/8/2013 0:00:00;7;R3;Elong 1;2.00
+San Juan;CIR2;1/8/2013 0:00:00;6;R1;Elong 1;5.20
+San Juan;CIR2;1/8/2013 0:00:00;5;R3;Elong 1;11.40
+San Juan;CIR2;1/8/2013 0:00:00;5;R1;Elong 1;11.10
+San Juan;CIR2;1/8/2013 0:00:00;8;R1;Elong 1;20.10
+San Juan;CSR1;1/8/2013 0:00:00;4;R2;Elong 1;9.10
+San Juan;CIR2;1/8/2013 0:00:00;4;R2;Elong 1;10.90
+San Juan;CIR2;1/8/2013 0:00:00;4;R1;Elong 1;14.50
+San Juan;CIR2;1/8/2013 0:00:00;3;R3;Elong 1;3.60
+San Juan;CIR2;1/8/2013 0:00:00;3;R2;Elong 1;5.60
+San Juan;CIR2;1/8/2013 0:00:00;3;R1;Elong 1;5.60
+San Juan;CIR2;1/8/2013 0:00:00;2;R3;Elong 1;5.50
+San Juan;CIR2;1/8/2013 0:00:00;5;R2;Elong 1;5.40
+San Juan;CSR1;1/8/2013 0:00:00;3;R3;Elong 1;1.20
+San Juan;CSR1;1/8/2013 0:00:00;1;R2;Elong 1;5.20
+San Juan;CSR1;1/8/2013 0:00:00;1;R1;Elong 1;22.20
+San Juan;CIR2;1/8/2013 0:00:00;9;R2;Elong 1;7.60
+San Juan;CSR1;1/8/2013 0:00:00;2;R1;Elong 1;8.40
+San Juan;CSR1;1/8/2013 0:00:00;2;R2;Elong 1;4.30
+San Juan;CSR1;1/8/2013 0:00:00;2;R3;Elong 1;4.60
+San Juan;CSR1;1/8/2013 0:00:00;3;R1;Elong 1;1.40
+San Juan;CSR1;1/8/2013 0:00:00;6;R2;Elong 1;4.20
+San Juan;CIR2;1/8/2013 0:00:00;9;R3;Elong 1;7.00
+San Juan;CIR2;1/8/2013 0:00:00;10;R2;Elong 1;3.60
+San Juan;CSR1;1/8/2013 0:00:00;4;R3;Elong 1;7.60
+San Juan;CSR1;1/8/2013 0:00:00;4;R1;Elong 1;7.40
+San Juan;CIR2;1/8/2013 0:00:00;2;R2;Elong 1;1.70
+San Juan;CIR2;1/8/2013 0:00:00;9;R1;Elong 1;8.90
+San Juan;CIR2;1/8/2013 0:00:00;8;R3;Elong 1;15.10
+San Juan;CIR2;1/8/2013 0:00:00;10;R1;Elong 1;5.40
+San Juan;CIR2;1/8/2013 0:00:00;8;R2;Elong 1;8.40
+San Juan;CSR1;1/8/2013 0:00:00;1;R3;Elong 1;15.60
+San Juan;CSR1;1/8/2013 0:00:00;3;R2;Elong 1;5.10
+San Juan;CIR1;1/8/2013 0:00:00;6;R2;Elong 1;1.30
+San Juan;CIR2;1/8/2013 0:00:00;2;R1;Elong 1;0.60
+San Juan;CIR1;1/8/2013 0:00:00;10;R1;Elong 1;4.50
+San Juan;CIR1;1/8/2013 0:00:00;9;R3;Elong 1;4.40
+San Juan;CIR1;1/8/2013 0:00:00;9;R2;Elong 1;2.40
+San Juan;CIR1;1/8/2013 0:00:00;9;R1;Elong 1;4.40
+San Juan;CIR1;1/8/2013 0:00:00;8;R3;Elong 1;5.20
+San Juan;CIR1;1/8/2013 0:00:00;8;R2;Elong 1;1.40
+San Juan;CIR1;1/8/2013 0:00:00;8;R1;Elong 1;4.10
+San Juan;CIR1;1/8/2013 0:00:00;7;R3;Elong 1;1.20
+San Juan;CIR1;1/8/2013 0:00:00;7;R2;Elong 1;1.50
+San Juan;CIR1;1/8/2013 0:00:00;10;R3;Elong 1;0.90
+San Juan;CIR1;1/8/2013 0:00:00;6;R3;Elong 1;5.60
+San Juan;CSR1;1/8/2013 0:00:00;6;R3;Elong 1;11.20
+San Juan;CIR1;1/8/2013 0:00:00;6;R1;Elong 1;2.60
+San Juan;CIR1;1/8/2013 0:00:00;5;R3;Elong 1;9.50
+San Juan;CIR1;1/8/2013 0:00:00;5;R2;Elong 1;2.30
+San Juan;CIR1;1/8/2013 0:00:00;5;R1;Elong 1;3.20
+San Juan;CIR1;1/8/2013 0:00:00;4;R3;Elong 1;4.60
+San Juan;CIR1;1/8/2013 0:00:00;4;R2;Elong 1;0.90
+San Juan;CIR1;1/8/2013 0:00:00;4;R1;Elong 1;3.50
+San Juan;CIR1;1/8/2013 0:00:00;3;R3;Elong 1;1.40
+San Juan;CIR1;1/8/2013 0:00:00;3;R2;Elong 1;10.30
+San Juan;CIR1;1/8/2013 0:00:00;3;R1;Elong 1;2.50
+San Juan;CIR1;1/8/2013 0:00:00;2;R3;Elong 1;4.60
+San Juan;CIR1;1/8/2013 0:00:00;7;R1;Elong 1;4.40
+San Juan;CSR1;1/8/2013 0:00:00;9;R2;Elong 1;11.10
+San Juan;CSR1;1/8/2013 0:00:00;5;R1;Elong 1;3.40
+San Juan;CIR2;1/8/2013 0:00:00;10;R3;Elong 1;7.30
+San Juan;CIR2;1/8/2013 0:00:00;1;R3;Elong 1;12.80
+San Juan;CIR2;1/8/2013 0:00:00;1;R2;Elong 1;7.90
+San Juan;CIR2;1/8/2013 0:00:00;1;R1;Elong 1;15.90
+San Juan;CSR1;1/8/2013 0:00:00;5;R2;Elong 1;2.90
+San Juan;CSR1;1/8/2013 0:00:00;5;R3;Elong 1;2.00
+San Juan;CSR1;1/8/2013 0:00:00;6;R1;Elong 1;1.60
+San Juan;CSR1;1/8/2013 0:00:00;10;R3;Elong 1;5.60
+San Juan;CSR1;1/8/2013 0:00:00;10;R2;Elong 1;4.20
+San Juan;CIR1;1/8/2013 0:00:00;10;R2;Elong 1;1.20
+San Juan;CSR1;1/8/2013 0:00:00;9;R3;Elong 1;4.80
+San Juan;CIR2;1/8/2013 0:00:00;7;R2;Elong 1;3.60
+San Juan;CSR1;1/8/2013 0:00:00;9;R1;Elong 1;1.60
+San Juan;CSR1;1/8/2013 0:00:00;8;R3;Elong 1;5.70
+San Juan;CSR1;1/8/2013 0:00:00;8;R2;Elong 1;2.00
+San Juan;CSR1;1/8/2013 0:00:00;8;R1;Elong 1;1.80
+San Juan;CSR1;1/8/2013 0:00:00;7;R3;Elong 1;8.30
+San Juan;CSR1;1/8/2013 0:00:00;7;R2;Elong 1;3.10
+San Juan;CSR1;1/8/2013 0:00:00;7;R1;Elong 1;2.90
+San Juan;CIR1;1/8/2013 0:00:00;1;R1;Elong 1;2.50
+San Juan;CIR1;1/8/2013 0:00:00;1;R2;Elong 1;2.00
+San Juan;CIR1;1/8/2013 0:00:00;1;R3;Elong 1;15.00
+San Juan;CIR1;1/8/2013 0:00:00;2;R1;Elong 1;3.90
+San Juan;CSR1;1/8/2013 0:00:00;10;R1;Elong 1;1.90
+San Juan;CIR2;8/9/2014 0:00:00;4;R3;Elong 2;1.90
+San Juan;CIR1;8/9/2014 0:00:00;5;R1;Elong 2;5.40
+San Juan;CIR2;8/9/2014 0:00:00;2;R1;Elong 2;9.60
+San Juan;CIR2;8/9/2014 0:00:00;2;R2;Elong 2;4.80
+San Juan;CIR2;8/9/2014 0:00:00;2;R3;Elong 2;4.60
+San Juan;CIR2;8/9/2014 0:00:00;3;R1;Elong 2;0.40
+San Juan;CIR2;8/9/2014 0:00:00;3;R2;Elong 2;5.60
+San Juan;CIR2;8/9/2014 0:00:00;3;R3;Elong 2;3.60
+San Juan;CIR2;8/9/2014 0:00:00;1;R2;Elong 2;7.40
+San Juan;CIR2;8/9/2014 0:00:00;4;R2;Elong 2;2.10
+San Juan;CIR2;8/9/2014 0:00:00;1;R1;Elong 2;3.10
+San Juan;CIR2;8/9/2014 0:00:00;5;R1;Elong 2;0.40
+San Juan;CIR2;8/9/2014 0:00:00;5;R2;Elong 2;4.10
+San Juan;CIR2;8/9/2014 0:00:00;5;R3;Elong 2;2.80
+San Juan;CIR2;8/9/2014 0:00:00;6;R1;Elong 2;6.40
+San Juan;CIR2;8/9/2014 0:00:00;6;R2;Elong 2;8.40
+San Juan;CIR2;8/9/2014 0:00:00;6;R3;Elong 2;2.40
+San Juan;CIR2;8/9/2014 0:00:00;7;R1;Elong 2;17.40
+San Juan;CIR2;8/9/2014 0:00:00;4;R1;Elong 2;21.00
+San Juan;CIR1;8/9/2014 0:00:00;8;R2;Elong 2;9.80
+San Juan;CIR2;8/9/2014 0:00:00;3;R3;Elong 3;2.10
+San Juan;CIR1;8/9/2014 0:00:00;5;R3;Elong 2;2.60
+San Juan;CIR1;8/9/2014 0:00:00;6;R1;Elong 2;7.60
+San Juan;CIR1;8/9/2014 0:00:00;6;R2;Elong 2;7.10
+San Juan;CIR1;8/9/2014 0:00:00;6;R3;Elong 2;19.40
+San Juan;CIR1;8/9/2014 0:00:00;7;R1;Elong 2;1.90
+San Juan;CIR1;8/9/2014 0:00:00;7;R2;Elong 2;9.80
+San Juan;CIR2;8/9/2014 0:00:00;1;R3;Elong 2;12.10
+San Juan;CIR1;8/9/2014 0:00:00;8;R1;Elong 2;1.20
+San Juan;CIR1;8/9/2014 0:00:00;5;R2;Elong 2;1.20
+San Juan;CIR1;8/9/2014 0:00:00;8;R3;Elong 2;10.90
+San Juan;CIR1;8/9/2014 0:00:00;9;R1;Elong 2;1.20
+San Juan;CIR1;8/9/2014 0:00:00;9;R2;Elong 2;1.10
+San Juan;CIR1;8/9/2014 0:00:00;9;R3;Elong 2;1.20
+San Juan;CIR1;8/9/2014 0:00:00;10;R1;Elong 2;1.40
+San Juan;CIR1;8/9/2014 0:00:00;10;R2;Elong 2;1.40
+San Juan;CIR1;8/9/2014 0:00:00;10;R3;Elong 2;1.90
+San Juan;CIR1;8/9/2014 0:00:00;7;R3;Elong 2;3.20
+San Juan;CIR1;8/9/2014 0:00:00;6;R2;Elong 3;4.60
+San Juan;CIR2;8/9/2014 0:00:00;4;R2;Elong 3;7.30
+San Juan;CIR1;8/9/2014 0:00:00;4;R1;Elong 2;3.40
+San Juan;CIR1;8/9/2014 0:00:00;4;R2;Elong 2;8.10
+San Juan;CIR1;8/9/2014 0:00:00;7;R3;Elong 3;0.90
+San Juan;CIR1;8/9/2014 0:00:00;4;R3;Elong 2;5.50
+San Juan;CIR1;8/9/2014 0:00:00;7;R2;Elong 3;14.80
+San Juan;CIR1;8/9/2014 0:00:00;3;R2;Elong 2;10.60
+San Juan;CIR1;8/9/2014 0:00:00;6;R3;Elong 3;7.60
+San Juan;CIR1;8/9/2014 0:00:00;3;R1;Elong 2;6.20
+San Juan;CIR1;8/9/2014 0:00:00;6;R1;Elong 3;12.30
+San Juan;CIR1;8/9/2014 0:00:00;5;R3;Elong 3;9.40
+San Juan;CIR1;8/9/2014 0:00:00;5;R2;Elong 3;4.30
+San Juan;CIR1;8/9/2014 0:00:00;5;R1;Elong 3;11.40
+San Juan;CIR1;8/9/2014 0:00:00;4;R3;Elong 3;9.50
+San Juan;CIR1;8/9/2014 0:00:00;4;R2;Elong 3;1.60
+San Juan;CIR1;8/9/2014 0:00:00;4;R1;Elong 3;6.00
+San Juan;CIR1;8/9/2014 0:00:00;7;R1;Elong 3;4.10
+San Juan;CIR1;8/9/2014 0:00:00;8;R2;Elong 3;8.20
+San Juan;CIR1;8/9/2014 0:00:00;1;R1;Elong 3;2.40
+San Juan;CIR1;8/9/2014 0:00:00;10;R3;Elong 3;1.40
+San Juan;CIR1;8/9/2014 0:00:00;10;R2;Elong 3;1.60
+San Juan;CIR1;8/9/2014 0:00:00;10;R1;Elong 3;1.60
+San Juan;CIR1;8/9/2014 0:00:00;9;R3;Elong 3;7.20
+San Juan;CIR1;8/9/2014 0:00:00;9;R2;Elong 3;2.00
+San Juan;CIR1;8/9/2014 0:00:00;3;R3;Elong 2;7.60
+San Juan;CIR1;8/9/2014 0:00:00;8;R3;Elong 3;9.80
+San Juan;CIR1;8/9/2014 0:00:00;3;R1;Elong 3;3.40
+San Juan;CIR1;8/9/2014 0:00:00;8;R1;Elong 3;4.60
+San Juan;CIR1;8/9/2014 0:00:00;1;R1;Elong 2;3.20
+San Juan;CIR1;8/9/2014 0:00:00;1;R2;Elong 2;6.40
+San Juan;CIR1;8/9/2014 0:00:00;1;R3;Elong 2;0.40
+San Juan;CIR1;8/9/2014 0:00:00;2;R1;Elong 2;1.20
+San Juan;CIR1;8/9/2014 0:00:00;2;R2;Elong 2;5.20
+San Juan;CIR1;8/9/2014 0:00:00;2;R3;Elong 2;4.10
+San Juan;CIR1;8/9/2014 0:00:00;9;R1;Elong 3;0.60
+San Juan;CIR2;8/9/2014 0:00:00;8;R1;Elong 3;41.50
+San Juan;CIR2;8/9/2014 0:00:00;5;R2;Elong 3;2.20
+San Juan;CIR2;8/9/2014 0:00:00;5;R3;Elong 3;5.80
+San Juan;CIR2;8/9/2014 0:00:00;6;R1;Elong 3;6.40
+San Juan;CIR2;8/9/2014 0:00:00;6;R2;Elong 3;0.60
+San Juan;CIR2;8/9/2014 0:00:00;6;R3;Elong 3;1.90
+San Juan;CIR2;8/9/2014 0:00:00;7;R1;Elong 3;3.70
+San Juan;CIR1;8/9/2014 0:00:00;3;R3;Elong 3;7.40
+San Juan;CIR2;8/9/2014 0:00:00;7;R3;Elong 3;1.90
+San Juan;CIR2;8/9/2014 0:00:00;4;R1;Elong 3;16.60
+San Juan;CIR2;8/9/2014 0:00:00;8;R2;Elong 3;4.60
+San Juan;CIR2;8/9/2014 0:00:00;8;R3;Elong 3;12.40
+San Juan;CIR2;8/9/2014 0:00:00;9;R1;Elong 3;6.50
+San Juan;CIR2;8/9/2014 0:00:00;9;R2;Elong 3;5.00
+San Juan;CIR2;8/9/2014 0:00:00;9;R3;Elong 3;6.20
+San Juan;CIR2;8/9/2014 0:00:00;10;R1;Elong 3;18.50
+San Juan;CIR2;8/9/2014 0:00:00;10;R2;Elong 3;4.80
+San Juan;CIR2;8/9/2014 0:00:00;7;R2;Elong 3;9.40
+San Juan;CIR2;8/9/2014 0:00:00;1;R2;Elong 3;4.60
+San Juan;CIR2;8/9/2014 0:00:00;10;R3;Elong 3;10.20
+San Juan;CIR1;8/9/2014 0:00:00;2;R3;Elong 3;11.10
+San Juan;CIR1;8/9/2014 0:00:00;2;R2;Elong 3;3.50
+San Juan;CIR1;8/9/2014 0:00:00;2;R1;Elong 3;6.80
+San Juan;CIR1;8/9/2014 0:00:00;1;R3;Elong 3;0.40
+San Juan;CIR1;8/9/2014 0:00:00;1;R2;Elong 3;9.80
+San Juan;CIR2;8/9/2014 0:00:00;7;R1;Elong 2;3.60
+San Juan;CIR2;8/9/2014 0:00:00;5;R1;Elong 3;13.00
+San Juan;CIR2;8/9/2014 0:00:00;1;R1;Elong 3;15.80
+San Juan;CIR2;8/9/2014 0:00:00;4;R3;Elong 3;2.10
+San Juan;CIR2;8/9/2014 0:00:00;1;R3;Elong 3;4.80
+San Juan;CIR2;8/9/2014 0:00:00;2;R1;Elong 3;14.40
+San Juan;CIR2;8/9/2014 0:00:00;2;R2;Elong 3;4.00
+San Juan;CIR2;8/9/2014 0:00:00;2;R3;Elong 3;2.40
+San Juan;CIR2;8/9/2014 0:00:00;3;R1;Elong 3;0.60
+San Juan;CIR2;8/9/2014 0:00:00;3;R2;Elong 3;6.40
+San Juan;CIR1;8/9/2014 0:00:00;3;R2;Elong 3;2.60
+San Juan;CIR1;8/9/2014 0:00:00;10;R1;Elong 1;1.90
+San Juan;CIR1;8/9/2014 0:00:00;9;R3;Elong 1;15.10
+San Juan;CIR1;8/9/2014 0:00:00;7;R1;Elong 1;4.60
+San Juan;CIR1;8/9/2014 0:00:00;7;R2;Elong 1;8.90
+San Juan;CIR1;8/9/2014 0:00:00;7;R3;Elong 1;5.50
+San Juan;CIR1;8/9/2014 0:00:00;8;R1;Elong 1;4.40
+San Juan;CIR1;8/9/2014 0:00:00;8;R2;Elong 1;16.40
+San Juan;CIR1;8/9/2014 0:00:00;8;R3;Elong 1;12.10
+San Juan;CIR2;8/9/2014 0:00:00;2;R3;Elong 1;13.50
+San Juan;CIR1;8/9/2014 0:00:00;9;R2;Elong 1;0.70
+San Juan;CIR1;8/9/2014 0:00:00;6;R1;Elong 1;6.90
+San Juan;CIR1;8/9/2014 0:00:00;10;R2;Elong 1;3.00
+San Juan;CIR2;8/9/2014 0:00:00;1;R1;Elong 1;7.60
+San Juan;CIR2;8/9/2014 0:00:00;1;R2;Elong 1;7.90
+San Juan;CIR2;8/9/2014 0:00:00;1;R3;Elong 1;25.00
+San Juan;CIR2;8/9/2014 0:00:00;2;R1;Elong 1;9.00
+San Juan;CIR2;8/9/2014 0:00:00;2;R2;Elong 1;12.10
+San Juan;CIR1;8/9/2014 0:00:00;9;R1;Elong 1;8.00
+San Juan;CIR1;8/9/2014 0:00:00;10;R3;Elong 1;1.60
+San Juan;CIR1;8/9/2014 0:00:00;2;R3;Elong 1;9.00
+San Juan;CIR1;8/9/2014 0:00:00;3;R1;Elong 1;12.10
+San Juan;CIR2;8/9/2014 0:00:00;7;R2;Elong 2;1.90
+San Juan;CIR1;8/9/2014 0:00:00;3;R2;Elong 1;9.80
+San Juan;CIR1;8/9/2014 0:00:00;3;R3;Elong 1;10.80
+San Juan;CIR1;8/9/2014 0:00:00;4;R1;Elong 1;3.20
+San Juan;CIR1;8/9/2014 0:00:00;6;R3;Elong 1;29.80
+San Juan;CIR1;8/9/2014 0:00:00;4;R3;Elong 1;9.80
+San Juan;CIR1;8/9/2014 0:00:00;6;R2;Elong 1;3.10
+San Juan;CIR1;8/9/2014 0:00:00;1;R1;Elong 1;2.30
+San Juan;CIR1;8/9/2014 0:00:00;2;R2;Elong 1;11.40
+San Juan;CIR1;8/9/2014 0:00:00;2;R1;Elong 1;12.60
+San Juan;CIR1;8/9/2014 0:00:00;1;R3;Elong 1;0.60
+San Juan;CIR1;8/9/2014 0:00:00;1;R2;Elong 1;14.60
+San Juan;CIR1;8/9/2014 0:00:00;5;R2;Elong 1;8.00
+San Juan;CIR1;8/9/2014 0:00:00;5;R3;Elong 1;7.00
+San Juan;CIR1;8/9/2014 0:00:00;4;R2;Elong 1;4.00
+San Juan;CIR2;8/9/2014 0:00:00;10;R2;Elong 1;3.00
+San Juan;CIR2;8/9/2014 0:00:00;9;R2;Elong 1;3.60
+San Juan;CIR2;8/9/2014 0:00:00;3;R1;Elong 1;2.40
+San Juan;CIR2;8/9/2014 0:00:00;9;R3;Elong 1;3.20
+San Juan;CIR2;8/9/2014 0:00:00;7;R3;Elong 2;2.00
+San Juan;CIR2;8/9/2014 0:00:00;8;R1;Elong 2;31.00
+San Juan;CIR2;8/9/2014 0:00:00;10;R2;Elong 2;2.80
+San Juan;CIR2;8/9/2014 0:00:00;10;R1;Elong 1;26.60
+San Juan;CIR2;8/9/2014 0:00:00;9;R3;Elong 2;8.40
+San Juan;CIR2;8/9/2014 0:00:00;9;R1;Elong 1;8.60
+San Juan;CIR2;8/9/2014 0:00:00;10;R3;Elong 1;1.20
+San Juan;CIR2;8/9/2014 0:00:00;9;R2;Elong 2;2.70
+San Juan;CIR2;8/9/2014 0:00:00;9;R1;Elong 2;6.00
+San Juan;CIR2;8/9/2014 0:00:00;8;R3;Elong 2;28.40
+San Juan;CIR2;8/9/2014 0:00:00;8;R2;Elong 2;3.00
+San Juan;CIR1;8/9/2014 0:00:00;5;R1;Elong 1;17.30
+San Juan;CIR2;8/9/2014 0:00:00;10;R1;Elong 2;4.40
+San Juan;CIR2;8/9/2014 0:00:00;5;R3;Elong 1;3.20
+San Juan;CIR2;8/9/2014 0:00:00;3;R2;Elong 1;5.10
+San Juan;CIR2;8/9/2014 0:00:00;3;R3;Elong 1;3.40
+San Juan;CIR2;8/9/2014 0:00:00;4;R1;Elong 1;32.00
+San Juan;CIR2;8/9/2014 0:00:00;4;R2;Elong 1;3.60
+San Juan;CIR2;8/9/2014 0:00:00;4;R3;Elong 1;8.40
+San Juan;CIR2;8/9/2014 0:00:00;10;R3;Elong 2;7.40
+San Juan;CIR2;8/9/2014 0:00:00;5;R2;Elong 1;1.80
+San Juan;CIR2;8/9/2014 0:00:00;8;R3;Elong 1;13.60
+San Juan;CIR2;8/9/2014 0:00:00;6;R1;Elong 1;8.70
+San Juan;CIR2;8/9/2014 0:00:00;6;R2;Elong 1;4.40
+San Juan;CIR2;8/9/2014 0:00:00;6;R3;Elong 1;3.90
+San Juan;CIR2;8/9/2014 0:00:00;7;R2;Elong 1;2.00
+San Juan;CIR2;8/9/2014 0:00:00;7;R3;Elong 1;2.10
+San Juan;CIR2;8/9/2014 0:00:00;8;R1;Elong 1;42.40
+San Juan;CIR2;8/9/2014 0:00:00;8;R2;Elong 1;3.00
+San Juan;CIR2;8/9/2014 0:00:00;5;R1;Elong 1;0.60
+San Juan;CSR2;15/9/2014 0:00:00;10;R2;Elong 1;10.40
+San Juan;CSR2;15/9/2014 0:00:00;10;R1;Elong 1;4.10
+San Juan;CSR2;15/9/2014 0:00:00;9;R3;Elong 1;7.00
+San Juan;CSR2;15/9/2014 0:00:00;9;R2;Elong 1;5.40
+San Juan;CSR2;15/9/2014 0:00:00;9;R1;Elong 1;6.80
+San Juan;CSR2;15/9/2014 0:00:00;8;R3;Elong 1;4.20
+San Juan;CSR2;15/9/2014 0:00:00;8;R2;Elong 1;11.20
+San Juan;CSR2;15/9/2014 0:00:00;8;R1;Elong 1;10.90
+San Juan;CSR2;15/9/2014 0:00:00;7;R3;Elong 1;3.00
+San Juan;CSR2;15/9/2014 0:00:00;7;R2;Elong 1;3.70
+San Juan;CSR1;15/9/2014 0:00:00;5;R3;Elong 2;2.40
+San Juan;CSR2;15/9/2014 0:00:00;6;R3;Elong 1;8.40
+San Juan;CSR2;15/9/2014 0:00:00;6;R3;Elong 3;1.60
+San Juan;CSR2;15/9/2014 0:00:00;6;R2;Elong 1;17.20
+San Juan;CSR2;15/9/2014 0:00:00;7;R1;Elong 1;3.20
+San Juan;CSR2;15/9/2014 0:00:00;6;R2;Elong 3;10.00
+San Juan;CSR1;15/9/2014 0:00:00;8;R2;Elong 1;0.90
+San Juan;CSR2;15/9/2014 0:00:00;6;R1;Elong 1;1.60
+San Juan;CSR2;15/9/2014 0:00:00;3;R1;Elong 3;3.20
+San Juan;CSR2;15/9/2014 0:00:00;3;R2;Elong 3;4.10
+San Juan;CSR2;15/9/2014 0:00:00;3;R3;Elong 3;4.10
+San Juan;CSR2;15/9/2014 0:00:00;2;R3;Elong 3;7.00
+San Juan;CSR2;15/9/2014 0:00:00;4;R1;Elong 3;4.20
+San Juan;CSR2;15/9/2014 0:00:00;4;R2;Elong 3;8.00
+San Juan;CSR2;15/9/2014 0:00:00;4;R3;Elong 3;5.20
+San Juan;CSR2;15/9/2014 0:00:00;5;R1;Elong 3;8.80
+San Juan;CSR2;15/9/2014 0:00:00;7;R2;Elong 3;2.40
+San Juan;CSR2;15/9/2014 0:00:00;6;R1;Elong 3;0.70
+San Juan;CSR1;15/9/2014 0:00:00;5;R2;Elong 2;1.90
+San Juan;CSR2;15/9/2014 0:00:00;7;R1;Elong 3;1.40
+San Juan;CSR2;15/9/2014 0:00:00;7;R3;Elong 3;1.80
+San Juan;CSR2;15/9/2014 0:00:00;8;R1;Elong 3;6.20
+San Juan;CSR2;15/9/2014 0:00:00;8;R2;Elong 3;6.00
+San Juan;CSR2;15/9/2014 0:00:00;8;R3;Elong 3;5.60
+San Juan;CSR2;15/9/2014 0:00:00;9;R1;Elong 3;7.60
+San Juan;CSR2;15/9/2014 0:00:00;9;R2;Elong 3;3.10
+San Juan;CSR2;15/9/2014 0:00:00;9;R3;Elong 3;1.60
+San Juan;CSR2;15/9/2014 0:00:00;10;R1;Elong 3;7.40
+San Juan;CSR2;15/9/2014 0:00:00;10;R2;Elong 3;2.40
+San Juan;CSR1;15/9/2014 0:00:00;5;R1;Elong 2;2.60
+San Juan;CSR2;15/9/2014 0:00:00;5;R2;Elong 3;10.90
+San Juan;CSR1;15/9/2014 0:00:00;4;R2;Elong 1;2.90
+San Juan;CSR1;15/9/2014 0:00:00;8;R1;Elong 1;0.70
+San Juan;CSR1;15/9/2014 0:00:00;7;R3;Elong 1;0.60
+San Juan;CSR1;15/9/2014 0:00:00;7;R2;Elong 1;6.70
+San Juan;CSR1;15/9/2014 0:00:00;7;R1;Elong 1;3.70
+San Juan;CSR1;15/9/2014 0:00:00;6;R3;Elong 1;9.10
+San Juan;CSR1;15/9/2014 0:00:00;6;R2;Elong 1;3.10
+San Juan;CSR1;15/9/2014 0:00:00;6;R1;Elong 1;17.40
+San Juan;CSR1;15/9/2014 0:00:00;5;R3;Elong 1;3.60
+San Juan;CSR1;15/9/2014 0:00:00;5;R2;Elong 1;2.30
+San Juan;CSR1;15/9/2014 0:00:00;9;R1;Elong 1;1.90
+San Juan;CSR1;15/9/2014 0:00:00;4;R3;Elong 1;2.60
+San Juan;CSR2;15/9/2014 0:00:00;2;R2;Elong 3;5.70
+San Juan;CSR1;15/9/2014 0:00:00;4;R1;Elong 1;1.90
+San Juan;CSR1;15/9/2014 0:00:00;3;R3;Elong 1;1.90
+San Juan;CSR1;15/9/2014 0:00:00;3;R2;Elong 1;8.00
+San Juan;CSR1;15/9/2014 0:00:00;3;R1;Elong 1;27.00
+San Juan;CSR1;15/9/2014 0:00:00;2;R3;Elong 1;10.80
+San Juan;CSR1;15/9/2014 0:00:00;2;R2;Elong 1;2.60
+San Juan;CSR1;15/9/2014 0:00:00;2;R1;Elong 1;5.60
+San Juan;CSR1;15/9/2014 0:00:00;1;R3;Elong 1;0.80
+San Juan;CSR1;15/9/2014 0:00:00;1;R2;Elong 1;13.20
+San Juan;CSR1;15/9/2014 0:00:00;1;R1;Elong 1;14.60
+San Juan;CSR1;15/9/2014 0:00:00;5;R1;Elong 1;5.00
+San Juan;CSR2;15/9/2014 0:00:00;1;R2;Elong 1;1.20
+San Juan;CSR2;15/9/2014 0:00:00;5;R2;Elong 1;16.00
+San Juan;CSR2;15/9/2014 0:00:00;5;R1;Elong 1;7.30
+San Juan;CSR2;15/9/2014 0:00:00;4;R3;Elong 1;7.60
+San Juan;CSR2;15/9/2014 0:00:00;4;R2;Elong 1;5.60
+San Juan;CSR2;15/9/2014 0:00:00;4;R1;Elong 1;2.70
+San Juan;CSR2;15/9/2014 0:00:00;3;R3;Elong 1;6.80
+San Juan;CSR2;15/9/2014 0:00:00;3;R2;Elong 1;12.40
+San Juan;CSR2;15/9/2014 0:00:00;3;R1;Elong 1;2.60
+San Juan;CSR2;15/9/2014 0:00:00;2;R3;Elong 1;6.80
+San Juan;CSR2;15/9/2014 0:00:00;2;R2;Elong 1;5.90
+San Juan;CSR1;15/9/2014 0:00:00;5;R1;Elong 3;2.80
+San Juan;CSR2;15/9/2014 0:00:00;1;R3;Elong 1;1.60
+San Juan;CSR1;15/9/2014 0:00:00;8;R3;Elong 1;3.50
+San Juan;CSR2;15/9/2014 0:00:00;1;R1;Elong 1;3.40
+San Juan;CSR1;15/9/2014 0:00:00;6;R1;Elong 2;12.90
+San Juan;CSR2;15/9/2014 0:00:00;10;R3;Elong 1;5.90
+San Juan;CSR1;15/9/2014 0:00:00;6;R2;Elong 2;3.50
+San Juan;CSR1;15/9/2014 0:00:00;10;R3;Elong 1;5.60
+San Juan;CSR1;15/9/2014 0:00:00;10;R2;Elong 1;6.10
+San Juan;CSR1;15/9/2014 0:00:00;10;R1;Elong 1;3.80
+San Juan;CSR1;15/9/2014 0:00:00;9;R3;Elong 1;10.30
+San Juan;CSR1;15/9/2014 0:00:00;9;R2;Elong 1;6.20
+San Juan;CSR2;15/9/2014 0:00:00;5;R3;Elong 1;8.00
+San Juan;CSR2;15/9/2014 0:00:00;2;R1;Elong 1;4.60
+San Juan;CSR1;15/9/2014 0:00:00;10;R1;Elong 2;0.70
+San Juan;CSR2;15/9/2014 0:00:00;3;R1;Elong 2;1.80
+San Juan;CSR2;15/9/2014 0:00:00;2;R3;Elong 2;1.70
+San Juan;CSR2;15/9/2014 0:00:00;2;R2;Elong 2;2.60
+San Juan;CSR2;15/9/2014 0:00:00;2;R1;Elong 2;8.40
+San Juan;CSR2;15/9/2014 0:00:00;1;R3;Elong 2;0.90
+San Juan;CSR2;15/9/2014 0:00:00;1;R2;Elong 2;0.90
+San Juan;CSR2;15/9/2014 0:00:00;1;R1;Elong 2;1.80
+San Juan;CSR2;15/9/2014 0:00:00;10;R3;Elong 2;11.60
+San Juan;CSR1;15/9/2014 0:00:00;6;R3;Elong 2;12.20
+San Juan;CSR1;15/9/2014 0:00:00;10;R2;Elong 2;2.80
+San Juan;CSR2;15/9/2014 0:00:00;4;R1;Elong 2;5.60
+San Juan;CSR1;15/9/2014 0:00:00;9;R3;Elong 2;13.60
+San Juan;CSR1;15/9/2014 0:00:00;9;R2;Elong 2;3.40
+San Juan;CSR1;15/9/2014 0:00:00;9;R1;Elong 2;8.60
+San Juan;CSR1;15/9/2014 0:00:00;8;R3;Elong 2;3.30
+San Juan;CSR1;15/9/2014 0:00:00;8;R2;Elong 2;1.60
+San Juan;CSR1;15/9/2014 0:00:00;8;R1;Elong 2;1.10
+San Juan;CSR1;15/9/2014 0:00:00;7;R3;Elong 2;1.80
+San Juan;CSR1;15/9/2014 0:00:00;7;R2;Elong 2;3.10
+San Juan;CSR1;15/9/2014 0:00:00;5;R3;Elong 3;1.70
+San Juan;CSR1;15/9/2014 0:00:00;10;R3;Elong 2;5.50
+San Juan;CSR2;15/9/2014 0:00:00;6;R3;Elong 2;0.70
+San Juan;CSR2;15/9/2014 0:00:00;10;R2;Elong 2;3.20
+San Juan;CSR2;15/9/2014 0:00:00;10;R1;Elong 2;4.90
+San Juan;CSR2;15/9/2014 0:00:00;9;R3;Elong 2;3.20
+San Juan;CSR2;15/9/2014 0:00:00;9;R2;Elong 2;2.00
+San Juan;CSR2;15/9/2014 0:00:00;9;R1;Elong 2;11.20
+San Juan;CSR2;15/9/2014 0:00:00;8;R3;Elong 2;3.80
+San Juan;CSR2;15/9/2014 0:00:00;8;R2;Elong 2;2.80
+San Juan;CSR2;15/9/2014 0:00:00;8;R1;Elong 2;7.40
+San Juan;CSR2;15/9/2014 0:00:00;7;R3;Elong 2;0.90
+San Juan;CSR2;15/9/2014 0:00:00;3;R2;Elong 2;3.20
+San Juan;CSR2;15/9/2014 0:00:00;7;R1;Elong 2;3.80
+San Juan;CSR2;15/9/2014 0:00:00;3;R3;Elong 2;11.20
+San Juan;CSR2;15/9/2014 0:00:00;6;R2;Elong 2;12.00
+San Juan;CSR2;15/9/2014 0:00:00;6;R1;Elong 2;1.90
+San Juan;CSR2;15/9/2014 0:00:00;5;R3;Elong 2;1.40
+San Juan;CSR2;15/9/2014 0:00:00;5;R3;Elong 2;2.90
+San Juan;CSR2;15/9/2014 0:00:00;5;R2;Elong 2;4.50
+San Juan;CSR2;15/9/2014 0:00:00;5;R1;Elong 2;11.50
+San Juan;CSR2;15/9/2014 0:00:00;4;R3;Elong 2;9.30
+San Juan;CSR2;15/9/2014 0:00:00;4;R2;Elong 2;8.40
+San Juan;CSR1;15/9/2014 0:00:00;1;R1;Elong 2;15.00
+San Juan;CSR2;15/9/2014 0:00:00;7;R2;Elong 2;2.60
+San Juan;CSR1;15/9/2014 0:00:00;3;R1;Elong 2;14.20
+San Juan;CSR1;15/9/2014 0:00:00;7;R1;Elong 2;1.40
+San Juan;CSR1;15/9/2014 0:00:00;8;R3;Elong 3;4.60
+San Juan;CSR1;15/9/2014 0:00:00;9;R1;Elong 3;7.80
+San Juan;CSR1;15/9/2014 0:00:00;9;R2;Elong 3;3.00
+San Juan;CSR1;15/9/2014 0:00:00;9;R3;Elong 3;3.50
+San Juan;CSR1;15/9/2014 0:00:00;10;R1;Elong 3;5.80
+San Juan;CSR1;15/9/2014 0:00:00;10;R2;Elong 3;1.60
+San Juan;CSR1;15/9/2014 0:00:00;10;R3;Elong 3;2.20
+San Juan;CSR1;15/9/2014 0:00:00;8;R1;Elong 3;4.60
+San Juan;CSR1;15/9/2014 0:00:00;2;R3;Elong 2;5.60
+San Juan;CSR1;15/9/2014 0:00:00;7;R3;Elong 3;3.60
+San Juan;CSR1;15/9/2014 0:00:00;3;R2;Elong 2;13.10
+San Juan;CSR1;15/9/2014 0:00:00;3;R3;Elong 2;0.50
+San Juan;CSR1;15/9/2014 0:00:00;4;R1;Elong 2;2.00
+San Juan;CSR1;15/9/2014 0:00:00;4;R2;Elong 2;1.80
+San Juan;CSR1;15/9/2014 0:00:00;4;R3;Elong 2;10.30
+San Juan;CSR2;15/9/2014 0:00:00;10;R3;Elong 3;3.40
+San Juan;CSR2;15/9/2014 0:00:00;1;R1;Elong 3;1.40
+San Juan;CSR2;15/9/2014 0:00:00;1;R2;Elong 3;5.80
+San Juan;CSR2;15/9/2014 0:00:00;1;R3;Elong 3;0.70
+San Juan;CSR1;15/9/2014 0:00:00;2;R2;Elong 2;2.00
+San Juan;CSR1;15/9/2014 0:00:00;3;R2;Elong 3;2.70
+San Juan;CSR1;15/9/2014 0:00:00;1;R2;Elong 2;4.60
+San Juan;CSR1;15/9/2014 0:00:00;1;R3;Elong 2;7.60
+San Juan;CSR1;15/9/2014 0:00:00;2;R1;Elong 2;1.30
+San Juan;CSR1;15/9/2014 0:00:00;1;R1;Elong 3;5.20
+San Juan;CSR1;15/9/2014 0:00:00;1;R2;Elong 3;1.80
+San Juan;CSR1;15/9/2014 0:00:00;1;R3;Elong 3;6.90
+San Juan;CSR1;15/9/2014 0:00:00;2;R1;Elong 3;0.90
+San Juan;CSR1;15/9/2014 0:00:00;2;R2;Elong 3;1.40
+San Juan;CSR1;15/9/2014 0:00:00;8;R2;Elong 3;1.10
+San Juan;CSR1;15/9/2014 0:00:00;3;R1;Elong 3;3.60
+San Juan;CSR2;15/9/2014 0:00:00;2;R1;Elong 3;3.10
+San Juan;CSR1;15/9/2014 0:00:00;3;R3;Elong 3;0.70
+San Juan;CSR1;15/9/2014 0:00:00;4;R1;Elong 3;2.40
+San Juan;CSR1;15/9/2014 0:00:00;4;R2;Elong 3;1.50
+San Juan;CSR1;15/9/2014 0:00:00;4;R3;Elong 3;1.70
+San Juan;CSR1;15/9/2014 0:00:00;5;R2;Elong 3;1.90
+San Juan;CSR1;15/9/2014 0:00:00;6;R1;Elong 3;3.10
+San Juan;CSR1;15/9/2014 0:00:00;6;R2;Elong 3;1.20
+San Juan;CSR1;15/9/2014 0:00:00;6;R3;Elong 3;4.80
+San Juan;CSR1;15/9/2014 0:00:00;7;R1;Elong 3;1.20
+San Juan;CSR1;15/9/2014 0:00:00;7;R2;Elong 3;3.20
+San Juan;CSR1;15/9/2014 0:00:00;2;R3;Elong 3;7.60
+San Juan;CIR1;17/9/2015 0:00:00;3;R3;Elong 1;2.50
+San Juan;CIR2;17/9/2015 0:00:00;5;R3;Elong 2;2.70
+San Juan;CIR2;17/9/2015 0:00:00;10;R3;Elong 2;1.20
+San Juan;CIR2;17/9/2015 0:00:00;1;R2;Elong 2;4.40
+San Juan;CIR2;17/9/2015 0:00:00;1;R3;Elong 2;7.00
+San Juan;CIR2;17/9/2015 0:00:00;2;R1;Elong 2;1.10
+San Juan;CIR2;17/9/2015 0:00:00;2;R2;Elong 2;2.40
+San Juan;CIR2;17/9/2015 0:00:00;2;R3;Elong 2;3.70
+San Juan;CIR2;17/9/2015 0:00:00;3;R1;Elong 2;3.60
+San Juan;CIR2;17/9/2015 0:00:00;3;R2;Elong 2;3.70
+San Juan;CIR2;17/9/2015 0:00:00;3;R3;Elong 2;2.00
+San Juan;CIR2;17/9/2015 0:00:00;4;R1;Elong 2;1.40
+San Juan;CIR2;17/9/2015 0:00:00;4;R2;Elong 2;0.40
+San Juan;CIR2;17/9/2015 0:00:00;4;R3;Elong 2;1.50
+San Juan;CIR2;17/9/2015 0:00:00;8;R1;Elong 2;5.60
+San Juan;CIR2;17/9/2015 0:00:00;5;R2;Elong 2;0.80
+San Juan;CIR1;17/9/2015 0:00:00;10;R3;Elong 2;0.30
+San Juan;CIR2;17/9/2015 0:00:00;6;R1;Elong 2;1.60
+San Juan;CIR2;17/9/2015 0:00:00;6;R2;Elong 2;0.60
+San Juan;CIR2;17/9/2015 0:00:00;6;R3;Elong 2;4.70
+San Juan;CIR2;17/9/2015 0:00:00;7;R1;Elong 2;3.70
+San Juan;CIR2;17/9/2015 0:00:00;7;R2;Elong 2;3.00
+San Juan;CIR2;17/9/2015 0:00:00;7;R3;Elong 2;0.40
+San Juan;CIR2;17/9/2015 0:00:00;8;R2;Elong 2;5.60
+San Juan;CIR2;17/9/2015 0:00:00;8;R3;Elong 2;3.40
+San Juan;CIR2;17/9/2015 0:00:00;9;R1;Elong 2;5.10
+San Juan;CIR2;17/9/2015 0:00:00;9;R2;Elong 2;2.10
+San Juan;CIR2;17/9/2015 0:00:00;9;R3;Elong 2;1.10
+San Juan;CIR2;17/9/2015 0:00:00;10;R1;Elong 2;2.40
+San Juan;CIR1;17/9/2015 0:00:00;1;R2;Elong 2;0.90
+San Juan;CIR2;17/9/2015 0:00:00;5;R1;Elong 2;2.60
+San Juan;CIR1;17/9/2015 0:00:00;6;R1;Elong 2;1.00
+San Juan;CIR1;17/9/2015 0:00:00;3;R1;Elong 1;0.60
+San Juan;CIR1;17/9/2015 0:00:00;1;R3;Elong 2;0.30
+San Juan;CIR1;17/9/2015 0:00:00;2;R1;Elong 2;1.80
+San Juan;CIR1;17/9/2015 0:00:00;2;R2;Elong 2;5.10
+San Juan;CIR1;17/9/2015 0:00:00;2;R3;Elong 2;3.60
+San Juan;CIR1;17/9/2015 0:00:00;3;R1;Elong 2;2.40
+San Juan;CIR1;17/9/2015 0:00:00;3;R2;Elong 2;0.40
+San Juan;CIR1;17/9/2015 0:00:00;3;R3;Elong 2;4.00
+San Juan;CIR1;17/9/2015 0:00:00;4;R1;Elong 2;2.30
+San Juan;CIR1;17/9/2015 0:00:00;4;R2;Elong 2;3.40
+San Juan;CIR1;17/9/2015 0:00:00;4;R3;Elong 2;0.70
+San Juan;CIR1;17/9/2015 0:00:00;5;R1;Elong 2;1.10
+San Juan;CIR2;17/9/2015 0:00:00;1;R1;Elong 2;2.40
+San Juan;CIR1;17/9/2015 0:00:00;5;R3;Elong 2;2.40
+San Juan;CIR1;17/9/2015 0:00:00;1;R1;Elong 3;1.90
+San Juan;CIR1;17/9/2015 0:00:00;6;R2;Elong 2;0.60
+San Juan;CIR1;17/9/2015 0:00:00;6;R3;Elong 2;3.40
+San Juan;CIR1;17/9/2015 0:00:00;7;R1;Elong 2;2.50
+San Juan;CIR1;17/9/2015 0:00:00;7;R2;Elong 2;2.50
+San Juan;CIR1;17/9/2015 0:00:00;7;R3;Elong 2;2.50
+San Juan;CIR1;17/9/2015 0:00:00;8;R1;Elong 2;8.40
+San Juan;CIR1;17/9/2015 0:00:00;8;R2;Elong 2;2.00
+San Juan;CIR1;17/9/2015 0:00:00;8;R3;Elong 2;4.80
+San Juan;CIR1;17/9/2015 0:00:00;9;R1;Elong 2;1.20
+San Juan;CIR1;17/9/2015 0:00:00;9;R2;Elong 2;1.60
+San Juan;CIR1;17/9/2015 0:00:00;9;R3;Elong 2;1.20
+San Juan;CIR1;17/9/2015 0:00:00;10;R1;Elong 2;2.50
+San Juan;CIR1;17/9/2015 0:00:00;10;R2;Elong 2;1.30
+San Juan;CIR1;17/9/2015 0:00:00;5;R2;Elong 2;2.10
+San Juan;CIR2;17/9/2015 0:00:00;5;R3;Elong 3;9.10
+San Juan;CIR2;17/9/2015 0:00:00;10;R2;Elong 2;1.80
+San Juan;CIR2;17/9/2015 0:00:00;1;R2;Elong 3;1.90
+San Juan;CIR2;17/9/2015 0:00:00;1;R3;Elong 3;9.40
+San Juan;CIR2;17/9/2015 0:00:00;2;R1;Elong 3;0.70
+San Juan;CIR2;17/9/2015 0:00:00;2;R2;Elong 3;0.30
+San Juan;CIR2;17/9/2015 0:00:00;2;R3;Elong 3;2.90
+San Juan;CIR2;17/9/2015 0:00:00;3;R1;Elong 3;1.60
+San Juan;CIR2;17/9/2015 0:00:00;3;R2;Elong 3;5.70
+San Juan;CIR2;17/9/2015 0:00:00;3;R3;Elong 3;1.10
+San Juan;CIR2;17/9/2015 0:00:00;4;R1;Elong 3;1.10
+San Juan;CIR2;17/9/2015 0:00:00;4;R2;Elong 3;0.80
+San Juan;CIR2;17/9/2015 0:00:00;4;R3;Elong 3;19.60
+San Juan;CIR2;17/9/2015 0:00:00;8;R1;Elong 3;3.10
+San Juan;CIR2;17/9/2015 0:00:00;5;R2;Elong 3;1.20
+San Juan;CIR1;17/9/2015 0:00:00;10;R3;Elong 3;0.30
+San Juan;CIR2;17/9/2015 0:00:00;6;R1;Elong 3;2.50
+San Juan;CIR2;17/9/2015 0:00:00;6;R2;Elong 3;3.40
+San Juan;CIR2;17/9/2015 0:00:00;6;R3;Elong 3;2.80
+San Juan;CIR2;17/9/2015 0:00:00;7;R1;Elong 3;4.00
+San Juan;CIR2;17/9/2015 0:00:00;7;R2;Elong 3;0.60
+San Juan;CIR2;17/9/2015 0:00:00;7;R3;Elong 3;2.50
+San Juan;CIR2;17/9/2015 0:00:00;8;R2;Elong 3;0.60
+San Juan;CIR2;17/9/2015 0:00:00;8;R3;Elong 3;1.60
+San Juan;CIR2;17/9/2015 0:00:00;9;R1;Elong 3;8.90
+San Juan;CIR2;17/9/2015 0:00:00;9;R2;Elong 3;2.70
+San Juan;CIR2;17/9/2015 0:00:00;9;R3;Elong 3;0.60
+San Juan;CIR2;17/9/2015 0:00:00;10;R1;Elong 3;8.70
+San Juan;CIR2;17/9/2015 0:00:00;10;R2;Elong 3;3.40
+San Juan;CIR2;17/9/2015 0:00:00;5;R1;Elong 3;0.80
+San Juan;CIR1;17/9/2015 0:00:00;6;R1;Elong 3;0.60
+San Juan;CIR1;17/9/2015 0:00:00;1;R2;Elong 3;5.20
+San Juan;CIR1;17/9/2015 0:00:00;1;R3;Elong 3;1.60
+San Juan;CIR1;17/9/2015 0:00:00;2;R1;Elong 3;2.70
+San Juan;CIR1;17/9/2015 0:00:00;2;R2;Elong 3;2.30
+San Juan;CIR1;17/9/2015 0:00:00;2;R3;Elong 3;1.80
+San Juan;CIR1;17/9/2015 0:00:00;3;R1;Elong 3;0.90
+San Juan;CIR1;17/9/2015 0:00:00;3;R2;Elong 3;1.90
+San Juan;CIR1;17/9/2015 0:00:00;3;R3;Elong 3;3.80
+San Juan;CIR1;17/9/2015 0:00:00;4;R1;Elong 3;0.90
+San Juan;CIR1;17/9/2015 0:00:00;4;R2;Elong 3;3.20
+San Juan;CIR1;17/9/2015 0:00:00;4;R3;Elong 3;3.50
+San Juan;CIR1;17/9/2015 0:00:00;5;R1;Elong 3;3.60
+San Juan;CIR2;17/9/2015 0:00:00;1;R1;Elong 3;1.90
+San Juan;CIR1;17/9/2015 0:00:00;5;R3;Elong 3;5.20
+San Juan;CIR1;17/9/2015 0:00:00;1;R1;Elong 2;2.10
+San Juan;CIR1;17/9/2015 0:00:00;6;R2;Elong 3;1.40
+San Juan;CIR1;17/9/2015 0:00:00;6;R3;Elong 3;2.60
+San Juan;CIR1;17/9/2015 0:00:00;7;R1;Elong 3;2.80
+San Juan;CIR1;17/9/2015 0:00:00;7;R2;Elong 3;6.40
+San Juan;CIR1;17/9/2015 0:00:00;7;R3;Elong 3;7.50
+San Juan;CIR1;17/9/2015 0:00:00;8;R1;Elong 3;2.40
+San Juan;CIR1;17/9/2015 0:00:00;8;R2;Elong 3;3.10
+San Juan;CIR1;17/9/2015 0:00:00;8;R3;Elong 3;2.90
+San Juan;CIR1;17/9/2015 0:00:00;9;R1;Elong 3;0.40
+San Juan;CIR1;17/9/2015 0:00:00;9;R2;Elong 3;5.90
+San Juan;CIR1;17/9/2015 0:00:00;9;R3;Elong 3;5.30
+San Juan;CIR1;17/9/2015 0:00:00;10;R1;Elong 3;2.80
+San Juan;CIR1;17/9/2015 0:00:00;10;R2;Elong 3;1.20
+San Juan;CIR1;17/9/2015 0:00:00;5;R2;Elong 3;0.90
+San Juan;CIR1;17/9/2015 0:00:00;1;R2;Elong 1;1.10
+San Juan;CIR1;17/9/2015 0:00:00;1;R1;Elong 1;2.40
+San Juan;CIR2;17/9/2015 0:00:00;1;R2;Elong 1;6.40
+San Juan;CIR2;17/9/2015 0:00:00;1;R3;Elong 1;5.60
+San Juan;CIR2;17/9/2015 0:00:00;2;R1;Elong 1;8.60
+San Juan;CIR2;17/9/2015 0:00:00;2;R2;Elong 1;1.40
+San Juan;CIR2;17/9/2015 0:00:00;2;R3;Elong 1;3.50
+San Juan;CIR2;17/9/2015 0:00:00;3;R1;Elong 1;1.40
+San Juan;CIR2;17/9/2015 0:00:00;3;R2;Elong 1;4.30
+San Juan;CIR2;17/9/2015 0:00:00;3;R3;Elong 1;2.30
+San Juan;CIR2;17/9/2015 0:00:00;4;R1;Elong 1;3.40
+San Juan;CIR2;17/9/2015 0:00:00;4;R2;Elong 1;1.10
+San Juan;CIR2;17/9/2015 0:00:00;4;R3;Elong 1;0.90
+San Juan;CIR2;17/9/2015 0:00:00;8;R2;Elong 1;6.80
+San Juan;CIR2;17/9/2015 0:00:00;5;R3;Elong 1;5.60
+San Juan;CIR2;17/9/2015 0:00:00;8;R1;Elong 1;1.20
+San Juan;CIR2;17/9/2015 0:00:00;6;R2;Elong 1;8.60
+San Juan;CIR2;17/9/2015 0:00:00;6;R3;Elong 1;8.60
+San Juan;CIR2;17/9/2015 0:00:00;7;R1;Elong 1;6.60
+San Juan;CIR2;17/9/2015 0:00:00;7;R2;Elong 1;2.40
+San Juan;CIR2;17/9/2015 0:00:00;7;R3;Elong 1;1.00
+San Juan;CIR2;17/9/2015 0:00:00;8;R3;Elong 1;3.60
+San Juan;CIR2;17/9/2015 0:00:00;9;R1;Elong 1;5.90
+San Juan;CIR2;17/9/2015 0:00:00;9;R2;Elong 1;2.00
+San Juan;CIR2;17/9/2015 0:00:00;9;R3;Elong 1;3.60
+San Juan;CIR2;17/9/2015 0:00:00;10;R1;Elong 1;11.60
+San Juan;CIR2;17/9/2015 0:00:00;10;R2;Elong 1;2.40
+San Juan;CIR2;17/9/2015 0:00:00;10;R3;Elong 1;7.30
+San Juan;CIR2;17/9/2015 0:00:00;5;R1;Elong 1;3.50
+San Juan;CIR1;17/9/2015 0:00:00;6;R3;Elong 1;2.60
+San Juan;CIR1;17/9/2015 0:00:00;1;R3;Elong 1;5.30
+San Juan;CIR1;17/9/2015 0:00:00;2;R1;Elong 1;4.00
+San Juan;CIR1;17/9/2015 0:00:00;2;R2;Elong 1;4.70
+San Juan;CIR1;17/9/2015 0:00:00;2;R3;Elong 1;4.60
+San Juan;CIR1;17/9/2015 0:00:00;3;R2;Elong 1;2.10
+San Juan;CIR2;17/9/2015 0:00:00;10;R3;Elong 3;1.10
+San Juan;CIR1;17/9/2015 0:00:00;4;R1;Elong 1;1.20
+San Juan;CIR1;17/9/2015 0:00:00;4;R2;Elong 1;3.80
+San Juan;CIR1;17/9/2015 0:00:00;4;R3;Elong 1;2.00
+San Juan;CIR1;17/9/2015 0:00:00;5;R1;Elong 1;0.60
+San Juan;CIR1;17/9/2015 0:00:00;5;R2;Elong 1;1.80
+San Juan;CIR1;17/9/2015 0:00:00;5;R3;Elong 1;0.60
+San Juan;CIR2;17/9/2015 0:00:00;1;R1;Elong 1;6.60
+San Juan;CIR1;17/9/2015 0:00:00;6;R2;Elong 1;1.20
+San Juan;CIR2;17/9/2015 0:00:00;6;R1;Elong 1;3.40
+San Juan;CIR1;17/9/2015 0:00:00;7;R1;Elong 1;11.00
+San Juan;CIR1;17/9/2015 0:00:00;7;R2;Elong 1;4.60
+San Juan;CIR1;17/9/2015 0:00:00;7;R3;Elong 1;1.60
+San Juan;CIR1;17/9/2015 0:00:00;8;R1;Elong 1;3.50
+San Juan;CIR1;17/9/2015 0:00:00;8;R2;Elong 1;9.60
+San Juan;CIR1;17/9/2015 0:00:00;8;R3;Elong 1;4.50
+San Juan;CIR1;17/9/2015 0:00:00;9;R1;Elong 1;2.90
+San Juan;CIR1;17/9/2015 0:00:00;9;R2;Elong 1;2.00
+San Juan;CIR1;17/9/2015 0:00:00;9;R3;Elong 1;3.60
+San Juan;CIR1;17/9/2015 0:00:00;10;R1;Elong 1;1.30
+San Juan;CIR1;17/9/2015 0:00:00;10;R2;Elong 1;0.40
+San Juan;CIR1;17/9/2015 0:00:00;10;R3;Elong 1;0.50
+San Juan;CIR1;17/9/2015 0:00:00;6;R1;Elong 1;2.20
+San Juan;CIR2;17/9/2015 0:00:00;5;R2;Elong 1;1.70
+San Juan;CSR1;25/9/2015 0:00:00;2;R3;Elong 1;1.10
+San Juan;CSR2;25/9/2015 0:00:00;8;R3;Elong 3;2.30
+San Juan;CSR2;25/9/2015 0:00:00;9;R1;Elong 3;2.60
+San Juan;CSR2;25/9/2015 0:00:00;9;R2;Elong 3;7.10
+San Juan;CSR2;25/9/2015 0:00:00;9;R3;Elong 3;0.80
+San Juan;CSR2;25/9/2015 0:00:00;10;R1;Elong 3;1.00
+San Juan;CSR2;25/9/2015 0:00:00;10;R2;Elong 3;0.60
+San Juan;CSR1;25/9/2015 0:00:00;1;R2;Elong 1;5.00
+San Juan;CSR1;25/9/2015 0:00:00;1;R3;Elong 1;24.20
+San Juan;CSR1;25/9/2015 0:00:00;6;R1;Elong 1;5.40
+San Juan;CSR1;25/9/2015 0:00:00;2;R2;Elong 1;5.00
+San Juan;CSR2;25/9/2015 0:00:00;7;R3;Elong 3;2.50
+San Juan;CSR1;25/9/2015 0:00:00;3;R1;Elong 1;10.30
+San Juan;CSR1;25/9/2015 0:00:00;3;R2;Elong 1;12.40
+San Juan;CSR1;25/9/2015 0:00:00;3;R3;Elong 1;3.40
+San Juan;CSR1;25/9/2015 0:00:00;4;R1;Elong 1;4.10
+San Juan;CSR1;25/9/2015 0:00:00;4;R2;Elong 1;7.60
+San Juan;CSR1;25/9/2015 0:00:00;4;R3;Elong 1;8.60
+San Juan;CSR1;25/9/2015 0:00:00;5;R1;Elong 1;3.20
+San Juan;CSR1;25/9/2015 0:00:00;5;R2;Elong 1;5.40
+San Juan;CSR1;25/9/2015 0:00:00;2;R1;Elong 1;1.60
+San Juan;CSR2;25/9/2015 0:00:00;4;R3;Elong 3;1.70
+San Juan;CSR2;25/9/2015 0:00:00;1;R1;Elong 3;3.00
+San Juan;CSR2;25/9/2015 0:00:00;1;R2;Elong 3;2.50
+San Juan;CSR2;25/9/2015 0:00:00;1;R3;Elong 3;3.10
+San Juan;CSR2;25/9/2015 0:00:00;2;R1;Elong 3;2.00
+San Juan;CSR2;25/9/2015 0:00:00;2;R2;Elong 3;2.50
+San Juan;CSR2;25/9/2015 0:00:00;2;R3;Elong 3;0.50
+San Juan;CSR2;25/9/2015 0:00:00;3;R1;Elong 3;1.90
+San Juan;CSR2;25/9/2015 0:00:00;3;R2;Elong 3;4.90
+San Juan;CSR2;25/9/2015 0:00:00;3;R3;Elong 3;2.80
+San Juan;CSR2;25/9/2015 0:00:00;8;R2;Elong 3;2.60
+San Juan;CSR2;25/9/2015 0:00:00;4;R2;Elong 3;2.50
+San Juan;CSR2;25/9/2015 0:00:00;8;R1;Elong 3;6.50
+San Juan;CSR2;25/9/2015 0:00:00;5;R1;Elong 3;3.40
+San Juan;CSR2;25/9/2015 0:00:00;5;R2;Elong 3;1.60
+San Juan;CSR2;25/9/2015 0:00:00;5;R3;Elong 3;0.50
+San Juan;CSR2;25/9/2015 0:00:00;6;R1;Elong 3;4.10
+San Juan;CSR2;25/9/2015 0:00:00;6;R2;Elong 3;2.80
+San Juan;CSR2;25/9/2015 0:00:00;6;R3;Elong 3;14.20
+San Juan;CSR2;25/9/2015 0:00:00;7;R1;Elong 3;4.60
+San Juan;CSR2;25/9/2015 0:00:00;7;R2;Elong 3;1.80
+San Juan;CSR1;25/9/2015 0:00:00;6;R2;Elong 1;3.40
+San Juan;CSR2;25/9/2015 0:00:00;4;R1;Elong 3;2.50
+San Juan;CSR2;25/9/2015 0:00:00;7;R2;Elong 1;3.40
+San Juan;CSR2;25/9/2015 0:00:00;4;R2;Elong 1;5.50
+San Juan;CSR2;25/9/2015 0:00:00;4;R3;Elong 1;0.40
+San Juan;CSR2;25/9/2015 0:00:00;5;R1;Elong 1;4.00
+San Juan;CSR1;25/9/2015 0:00:00;10;R3;Elong 3;3.30
+San Juan;CSR2;25/9/2015 0:00:00;5;R2;Elong 1;1.10
+San Juan;CSR2;25/9/2015 0:00:00;5;R3;Elong 1;2.60
+San Juan;CSR2;25/9/2015 0:00:00;6;R1;Elong 1;1.90
+San Juan;CSR2;25/9/2015 0:00:00;6;R2;Elong 1;13.20
+San Juan;CSR1;25/9/2015 0:00:00;5;R3;Elong 1;10.10
+San Juan;CSR2;25/9/2015 0:00:00;7;R1;Elong 1;4.40
+San Juan;CSR2;25/9/2015 0:00:00;3;R2;Elong 1;10.90
+San Juan;CSR2;25/9/2015 0:00:00;7;R3;Elong 1;4.20
+San Juan;CSR2;25/9/2015 0:00:00;8;R1;Elong 1;6.10
+San Juan;CSR2;25/9/2015 0:00:00;8;R2;Elong 1;2.10
+San Juan;CSR2;25/9/2015 0:00:00;8;R3;Elong 1;3.80
+San Juan;CSR2;25/9/2015 0:00:00;9;R1;Elong 1;5.80
+San Juan;CSR2;25/9/2015 0:00:00;9;R2;Elong 1;2.00
+San Juan;CSR2;25/9/2015 0:00:00;10;R1;Elong 1;1.60
+San Juan;CSR2;25/9/2015 0:00:00;10;R3;Elong 3;2.20
+San Juan;CSR2;25/9/2015 0:00:00;10;R2;Elong 1;1.60
+San Juan;CSR2;25/9/2015 0:00:00;6;R3;Elong 1;14.00
+San Juan;CSR1;25/9/2015 0:00:00;10;R2;Elong 1;1.70
+San Juan;CSR1;25/9/2015 0:00:00;6;R3;Elong 1;7.50
+San Juan;CSR1;25/9/2015 0:00:00;7;R1;Elong 1;5.00
+San Juan;CSR1;25/9/2015 0:00:00;7;R2;Elong 1;6.40
+San Juan;CSR1;25/9/2015 0:00:00;7;R3;Elong 1;4.20
+San Juan;CSR1;25/9/2015 0:00:00;8;R1;Elong 1;6.20
+San Juan;CSR1;25/9/2015 0:00:00;8;R2;Elong 1;2.00
+San Juan;CSR1;25/9/2015 0:00:00;8;R3;Elong 1;0.60
+San Juan;CSR1;25/9/2015 0:00:00;9;R1;Elong 1;2.60
+San Juan;CSR1;25/9/2015 0:00:00;9;R2;Elong 1;3.40
+San Juan;CSR2;25/9/2015 0:00:00;4;R1;Elong 1;0.40
+San Juan;CSR1;25/9/2015 0:00:00;10;R1;Elong 1;5.60
+San Juan;CSR2;25/9/2015 0:00:00;3;R3;Elong 1;0.60
+San Juan;CSR1;25/9/2015 0:00:00;10;R3;Elong 1;3.40
+San Juan;CSR2;25/9/2015 0:00:00;1;R1;Elong 1;2.00
+San Juan;CSR2;25/9/2015 0:00:00;1;R2;Elong 1;4.80
+San Juan;CSR2;25/9/2015 0:00:00;1;R3;Elong 1;4.40
+San Juan;CSR2;25/9/2015 0:00:00;2;R1;Elong 1;0.50
+San Juan;CSR2;25/9/2015 0:00:00;2;R2;Elong 1;0.40
+San Juan;CSR2;25/9/2015 0:00:00;2;R3;Elong 1;0.40
+San Juan;CSR2;25/9/2015 0:00:00;3;R1;Elong 1;3.60
+San Juan;CSR2;25/9/2015 0:00:00;10;R3;Elong 1;1.10
+San Juan;CSR1;25/9/2015 0:00:00;9;R3;Elong 1;16.30
+San Juan;CSR2;25/9/2015 0:00:00;3;R1;Elong 2;3.00
+San Juan;CSR1;25/9/2015 0:00:00;9;R3;Elong 2;2.80
+San Juan;CSR1;25/9/2015 0:00:00;10;R1;Elong 2;3.60
+San Juan;CSR1;25/9/2015 0:00:00;10;R2;Elong 2;3.30
+San Juan;CSR1;25/9/2015 0:00:00;10;R3;Elong 2;2.30
+San Juan;CSR2;25/9/2015 0:00:00;1;R1;Elong 2;1.40
+San Juan;CSR2;25/9/2015 0:00:00;1;R2;Elong 2;2.10
+San Juan;CSR2;25/9/2015 0:00:00;1;R3;Elong 2;3.50
+San Juan;CSR2;25/9/2015 0:00:00;2;R1;Elong 2;1.10
+San Juan;CSR1;25/9/2015 0:00:00;1;R2;Elong 3;2.80
+San Juan;CSR2;25/9/2015 0:00:00;2;R3;Elong 2;2.10
+San Juan;CSR1;25/9/2015 0:00:00;8;R3;Elong 2;4.80
+San Juan;CSR2;25/9/2015 0:00:00;3;R2;Elong 2;4.80
+San Juan;CSR2;25/9/2015 0:00:00;3;R3;Elong 2;3.70
+San Juan;CSR2;25/9/2015 0:00:00;4;R1;Elong 2;0.20
+San Juan;CSR2;25/9/2015 0:00:00;4;R2;Elong 2;0.90
+San Juan;CSR2;25/9/2015 0:00:00;4;R3;Elong 2;0.60
+San Juan;CSR2;25/9/2015 0:00:00;5;R1;Elong 2;5.60
+San Juan;CSR2;25/9/2015 0:00:00;5;R2;Elong 2;3.20
+San Juan;CSR2;25/9/2015 0:00:00;5;R3;Elong 2;1.90
+San Juan;CSR2;25/9/2015 0:00:00;6;R1;Elong 2;1.60
+San Juan;CSR2;25/9/2015 0:00:00;2;R2;Elong 2;1.40
+San Juan;CSR1;25/9/2015 0:00:00;5;R3;Elong 2;11.30
+San Juan;CSR1;25/9/2015 0:00:00;2;R1;Elong 2;1.40
+San Juan;CSR1;25/9/2015 0:00:00;2;R2;Elong 2;4.20
+San Juan;CSR1;25/9/2015 0:00:00;2;R3;Elong 2;3.20
+San Juan;CSR1;25/9/2015 0:00:00;3;R1;Elong 2;2.30
+San Juan;CSR1;25/9/2015 0:00:00;3;R2;Elong 2;4.20
+San Juan;CSR1;25/9/2015 0:00:00;3;R3;Elong 2;2.70
+San Juan;CSR1;25/9/2015 0:00:00;4;R1;Elong 2;6.60
+San Juan;CSR1;25/9/2015 0:00:00;4;R2;Elong 2;3.40
+San Juan;CSR1;25/9/2015 0:00:00;4;R3;Elong 2;4.60
+San Juan;CSR1;25/9/2015 0:00:00;9;R2;Elong 2;2.80
+San Juan;CSR1;25/9/2015 0:00:00;5;R2;Elong 2;3.60
+San Juan;CSR1;25/9/2015 0:00:00;9;R1;Elong 2;2.50
+San Juan;CSR1;25/9/2015 0:00:00;6;R1;Elong 2;5.50
+San Juan;CSR1;25/9/2015 0:00:00;6;R2;Elong 2;2.10
+San Juan;CSR1;25/9/2015 0:00:00;6;R3;Elong 2;7.00
+San Juan;CSR1;25/9/2015 0:00:00;7;R1;Elong 2;2.80
+San Juan;CSR1;25/9/2015 0:00:00;7;R2;Elong 2;1.20
+San Juan;CSR1;25/9/2015 0:00:00;7;R3;Elong 2;2.00
+San Juan;CSR1;25/9/2015 0:00:00;8;R1;Elong 2;1.90
+San Juan;CSR1;25/9/2015 0:00:00;8;R2;Elong 2;3.10
+San Juan;CSR2;25/9/2015 0:00:00;7;R1;Elong 2;1.60
+San Juan;CSR1;25/9/2015 0:00:00;5;R1;Elong 2;3.30
+San Juan;CSR1;25/9/2015 0:00:00;7;R1;Elong 3;1.50
+San Juan;CSR2;25/9/2015 0:00:00;6;R2;Elong 2;8.70
+San Juan;CSR1;25/9/2015 0:00:00;3;R3;Elong 3;4.00
+San Juan;CSR1;25/9/2015 0:00:00;4;R1;Elong 3;2.40
+San Juan;CSR1;25/9/2015 0:00:00;4;R2;Elong 3;5.40
+San Juan;CSR1;25/9/2015 0:00:00;4;R3;Elong 3;2.20
+San Juan;CSR1;25/9/2015 0:00:00;5;R1;Elong 3;1.10
+San Juan;CSR1;25/9/2015 0:00:00;5;R2;Elong 3;0.90
+San Juan;CSR1;25/9/2015 0:00:00;5;R3;Elong 3;2.90
+San Juan;CSR1;25/9/2015 0:00:00;6;R1;Elong 3;6.10
+San Juan;CSR1;25/9/2015 0:00:00;3;R1;Elong 3;1.70
+San Juan;CSR1;25/9/2015 0:00:00;6;R3;Elong 3;1.90
+San Juan;CSR1;25/9/2015 0:00:00;2;R3;Elong 3;4.90
+San Juan;CSR1;25/9/2015 0:00:00;7;R2;Elong 3;0.40
+San Juan;CSR1;25/9/2015 0:00:00;7;R3;Elong 3;3.30
+San Juan;CSR1;25/9/2015 0:00:00;8;R1;Elong 3;11.60
+San Juan;CSR1;25/9/2015 0:00:00;8;R2;Elong 3;4.70
+San Juan;CSR1;25/9/2015 0:00:00;8;R3;Elong 3;1.20
+San Juan;CSR1;25/9/2015 0:00:00;9;R1;Elong 3;6.10
+San Juan;CSR1;25/9/2015 0:00:00;9;R2;Elong 3;3.90
+San Juan;CSR1;25/9/2015 0:00:00;9;R3;Elong 3;4.60
+San Juan;CSR1;25/9/2015 0:00:00;10;R1;Elong 3;0.40
+San Juan;CSR1;25/9/2015 0:00:00;6;R2;Elong 3;3.00
+San Juan;CSR2;25/9/2015 0:00:00;10;R2;Elong 2;2.70
+San Juan;CSR1;25/9/2015 0:00:00;10;R2;Elong 3;4.60
+San Juan;CSR2;25/9/2015 0:00:00;7;R2;Elong 2;2.00
+San Juan;CSR2;25/9/2015 0:00:00;7;R3;Elong 2;4.00
+San Juan;CSR2;25/9/2015 0:00:00;8;R1;Elong 2;6.20
+San Juan;CSR2;25/9/2015 0:00:00;8;R2;Elong 2;0.60
+San Juan;CSR2;25/9/2015 0:00:00;8;R3;Elong 2;2.50
+San Juan;CSR2;25/9/2015 0:00:00;9;R1;Elong 2;3.00
+San Juan;CSR2;25/9/2015 0:00:00;9;R2;Elong 2;3.20
+San Juan;CSR2;25/9/2015 0:00:00;9;R3;Elong 2;1.00
+San Juan;CSR1;25/9/2015 0:00:00;3;R2;Elong 3;4.00
+San Juan;CSR2;25/9/2015 0:00:00;10;R1;Elong 2;1.70
+San Juan;CSR2;25/9/2015 0:00:00;6;R3;Elong 2;11.30
+San Juan;CSR1;25/9/2015 0:00:00;1;R1;Elong 1;7.00
+San Juan;CSR1;25/9/2015 0:00:00;1;R2;Elong 2;3.10
+San Juan;CSR1;25/9/2015 0:00:00;1;R1;Elong 2;13.20
+San Juan;CSR1;25/9/2015 0:00:00;1;R3;Elong 2;7.60
+San Juan;CSR1;25/9/2015 0:00:00;1;R1;Elong 3;18.10
+San Juan;CSR2;25/9/2015 0:00:00;10;R3;Elong 2;0.60
+San Juan;CSR1;25/9/2015 0:00:00;1;R3;Elong 3;17.50
+San Juan;CSR1;25/9/2015 0:00:00;2;R1;Elong 3;3.60
+San Juan;CSR1;25/9/2015 0:00:00;2;R2;Elong 3;1.90
+San Juan;CSR2;25/9/2015 0:00:00;9;R3;Elong 2;1.30
